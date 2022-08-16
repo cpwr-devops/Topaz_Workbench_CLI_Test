@@ -1,0 +1,29 @@
+Signature-Version: 1.0
+Created-By: 11.0.7 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: zttZNDcbPTbGdkFTZAUeeCisiZLIXLS9AIESokesUW0=
+SHA-256-Digest-Manifest-Main-Attributes: VY78hpPLQQcQWsSBC6hJVVQI+2YQxvr
+ V/A0xv/y73/0=
+
+Name: p2.inf
+SHA-256-Digest: iBGpfYwzBZYOBCbI+B1l7TnqTyhjBO7zHVFOCnlENV0=
+
+Name: root/data/.com.compuware.fileaid.ex/logs/readme.txt
+SHA-256-Digest: UPrSG1hBPVHOit1IeslcFwCoRhYRwRFqW6JtvFgqXns=
+
+Name: root/data/.com.compuware.fileaid.ex/cfg/security/faexclient.trusts
+ tore
+SHA-256-Digest: Gf3aiTK+rkUS4I2qbJbuMcptKEkOonjgwOSxQt83WR8=
+
+Name: root/data/.com.compuware.fileaid.ex/cfg/clientSecurity.properties
+SHA-256-Digest: 908/9lfJPhW2HVQF6b5Y+AY9aVtOYxClWKPQArzmIvk=
+
+Name: root/data/.com.compuware.fileaid.ex/cfg/security/faexclient.keysto
+ re
+SHA-256-Digest: vsoOCcnvbcxKi1QE4zE27o3hDdh00B7vlb99xCBomtA=
+
+Name: feature.xml
+SHA-256-Digest: TBnyJAO6PnJ0hzjqbgnfzlKBQnqED8KRbFlwP6ObdkQ=
+
+Name: feature.properties
+SHA-256-Digest: glYeI2eKMPmrQUk9KKq4Uy1CweaYA0+2wNQe7nmDhIU=
+
