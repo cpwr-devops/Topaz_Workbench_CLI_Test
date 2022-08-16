@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.ispw.cli.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1525_40"
+      provider-name="%providerName"
+      plugin="com.compuware.ispw.cli">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="%copyrightURL">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="com.compuware.frameworks.hostservices.mainframe.communication.feature" version="19.4.1" match="greaterOrEqual"/>
+      <import plugin="ch.qos.logback.classic"/>
+      <import plugin="ch.qos.logback.core"/>
+      <import plugin="com.compuware.frameworks.logback.ext"/>
+      <import plugin="com.compuware.frameworks.logging.configuration"/>
+      <import plugin="org.apache.commons.io"/>
+      <import plugin="org.apache.felix.gogo.runtime"/>
+      <import plugin="org.eclipse.core.contenttype"/>
+      <import plugin="org.eclipse.core.jobs"/>
+      <import plugin="org.eclipse.core.net"/>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.equinox.app"/>
+      <import plugin="org.eclipse.equinox.common"/>
+      <import plugin="org.eclipse.equinox.preferences"/>
+      <import plugin="org.eclipse.equinox.registry"/>
+      <import plugin="org.eclipse.equinox.security"/>
+      <import plugin="org.eclipse.osgi"/>
+      <import plugin="javax.xml"/>
+      <import plugin="org.eclipse.equinox.ds"/>
+      <import plugin="org.apache.commons.lang3"/>
+      <import plugin="com.compuware.frameworks.hostservices.client.extended.jes.api"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.core.net.linux.x86"
+         os="linux"
+         ws="gtk"
+         arch="x86"
+         download-size="37"
+         install-size="95"
+         version="1.2.100.v20180515-0858"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.core.net.linux.x86_64"
+         os="linux"
+         ws="gtk"
+         arch="x86_64"
+         download-size="38"
+         install-size="100"
+         version="1.2.100.v20180515-0858"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.core.net.win32.x86"
+         os="win32"
+         ws="win32"
+         arch="x86"
+         download-size="30"
+         install-size="55"
+         version="1.1.100.v20180515-0858"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.core.net.win32.x86_64"
+         os="win32"
+         ws="win32"
+         arch="x86_64"
+         download-size="29"
+         install-size="54"
+         version="1.1.100.v20180515-0858"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.security.win32.x86"
+         os="win32"
+         ws="win32"
+         arch="x86"
+         download-size="23"
+         install-size="47"
+         version="1.1.0.v20171221-2204"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.security.win32.x86_64"
+         os="win32"
+         ws="win32"
+         arch="x86_64"
+         download-size="35"
+         install-size="65"
+         version="1.1.0.v20171221-2204"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.ispw.cli"
+         download-size="410"
+         install-size="627"
+         version="20.12.1.v20220810-1525_40"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.commons.lang3"
+         download-size="468"
+         install-size="1004"
+         version="3.5.0"
+         unpack="false"/>
+
+</feature>

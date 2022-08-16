@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+
+Name: p2.inf
+SHA-256-Digest: RfSoAybrXaTn5vSivdlg3ieTdZx4q6oYy7PWAWW20/o=
+
+Name: root/data/logs/readme.txt
+SHA-256-Digest: XuPKvFN3P+TGzqbsAY4/V6G9U/2ytxGuf58TaQn2qMQ=
+
+Name: feature.xml
+SHA-256-Digest: 7u5YGSC36gZu+zWLP8RekFzKEMZqZTzi8rpx7lT6opY=
+
+Name: license_compuware.html
+SHA-256-Digest: WzcopoMZehfbsFAt82IsG4yaLMySO5L6u1GnL1TFOKM=
+
+Name: feature.properties
+SHA-256-Digest: iKnPG0y4ObjPfq2UaoH5J3NuZSdpJnUbfRZvcvC9K90=
+
+Name: license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: root/data/configuration/logback.xml
+SHA-256-Digest: 8M+xigGI2R4ozFYt4lmc4J1KxlLE4tN7eEMOQ3o3UGE=
+

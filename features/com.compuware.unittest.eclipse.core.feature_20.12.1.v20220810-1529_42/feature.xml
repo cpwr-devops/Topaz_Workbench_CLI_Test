@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.unittest.eclipse.core.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1529_42"
+      provider-name="%providerName"
+      plugin="com.compuware.topaz.branding.development">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="com.compuware.frameworks.hostservices.core.feature" version="20.1.1" match="greaterOrEqual"/>
+      <import feature="com.compuware.frameworks.hostservices.mainframe.communication.feature" version="20.1.1" match="greaterOrEqual"/>
+      <import feature="com.compuware.frameworks.hostservices.client.feature" version="20.1.1" match="greaterOrEqual"/>
+      <import feature="com.compuware.unittest.eclipse.emf.feature" version="20.1.1" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.compuware.unittest.eclipse.edit"
+         download-size="277"
+         install-size="619"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.eclipse.model"
+         download-size="976"
+         install-size="2521"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.eclipse.resultchecker"
+         download-size="81"
+         install-size="176"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.eclipse.templates"
+         download-size="61"
+         install-size="140"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.eclipse.builderparser"
+         download-size="276"
+         install-size="629"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.eclipse.reportgenerator"
+         download-size="30"
+         install-size="51"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.eclipse.api"
+         download-size="49"
+         install-size="94"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.eclipse.common"
+         download-size="558"
+         install-size="1205"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.eclipse.hostservices"
+         download-size="76"
+         install-size="162"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.mainframe.commands"
+         download-size="29"
+         install-size="48"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.totaltest.common"
+         download-size="156"
+         install-size="355"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.totaltest.common.hci.api"
+         download-size="73"
+         install-size="135"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.eclipse.common.sonarlint"
+         download-size="28"
+         install-size="43"
+         version="20.12.1.v20220810-1529_42"
+         fragment="true"
+         unpack="false"/>
+
+</feature>

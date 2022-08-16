@@ -1,0 +1,27 @@
+Signature-Version: 1.0
+Created-By: 11.0.7 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: hiEclj9s9pFbZ6CoDvO8QrEBda+ZHcuD2HVUEDOCR6I=
+SHA-256-Digest-Manifest-Main-Attributes: VY78hpPLQQcQWsSBC6hJVVQI+2YQxvr
+ V/A0xv/y73/0=
+
+Name: p2.inf
+SHA-256-Digest: KDXzoOBb1xKbAjtKeFp+G4KhJndC6mHWeg04fveYdf0=
+
+Name: root/data/logs/readme.txt
+SHA-256-Digest: jVfEIiCB8+ZlxfpBiutX9BkgJ7RNJACIJh7dGlPDJq0=
+
+Name: feature.xml
+SHA-256-Digest: vKTyPcf3MGllTT8bavjYAKJHpWz73duUOW/BMtUx27M=
+
+Name: license_compuware.html
+SHA-256-Digest: n1/Yf9Nf2WybT+2cuVVr2NvnEj4vQF5bMQaN6AjPtQE=
+
+Name: feature.properties
+SHA-256-Digest: W0hNriLMKkP7F6n0wuN9893C2Vu/bxWYJxuM/dsza80=
+
+Name: license_eclipse.html
+SHA-256-Digest: e35mvP/S6dKo4MEdA93CKl6FtZZtV+pGoy5vcbASOHw=
+
+Name: root/data/configuration/logback.xml
+SHA-256-Digest: NnliPt74ZXeg8jKuS2P6CAg4cHXGj1qfPXbhU4GH2NA=
+

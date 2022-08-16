@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.ted.cli.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1523_39"
+      provider-name="%providerName">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="%copyrightURL">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <includes
+         id="com.compuware.fileaid.ex.cli.feature"
+         version="20.12.1.v20220810-1438_40"/>
+
+   <plugin
+         id="com.compuware.ted.cli"
+         download-size="71"
+         install-size="133"
+         version="20.12.1.v20220810-1523_39"
+         unpack="false"/>
+
+</feature>

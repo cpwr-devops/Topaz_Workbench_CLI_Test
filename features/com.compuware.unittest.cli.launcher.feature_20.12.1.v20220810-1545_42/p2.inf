@@ -1,0 +1,5 @@
+update.id = com.compuware.unittest.cli.launcher.feature.feature.group
+update.range = [19.1.0, $version$)
+update.severity = 0
+instructions.configure=\
+	org.eclipse.equinox.p2.touchpoint.eclipse.setProgramProperty(propName:osgi.bundles.defaultStartLevel, propValue:4);

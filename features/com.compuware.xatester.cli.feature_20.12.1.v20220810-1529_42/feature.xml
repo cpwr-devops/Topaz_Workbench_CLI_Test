@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.xatester.cli.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1529_42"
+      provider-name="%providerName">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import plugin="com.compuware.xatester.xaunit" version="20.1.1" match="greaterOrEqual"/>
+      <import plugin="com.compuware.xatester.xaunit.parsers" version="20.1.1" match="greaterOrEqual"/>
+      <import plugin="com.compuware.frameworks.hostservices.common" version="20.1.1" match="greaterOrEqual"/>
+      <import plugin="com.compuware.totaltest.common" version="20.1.1" match="greaterOrEqual"/>
+      <import plugin="com.compuware.xatester.clientapi" version="20.1.1" match="greaterOrEqual"/>
+      <import plugin="com.google.guava" version="25.1.0" match="greaterOrEqual"/>
+      <import plugin="com.compuware.xatester.common.libs" version="20.1.1" match="greaterOrEqual"/>
+      <import plugin="org.apache.commons.cli"/>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.osgi"/>
+      <import plugin="javax.jms"/>
+      <import feature="org.eclipse.datatools.sqldevtools.parsers.feature" version="1.14.100.201801242337" match="greaterOrEqual"/>
+      <import feature="com.compuware.ted.cli.feature" version="20.4.1" match="greaterOrEqual"/>
+      <import plugin="org.glassfish.hk2.osgi-resource-locator" version="2.5.0" match="greaterOrEqual"/>
+      <import plugin="org.glassfish.metro.webservices-api-osgi" version="2.4.4" match="greaterOrEqual"/>
+      <import plugin="org.apache.httpcomponents.httpclient" version="4.5.2" match="greaterOrEqual"/>
+      <import plugin="org.apache.httpcomponents.httpcore" version="4.4.6" match="greaterOrEqual"/>
+      <import plugin="org.apache.xmlbeans" version="2.3.0" match="greaterOrEqual"/>
+      <import plugin="org.apache.commons.lang3"/>
+   </requires>
+
+   <plugin
+         id="com.google.guava"
+         download-size="2850"
+         install-size="6341"
+         version="25.1.0.jre"
+         unpack="false"/>
+
+   <plugin
+         id="javax.jms"
+         download-size="46"
+         install-size="85"
+         version="1.1.0.v201205091237"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.xatester.cli"
+         download-size="68"
+         install-size="141"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.google.gson"
+         download-size="259"
+         install-size="510"
+         version="2.8.5"
+         unpack="false"/>
+         
+                  
+    <plugin
+         id="org.apache.commons.lang3"
+         download-size="323"
+         install-size="716"
+         version="3.1.0.v201403281430"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.xatester.unittest"
+         download-size="69"
+         install-size="156"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.xatester.enterprisedata"
+         download-size="42"
+         install-size="81"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.xatester.hiperstation"
+         download-size="63"
+         install-size="143"
+         version="20.12.1.v20220810-1529_42"/>
+
+</feature>

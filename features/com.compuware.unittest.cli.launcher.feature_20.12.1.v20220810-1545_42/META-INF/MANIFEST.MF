@@ -1,0 +1,67 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+
+Name: p2.inf
+SHA-256-Digest: WC+2VR33dHqsV5QxMtAfCTfcvotX7Jb3dSienvPjb0c=
+
+Name: root.cocoa.macosx.x86/TotalTestCLI.sh
+SHA-256-Digest: JtJR8Aw+5pxPgG23dQ7AjRBuZgx64koGbPWd0vqYBA8=
+
+Name: root/readme/license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: root.cocoa.macosx.x86/TotalTestFTCLI.sh
+SHA-256-Digest: SToK0UyqPl5QhA+Vm5EUocoDpLNi02jjAW6GbNqjXfI=
+
+Name: feature.xml
+SHA-256-Digest: Vf6IR6ot+iTecFrF2rUC6omzxEtCCxBJadh7O628kZk=
+
+Name: license_compuware.html
+SHA-256-Digest: SponLi7VnXfa8cnmuYwjHKXN6L2gKdiZ7qXx17NWdKo=
+
+Name: feature.properties
+SHA-256-Digest: AHs+ez4f+glRFV4sX5oaVaWs4fU1itJ0nz+uYHlG7t0=
+
+Name: root.win32.win32.x86_64/TotalTestCLI.bat
+SHA-256-Digest: 4noTqnRh+TT3QwRG1YYvqOYCrVzGXrC6sG4ysXWJIps=
+
+Name: root.cocoa.macosx.x86_64/TotalTestCLI.sh
+SHA-256-Digest: JtJR8Aw+5pxPgG23dQ7AjRBuZgx64koGbPWd0vqYBA8=
+
+Name: root.cocoa.macosx.x86_64/TotalTestFTCLI.sh
+SHA-256-Digest: SToK0UyqPl5QhA+Vm5EUocoDpLNi02jjAW6GbNqjXfI=
+
+Name: root.gtk.linux.x86/TotalTestFTCLI.sh
+SHA-256-Digest: SToK0UyqPl5QhA+Vm5EUocoDpLNi02jjAW6GbNqjXfI=
+
+Name: root.win32.win32.x86/TotalTestCLI.bat
+SHA-256-Digest: 4noTqnRh+TT3QwRG1YYvqOYCrVzGXrC6sG4ysXWJIps=
+
+Name: root/readme/license_compuware.html
+SHA-256-Digest: SponLi7VnXfa8cnmuYwjHKXN6L2gKdiZ7qXx17NWdKo=
+
+Name: root.gtk.linux.x86_64/TotalTestFTCLI.sh
+SHA-256-Digest: SToK0UyqPl5QhA+Vm5EUocoDpLNi02jjAW6GbNqjXfI=
+
+Name: root.win32.win32.x86_64/TotalTestFTCLI.bat
+SHA-256-Digest: TmdgWqRuFAoDV8pGzduLEySbVXf/htHPO77ujDT9O6o=
+
+Name: root/readme/TTT_README.txt
+SHA-256-Digest: VAiuG+vMOK2XH9OQJDSmHLjf3cNGyF5boS6ZBDCDdMw=
+
+Name: root.gtk.linux.x86/TotalTestCLI.sh
+SHA-256-Digest: JtJR8Aw+5pxPgG23dQ7AjRBuZgx64koGbPWd0vqYBA8=
+
+Name: license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: root.gtk.linux.x86_64/TotalTestCLI.sh
+SHA-256-Digest: JtJR8Aw+5pxPgG23dQ7AjRBuZgx64koGbPWd0vqYBA8=
+
+Name: root/workspace/TTTlogback.xml
+SHA-256-Digest: /H4sRb10WCIX9YZ3YaLOl3lrbb+xk3AXGsd8GoWzQX4=
+
+Name: root.win32.win32.x86/TotalTestFTCLI.bat
+SHA-256-Digest: TmdgWqRuFAoDV8pGzduLEySbVXf/htHPO77ujDT9O6o=
+

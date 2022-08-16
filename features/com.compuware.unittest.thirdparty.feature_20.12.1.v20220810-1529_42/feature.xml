@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.unittest.thirdparty.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1529_42"
+      provider-name="%providerName"
+      plugin="com.compuware.topaz.branding.development">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import plugin="com.compuware.topaz.branding.development" version="18.3.1" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.compuware.unittest.thirdparty.net.sf.cb2xml"
+         download-size="4123"
+         install-size="10455"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.thirdparty.org.apache.commons-jexl"
+         download-size="172"
+         install-size="316"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.thirdparty.org.apache.poi"
+         download-size="11221"
+         install-size="13323"
+         version="20.12.1.v20220810-1529_42"/>
+
+</feature>

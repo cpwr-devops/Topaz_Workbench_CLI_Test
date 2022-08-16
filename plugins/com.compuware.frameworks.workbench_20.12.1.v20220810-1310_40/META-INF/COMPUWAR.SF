@@ -1,0 +1,244 @@
+Signature-Version: 1.0
+Created-By: 11.0.7 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: eH9Taq2hIDabrSWfJ61Yg0lNqTsvzNaDGq4eMjc50eI=
+SHA-256-Digest-Manifest-Main-Attributes: t/f+ojT44zq55OBkmhSz6ZGj+6S6iBi
+ hOzE157ZgG+0=
+
+Name: plugin.xml
+SHA-256-Digest: YNzG4OAzkF2jciJGzfSFdTDLVv8xVZWiUirJ+GOK/c8=
+
+Name: com/compuware/frameworks/internal/workbench/Activator.class
+SHA-256-Digest: 8pxeG/PAMfvCPkLS7RIxiO0oeBFUEAusTIwrF4iuzkI=
+
+Name: com/compuware/frameworks/workbench/ApplicationWorkbenchWindowAdvis
+ or$1$1.class
+SHA-256-Digest: aO0oL1LbrTm3iwcK3K733st3I0gmlHVnneE4NC1yAL0=
+
+Name: com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$7.c
+ lass
+SHA-256-Digest: Ud7pqDJfmW78AkUK2otvZTnu4qsw+4Pg51akUTGpCiw=
+
+Name: com/compuware/frameworks/workbench/dialogs/ChooseWorkspaceData.cla
+ ss
+SHA-256-Digest: d90cCjG+seej9RZMvXrIsB/J4rUiYWRCoBwaE6/Lyo0=
+
+Name: com/compuware/frameworks/workbench/dialogs/ChooseWorkspaceDialog$2
+ .class
+SHA-256-Digest: 56SCWFaGtOPkDPVzBhbb6vNbH0QYJF8Ql5GVeX1ZG8A=
+
+Name: com/compuware/frameworks/workbench/resources/Messages.class
+SHA-256-Digest: pWQGmBR+fUw/5peCOA7NyjmEsWoADOZO43haUdOjtd4=
+
+Name: icons/replace.gif
+SHA-256-Digest: Q4citOBzrgeX62XxX1fGO4Nb5g5ZkjK6pp+Lf3blJUc=
+
+Name: com/compuware/frameworks/internal/workbench/EditorAreaDropAdapter.
+ class
+SHA-256-Digest: Bom2g+us6YgN7D6o1SuwYhOaA0Uh837ZiFhCRq8AR/M=
+
+Name: icons/refresh.gif
+SHA-256-Digest: 9GwSggXZIbIwblBtnYcyelfRFCBzMlazRiK3yrHDgvs=
+
+Name: icons/colors.png
+SHA-256-Digest: sZ4UJlLO8fkgMTl5o2dCxbL8fcD+lC4zWZcBaQpCYpQ=
+
+Name: com/compuware/frameworks/internal/workbench/EditorAreaDropAdapter$
+ 1.class
+SHA-256-Digest: VH3sPouFvXrywknCe34iSgYeAaMxHOT3chRzCWPgNEM=
+
+Name: icons/find.gif
+SHA-256-Digest: X6q7/A8svFtxfNgBMN86YZ+QZxl1rpyKjfYbC/ieOU8=
+
+Name: schema/com.compuware.frameworks.workbench.showSelectWorkspace.exsd
+SHA-256-Digest: V6/KTOa3MQ4cFwty3Gh6UcHowy0/PsCy9MN3cT50yOQ=
+
+Name: com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$3.c
+ lass
+SHA-256-Digest: 77Pglth0w48L1DDamjDBWlZ/8tcbp1p4NJlS6KumS5o=
+
+Name: com/compuware/frameworks/workbench/resources/messages.properties
+SHA-256-Digest: CwcVigaaywatn5WQ5ezK2EqRTC/SJLO0ITzYbXkfwnU=
+
+Name: plugin.properties
+SHA-256-Digest: pptTAP4hHkxLPsX04HYomC3zYCQGV7H7hJSDoywww5c=
+
+Name: icons/saveDisabled.gif
+SHA-256-Digest: hFlvKEvYZGtUyG8khI64yN13VbIIGzRfRfRDi7M5Mr8=
+
+Name: about_files/compuwareLogo.png
+SHA-256-Digest: uDBlL4Np3Z/SERJJIchmpGM+bhVgk53C7uD4mYCcjwk=
+
+Name: icons/delete.gif
+SHA-256-Digest: 7axKAalFkBKPSsmWDa/CGUiNK4+n3kcbBPbRgc9YaEI=
+
+Name: com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$3$1
+ .class
+SHA-256-Digest: JN5QCTZbaK+MiwdDxCeo2Tr8FZ6Kn8/7p9qcRoM9jMM=
+
+Name: icons/clear.gif
+SHA-256-Digest: McIr00y61F947LhY6jGh+LYwGiMET57kI/De9pVOgOY=
+
+Name: com/compuware/frameworks/workbench/ApplicationWorkbenchAdvisor.cla
+ ss
+SHA-256-Digest: 1UVXUToG8aqaViwrtXU3U2ijJsCE2XURpz+gcq4TP5g=
+
+Name: META-INF/p2.inf
+SHA-256-Digest: Qtj6qdIiRwEHT8mYy7eEfqa0FaTs2WOjCg+OL5/bGYo=
+
+Name: com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$1.c
+ lass
+SHA-256-Digest: GgdfMq6uxKtx+zNigzGYxTD6TSM+8Kg8AmpfYp5+97Y=
+
+Name: icons/undo.gif
+SHA-256-Digest: pE3+W3TjKjBnfIBKcEAFIu57e1Kh6a9rRfJmkxYrqRQ=
+
+Name: com/compuware/frameworks/workbench/Application$1.class
+SHA-256-Digest: RbfDOugPj/Ar0MZMWg2h5a5HVgxT6K15iS2zMItA9Og=
+
+Name: com/compuware/frameworks/workbench/dialogs/ChooseWorkspaceDialog$1
+ .class
+SHA-256-Digest: wJld5/I6aBywbbRKjQp03DHcqpZyZg1Wt6PkTpjOJw8=
+
+Name: icons/saveAs.gif
+SHA-256-Digest: np4e3teUA5yLKpj/uN2+7TpKZwQz9xYl4PSfuWpPX9Y=
+
+Name: com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$4.c
+ lass
+SHA-256-Digest: dwWSAT2IlkeoF55ERleZ3uRKlQUiDzeWSXSnC1wHfPw=
+
+Name: plugin_ja.properties
+SHA-256-Digest: bEMvwX4dsWIiHFfCFkRDP0CcfDKfqBxoU5XQM9rnslM=
+
+Name: icons/close.png
+SHA-256-Digest: 9HGmAEzwi44YhmDf9zp/+36gZqHJfEi1xJhuFY16JIE=
+
+Name: com/compuware/frameworks/workbench/actions/ShowViewContributionIte
+ m.class
+SHA-256-Digest: 6CNVXJCnQbapA7bYqDgzDI/KhCQUNpKi4HvhlRPm8xw=
+
+Name: com/compuware/frameworks/workbench/actions/OpenPerspectiveContribu
+ tionItem.class
+SHA-256-Digest: N3Vk+Sd+dYkCw6rHuvrT3cHIJIHRLTDMXg4/bmARqLI=
+
+Name: com/compuware/frameworks/workbench/ApplicationWorkbenchWindowAdvis
+ or$1.class
+SHA-256-Digest: bsoTIUmN38pT4AGNZSrU8W0jHbSfOSynU8OTrNwJons=
+
+Name: icons/openfile.gif
+SHA-256-Digest: K7cM/vkabjFwK3aeBAtcrXQUkYNMLWobA+QvaE/xsI8=
+
+Name: com/compuware/frameworks/workbench/ApplicationActionBarAdvisor.cla
+ ss
+SHA-256-Digest: QVfW5uicu5mgbt68faj7pOCXmzg+/baF8ntZVWyUchg=
+
+Name: com/compuware/frameworks/workbench/ApplicationWorkbenchAdvisor$1.c
+ lass
+SHA-256-Digest: smWQByGcWSCkm2ln3HTKbiDxH9o2Hclsu43z/fVeRyY=
+
+Name: icons/buildAllEnabled.gif
+SHA-256-Digest: g5A4n5TJK2W+ruEZXh3NCUMTTC0YWbOl/oaDSWwCgwU=
+
+Name: com/compuware/frameworks/workbench/handlers/FrontLineHandler.class
+SHA-256-Digest: bTRpAvQitNgpFgcyUuV76/L4aS5lGDcxsXtGmVgn/aM=
+
+Name: LegacyIDE.e4xmi
+SHA-256-Digest: 8Evfr1sd4MInx2Kyr9TIY3J7RqUDDL3gJYtPifkOWsY=
+
+Name: icons/cut.gif
+SHA-256-Digest: txgV3VNERkippkVGqNFkbNlNOXQ8t4E1IQvM7rpEuRU=
+
+Name: icons/redo.gif
+SHA-256-Digest: zSzeMdleuQ2MGEbWb82bI6RNFivcmdnjnm6LNoznVIk=
+
+Name: com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$5.c
+ lass
+SHA-256-Digest: UV7N4N7HBZ77rKkJfsRZLbpIAJTHNuX3XKB8SvBXCg0=
+
+Name: icons/save.gif
+SHA-256-Digest: fRdfO6b+zSFGfN5gqAv5FVtzlMT0SzeOcHEicGdqEQg=
+
+Name: com/compuware/frameworks/workbench/ApplicationWorkbenchWindowAdvis
+ or$2$1.class
+SHA-256-Digest: sLBcnIJ9s0P2kUAmFWBcegWOzTdsqRmkQsw2tBct9/I=
+
+Name: about.mappings
+SHA-256-Digest: 6mqhypIXTWnVkPwZDyG9FSa0gRCDy6QR+ItqqBnwMEM=
+
+Name: com/compuware/frameworks/workbench/ApplicationWorkbenchWindowAdvis
+ or$2.class
+SHA-256-Digest: GFP5zx3LWX0MDxeth1hdylayJJqKfw73iGTW4O52Ad0=
+
+Name: com/compuware/frameworks/workbench/ClipboardManager.class
+SHA-256-Digest: beGTB5vNYIS9zDawmRuC4lKS1vOP/3Gb9ASA/maiwPI=
+
+Name: icons/openFolder.gif
+SHA-256-Digest: 9kYOLxYMUUGFGmc3HtlNoxyDkXff2vfE4GZA5Fkp7Yc=
+
+Name: icons/paste.gif
+SHA-256-Digest: CFYmk8YtzGxsl8KYBtD8EgrqazYaYdS62LGVsakjsbw=
+
+Name: icons/colors.bmp
+SHA-256-Digest: MIZ8Al1Yj93ocvUw4O9ivlAUzSOXuM7wDg1U/k7WXjc=
+
+Name: com/compuware/frameworks/workbench/dialogs/ChooseWorkspaceDialog.c
+ lass
+SHA-256-Digest: nzGwKTnSGo8UcrnvPx7bk4lbTzGrdf6i71j03uPU/Lk=
+
+Name: com/compuware/frameworks/workbench/resources/messages_ja.propertie
+ s
+SHA-256-Digest: /pZwYdfDMoyVahwjJtkhGTOIZQ4Ks6bSMUDKN6PIIjs=
+
+Name: icons/fillUp.gif
+SHA-256-Digest: st1QkU5BQcI1k+37HpoZArHERTX5xEvWFqE26cgYd44=
+
+Name: about_files/license_compuware.html
+SHA-256-Digest: OtpyD0GX00RCqqfmvkIHbDEaPtA9h3V/HlrXyNCXIj4=
+
+Name: icons/edit.gif
+SHA-256-Digest: bzrueduJQv6cHydq8omXwDGX40xvAQYCEwWgPjdPVdY=
+
+Name: icons/editProperties.gif
+SHA-256-Digest: AeumunsteKJUk8/crJCptfPe888MjKEuwM/1J6Fsl8c=
+
+Name: about.html
+SHA-256-Digest: cX9vVElT+nrEPIT4hBFlWRhjLrOuXuVEMGSRmudQCes=
+
+Name: com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$6.c
+ lass
+SHA-256-Digest: zzYuKlOCAjmXZ7TMBM6d8GXkPuAeWDBAccBu8Eb0Pxw=
+
+Name: icons/copy.gif
+SHA-256-Digest: MX0jxEuMH6FHOqo0U+4X7Zf2HF3MCu6aplh0LDkqT3U=
+
+Name: com/compuware/frameworks/workbench/dialogs/ChooseWorkspaceDialog$3
+ .class
+SHA-256-Digest: x7RUNaXzQ2o6jPs/PDP8kWvZS/R/+MWp3xXQgbS5Yig=
+
+Name: icons/buildAllDisabled.gif
+SHA-256-Digest: TtVeoFINwOPKbT2gfY+1TVu3NAbWZPCSiGzGCLCExW4=
+
+Name: icons/iconHelp.png
+SHA-256-Digest: FCACHoR5dkcw9IhpM6L9HOD+5z1zjEJothbzBWTR8gE=
+
+Name: com/compuware/frameworks/workbench/Application.class
+SHA-256-Digest: naCItncRNdwNti86RSRVkpXofa2zwsiW2GH1U4PdoiM=
+
+Name: com/compuware/frameworks/workbench/actions/SwitchPerspectiveAction
+ .class
+SHA-256-Digest: C2853nUaerC+13i9iBcq2YX4RDQZyAkoXpoiwrKRyzY=
+
+Name: icons/fillDown.gif
+SHA-256-Digest: qPx3FB3/huqKE0ArG36FqzwZIjsvEEuLDzuyfa/zMAU=
+
+Name: com/compuware/frameworks/workbench/listeners/WorkbenchPartListener
+ .class
+SHA-256-Digest: Ww/sUYVeOvIFLLR0DctBxSIKsybJLN9ara/+ZxhWx/o=
+
+Name: com/compuware/frameworks/workbench/ApplicationWorkbenchWindowAdvis
+ or.class
+SHA-256-Digest: Z3mQUiciiEfwKybqC0XPyeArciLK+Ew8MN4qcMyTabg=
+
+Name: com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$2.c
+ lass
+SHA-256-Digest: X5CBy1WlAL2VVZzAKDhe4whaIwkUIUOgBAp2vcTx/7A=
+

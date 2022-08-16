@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.frameworks.hostservices.mainframe.communication.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1324_40"
+      provider-name="%providerName">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import plugin="com.compuware.frameworks.nls"/>
+   </requires>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.hci"
+         download-size="226"
+         install-size="452"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.css"
+         download-size="376"
+         install-size="791"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.common"
+         download-size="132"
+         install-size="267"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.message.resources"
+         download-size="191"
+         install-size="1075"
+         version="20.12.1.v20220810-1324_40"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.crypto"
+         download-size="49"
+         install-size="82"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.api.hostservices.passticket"
+         download-size="40"
+         install-size="65"
+         version="1.0.0.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.zadviser.api"
+         download-size="33"
+         install-size="53"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.zadviser.communications.api"
+         download-size="27"
+         install-size="41"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.zadviser.communications.api.impl"
+         download-size="3306"
+         install-size="3499"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.java.utilities.icu"
+         download-size="17223"
+         install-size="35674"
+         version="20.12.1.v20220810-1300_41"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.smartcard.core"
+         download-size="49"
+         install-size="91"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+</feature>

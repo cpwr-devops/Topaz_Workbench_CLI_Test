@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.frameworks.workbench.logging.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1310_40"
+      provider-name="%providerName">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import plugin="slf4j.api"/>
+      <import plugin="ch.qos.logback.classic"/>
+      <import plugin="ch.qos.logback.core"/>
+      <import plugin="org.apache.logging.log4j.1.2-api" version="2.17.1" match="greaterOrEqual"/>
+      <import plugin="org.apache.logging.log4j.api" version="2.17.1" match="greaterOrEqual"/>
+      <import plugin="org.apache.logging.log4j.core" version="2.17.1" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.compuware.frameworks.logback.ext"
+         download-size="35"
+         install-size="60"
+         version="20.12.1.v20220810-1310_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.logging.configuration"
+         download-size="43"
+         install-size="72"
+         version="20.12.1.v20220810-1310_40"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+
+	<contextListener class="ch.qos.logback.classic.jul.LevelChangePropagator">
+		<resetJUL>true</resetJUL>
+	</contextListener>
+
+	<jmxConfigurator/>
+
+	<appender name="stdout"
+			class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<charset>UTF-8</charset>
+            <Pattern>%msg %n</Pattern>
+<!-- Pattern for debug logging  
+            <Pattern>%d %-5level %logger - %msg %n</Pattern>
+-->
+		</encoder>
+	</appender>
+
+	<!--Daily rolling file appender -->
+	<appender name="compuware" class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<File>${log.data.path}/compuware.log</File>
+		
+		<rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+	      <fileNamePattern>${log.data.path}/compuware.%i.log</fileNamePattern>
+	      <minIndex>1</minIndex>
+	      <maxIndex>9</maxIndex>
+	    </rollingPolicy>
+	
+	    <triggeringPolicy class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+	      <maxFileSize>10MB</maxFileSize>
+	    </triggeringPolicy>
+		
+		<encoder>
+			<charset>UTF-8</charset>
+			<Pattern>%d %-5level %logger - %msg %n</Pattern>
+		</encoder>
+	</appender>
+
+	<root>
+		<level value="off" />
+		<appender-ref ref="stdout" />
+<!--		<appender-ref ref="compuware" /> -->
+	</root>
+
+	<logger name="com.compuware.totaltest">
+		<level value="debug" />
+		<appender-ref ref="stdout" />
+		<appender-ref ref="compuware"/>
+	</logger>
+
+	<logger name="com.compuware.zadviser">
+		<level value="debug" />
+		<appender-ref ref="compuware"/>
+	</logger>
+
+<!--	
+	<logger name="com.compuware.ecc.core.communications.HCICommunicationOutputStream">
+		<level value="debug" />
+		<appender-ref ref="compuware"/>
+	</logger>
+	<logger name="com.compuware.ecc.core.communications.HCICommunicationInputStream">
+		<level value="debug" />
+		<appender-ref ref="compuware"/>
+	</logger>
+	<logger name="com.compuware.ecc.core.communications.HCICommunicationSocketChannel">
+		<level value="debug" />
+		<appender-ref ref="compuware"/>
+	</logger>
+-->
+	<!-- you can add your own logger, such as -->
+	<!-- 
+	<logger name="com.compuware">
+		<level value="info" />
+		<appender-ref ref="compuware"/>
+	</logger>
+		
+	<logger name="org">
+		<level value="info" />
+		<appender-ref ref="compuware"/>
+	</logger>
+	 -->
+
+</configuration>

@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+
+Name: p2.inf
+SHA-256-Digest: Rw5TcuKPzmSzDrFwsldRSjn7BgW/iNRvHFWaql9vbo4=
+
+Name: root/data/.com.compuware.fileaid.ex/logs/readme.txt
+SHA-256-Digest: XuPKvFN3P+TGzqbsAY4/V6G9U/2ytxGuf58TaQn2qMQ=
+
+Name: root/data/.com.compuware.fileaid.ex/cfg/security/faexclient.trusts
+ tore
+SHA-256-Digest: mcrcOf9uWq67ye5fqVGNrQ9kloqja3BGyfQPAECjyGI=
+
+Name: root/data/.com.compuware.fileaid.ex/cfg/clientSecurity.properties
+SHA-256-Digest: fR2ig5mPcZinmRRMZxmQmmypxxb3mCbZq80tqDh2qtQ=
+
+Name: root/data/.com.compuware.fileaid.ex/cfg/security/faexclient.keysto
+ re
+SHA-256-Digest: yfocgfzEkFzXv//2kA4NE8/02u6smzuAOb1Jbo2MlnA=
+
+Name: feature.xml
+SHA-256-Digest: Q5V/ihSPb7lC5iLc+vKD8d2h1IHtBmUPxRKVqeA/2bI=
+
+Name: feature.properties
+SHA-256-Digest: DnjuDIqn+6M02riw/0cvTFW/G51aeiQtkMu53aMGazw=
+

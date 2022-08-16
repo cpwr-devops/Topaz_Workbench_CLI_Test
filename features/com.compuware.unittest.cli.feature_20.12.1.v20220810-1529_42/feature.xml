@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.unittest.cli.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1529_42"
+      provider-name="%providerName">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <includes
+         id="com.compuware.unittest.eclipse.core.feature"
+         version="20.12.1.v20220810-1529_42"/>
+
+   <includes
+         id="com.compuware.unittest.eclipse.emf.feature"
+         version="20.12.1.v20220810-1529_42"/>
+
+   <includes
+         id="com.compuware.unittest.thirdparty.feature"
+         version="20.12.1.v20220810-1529_42"/>
+
+   <requires>
+      <import feature="org.eclipse.emf.common" version="2.12.0.v20160420-0247" match="greaterOrEqual"/>
+      <import feature="org.eclipse.emf.ecore" version="2.12.0.v20160420-0247" match="greaterOrEqual"/>
+      <import feature="org.eclipse.emf.ecore.edit" version="2.9.0.v20160526-0356" match="greaterOrEqual"/>
+      <import plugin="apache.collections.generic"/>
+      <import plugin="com.compuware.frameworks.hostservices.ces.credentials"/>
+      <import plugin="com.compuware.frameworks.hostservices.client"/>
+      <import plugin="com.compuware.frameworks.hostservices.client.configuration.api"/>
+      <import plugin="com.compuware.frameworks.hostservices.client.exceptions"/>
+      <import plugin="com.compuware.frameworks.hostservices.client.extended.api"/>
+      <import plugin="com.compuware.frameworks.hostservices.client.extended.jes.api"/>
+      <import plugin="com.compuware.frameworks.hostservices.ces"/>
+      <import plugin="com.compuware.frameworks.hostservices.ces.commandset"/>
+      <import plugin="com.compuware.frameworks.hostservices.client.ui.codepagemanager"/>
+      <import plugin="com.compuware.frameworks.hostservices.client.ui.codepagemanager.api"/>
+      <import plugin="com.compuware.frameworks.hostservices.client.ui.credentials"/>
+      <import plugin="com.compuware.frameworks.hostservices.client.ui.credentials.api"/>
+      <import plugin="com.compuware.frameworks.hostservices.core"/>
+      <import plugin="com.compuware.frameworks.hostservices.hss"/>
+      <import plugin="com.compuware.frameworks.hostservices.http"/>
+      <import plugin="com.compuware.frameworks.hostservices.zosfilesystem"/>
+      <import plugin="com.compuware.frameworks.hostservices.mainframe"/>
+      <import plugin="com.compuware.frameworks.hostservices.server.core"/>
+      <import plugin="com.compuware.totaltest.common"/>
+      <import plugin="ch.qos.logback.core"/>
+      <import plugin="org.slf4j.api"/>
+      <import plugin="ch.qos.logback.classic"/>
+      <import feature="com.compuware.frameworks.hostservices.mainframe.communication.feature"/>
+   </requires>
+
+   <plugin
+         id="com.compuware.unittest.cli"
+         download-size="33"
+         install-size="55"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.cli.common"
+         download-size="60"
+         install-size="109"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.cli.resultchecker"
+         download-size="35"
+         install-size="63"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.cli.run"
+         download-size="82"
+         install-size="150"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.cli.submit"
+         download-size="39"
+         install-size="71"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.cli.transfer"
+         download-size="40"
+         install-size="73"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.cli.zos.builder"
+         download-size="36"
+         install-size="62"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.cli.zos.parser"
+         download-size="30"
+         install-size="48"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.unittest.mainframe.commands"
+         download-size="29"
+         install-size="48"
+         version="20.12.1.v20220810-1529_42"
+         unpack="false"/>
+
+</feature>

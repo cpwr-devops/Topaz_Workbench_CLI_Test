@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.frameworks.hostservices.core.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1324_40"
+      provider-name="%providerName">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="com.compuware.frameworks.diagnostic.collection.feature" version="20.3.1" match="compatible"/>
+      <import feature="com.compuware.frameworks.workbench.logging.feature" version="20.3.1" match="compatible"/>
+   </requires>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.core"
+         download-size="238"
+         install-size="518"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.common"
+         download-size="132"
+         install-size="267"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.message.resources"
+         download-size="191"
+         install-size="1075"
+         version="20.12.1.v20220810-1324_40"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.server.core"
+         download-size="70"
+         install-size="167"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.crypto"
+         download-size="49"
+         install-size="82"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.core.messages"
+         download-size="79"
+         install-size="456"
+         version="20.12.1.v20220810-1324_40"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.java.utilities.icu"
+         download-size="17223"
+         install-size="35674"
+         version="20.12.1.v20220810-1300_41"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.diagnostic.data.config"
+         download-size="28"
+         install-size="43"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.hostservices.resources.api"
+         download-size="29"
+         install-size="48"
+         version="20.12.1.v20220810-1324_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.workbench.jaxbmoxy.service"
+         download-size="31"
+         install-size="54"
+         version="20.12.1.v20220810-1310_40"
+         unpack="false"/>
+
+</feature>

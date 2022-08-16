@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.totaltest.cli.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1529_42"
+      provider-name="%providerName">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <includes
+         id="com.compuware.unittest.cli.feature"
+         version="20.12.1.v20220810-1529_42"/>
+
+   <includes
+         id="com.compuware.xatester.cli.feature"
+         version="20.12.1.v20220810-1529_42"/>
+
+</feature>

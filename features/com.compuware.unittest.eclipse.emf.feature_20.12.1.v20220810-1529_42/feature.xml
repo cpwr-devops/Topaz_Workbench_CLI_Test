@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.unittest.eclipse.emf.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1529_42"
+      provider-name="%providerName">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.emf.common" version="2.10.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.emf.common.ui" version="2.9.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.emf.ecore" version="2.10.2" match="greaterOrEqual"/>
+      <import feature="org.eclipse.emf.ecore.edit" version="2.9.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.emf.edit.ui" version="2.10.0" match="greaterOrEqual"/>
+      <import feature="com.compuware.unittest.thirdparty.feature" version="20.1.1" match="greaterOrEqual"/>
+   </requires>
+
+</feature>

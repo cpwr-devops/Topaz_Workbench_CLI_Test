@@ -1,0 +1,55 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+
+Name: p2.inf
+SHA-256-Digest: TsrwhDUWcGEVdQWyZ2ASdhgsYKo05LViZSPp29fYmPU=
+
+Name: root.gtk.linux.x86_64/CodeCoverageCLI.sh
+SHA-256-Digest: y0YpImFdWt+IRVAv6DsMEwZXsNqEq5/LyJNj9QplwQg=
+
+Name: root.win32.win32.x86_64/CodeCoverageCLI.bat
+SHA-256-Digest: ZWuZ/1Mdck7l7+GEzj0XzWtJDLbwkZyO2djIUZ7Nv7c=
+
+Name: root.win32.win32.x86_64/ZAdviserCLI.bat
+SHA-256-Digest: y6FBcsTRQMdPuaMROXFV2mZae+DG+1w1zsY8f49FQlE=
+
+Name: root/readme/license_apache.txt
+SHA-256-Digest: 98fXBXAR3uQvrzUAgssj+59B9iMasKivsQIcBJHN2x4=
+
+Name: root/readme/license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: feature.xml
+SHA-256-Digest: f7eApbfu3zfFngTBA+Hc6jbXytcmWHW1LMr7QbzW9ng=
+
+Name: root.win32.win32.x86_64/TopazWorkbenchCLI.bat
+SHA-256-Digest: w24gq8KtF3umpMwTv++vlfBi2jcUlr7tDmYYr2PxHts=
+
+Name: feature.properties
+SHA-256-Digest: B+8l2FC6SuQXRfQLLoD2BNuaJ8fioILLVUZnod4lt9c=
+
+Name: root/readme/license_compuware.html
+SHA-256-Digest: rrya7PGnRDRTGBl/gJ4LOkZ69UDYzPgOXu7BmF/Wr8Q=
+
+Name: root.gtk.linux.x86_64/TopazWorkbenchCLI.sh
+SHA-256-Digest: dmc0UaJaJldAn/jyS2VWOM1x+PzjCkpqq9GYCsf7bRU=
+
+Name: root/workspace/configuration/topaz_logback.xml
+SHA-256-Digest: rlwNY4lfV3buK8cholSfi5dzSYGuNxXELDX1sLK5gwk=
+
+Name: root.gtk.linux.x86_64/SCMDownloaderCLI.sh
+SHA-256-Digest: vf94QcdM8xVPPlWuqWdTTaK/qUBhNSK4nF/KePQ9g0I=
+
+Name: root.gtk.linux.x86_64/ZAdviserCLI.sh
+SHA-256-Digest: f61byefhtTnwvLqLO996bof5b0qY/AwtlgFMphpBGDA=
+
+Name: root.win32.win32.x86_64/SubmitJclCLI.bat
+SHA-256-Digest: H63ZkibwPH/Y7TU2XNJz4D2xUQwuiQ/PVDFUtIBZJ1c=
+
+Name: root.win32.win32.x86_64/SCMDownloaderCLI.bat
+SHA-256-Digest: Wj9HSLD6rlqqL/XsRF2u6ESNvWDxrYh349fuNNVi8j4=
+
+Name: root.gtk.linux.x86_64/SubmitJclCLI.sh
+SHA-256-Digest: EOb3wdvIOW0LiF4dkoNHjDeG7fZjkNh50GtACLzsJIQ=
+

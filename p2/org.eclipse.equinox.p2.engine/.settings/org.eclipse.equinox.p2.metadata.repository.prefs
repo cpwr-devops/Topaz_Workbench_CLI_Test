@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target/description=
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target/enabled=true
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target/isSystem=false
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target/name=module-metadata-repository@C\:\\Builds\\workspace\\Topaz_20.12\\TopazCLI-2012-NIGHTLY\\com.compuware.frameworks.hostservices.cli.product\\target
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target/provider=
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target/suffix=p2content.xml
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target/type=org.eclipse.tycho.repository.module.ModuleMetadataRepository
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target/uri=file\:/C\:/Builds/workspace/Topaz_20.12/TopazCLI-2012-NIGHTLY/com.compuware.frameworks.hostservices.cli.product/target/
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target/version=1.0.0
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target_targetPlatformRepository/enabled=true
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target_targetPlatformRepository/isSystem=false
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target_targetPlatformRepository/name=TychoTargetPlatform
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target_targetPlatformRepository/suffix=content.xml
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target_targetPlatformRepository/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target_targetPlatformRepository/uri=file\:/C\:/Builds/workspace/Topaz_20.12/TopazCLI-2012-NIGHTLY/com.compuware.frameworks.hostservices.cli.product/target/targetPlatformRepository/
+repositories/file\:_C\:_Builds_workspace_Topaz_20.12_TopazCLI-2012-NIGHTLY_com.compuware.frameworks.hostservices.cli.product_target_targetPlatformRepository/version=0.0.1

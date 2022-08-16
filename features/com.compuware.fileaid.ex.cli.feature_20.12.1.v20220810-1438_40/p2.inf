@@ -1,0 +1,4 @@
+update.id = com.compuware.fileaid.ex.cli.feature.feature.group
+update.range = [20.3.0, $version$)
+update.severity = 0
+

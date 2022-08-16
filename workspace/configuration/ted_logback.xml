@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+
+	<contextListener class="ch.qos.logback.classic.jul.LevelChangePropagator">
+		<resetJUL>true</resetJUL>
+	</contextListener>
+
+	<jmxConfigurator/>
+
+	<appender name="stdout"
+			class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<charset>UTF-8</charset>
+			<Pattern>%msg %n</Pattern>
+		<!-- Pattern for debug logging  
+			<Pattern>%d %-5level %logger - %msg %n</Pattern>
+		-->
+		</encoder>
+	</appender>
+
+	<root>
+		<!-- When setting the level to debug, be sure to change the pattern above. -->
+		<level value="error" />
+		<appender-ref ref="stdout" ></appender-ref>
+	</root>
+	
+	<logger name="com.compuware.ted" >
+		<level value="debug" />
+	</logger>
+	
+<!-- Use this logging to log the traffic to/from the HCI
+	<logger name="com.compuware.ecc.core.communications.HCICommunicationOutputStream">
+		<level value="debug" />
+	</logger>
+	<logger name="com.compuware.ecc.core.communications.HCICommunicationSocketChannel">
+		<level value="debug" />
+	</logger>
+-->
+
+</configuration>

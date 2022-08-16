@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.frameworks.diagnostic.data.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1310_40"
+      provider-name="%providerName">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import plugin="org.apache.commons.io"/>
+      <import plugin="org.apache.commons.lang"/>
+   </requires>
+
+   <plugin
+         id="com.compuware.frameworks.diagnostic.data.java"
+         download-size="31"
+         install-size="50"
+         version="20.12.1.v20220810-1310_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.diagnostic.data.osgi"
+         download-size="39"
+         install-size="66"
+         version="20.12.1.v20220810-1310_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.diagnostic.data"
+         download-size="50"
+         install-size="88"
+         version="20.12.1.v20220810-1310_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.diagnostic.data.log"
+         download-size="30"
+         install-size="47"
+         version="20.12.1.v20220810-1310_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.frameworks.diagnostic.data.system"
+         download-size="33"
+         install-size="52"
+         version="20.12.1.v20220810-1310_40"
+         unpack="false"/>
+
+</feature>

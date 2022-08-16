@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+
+Name: p2.inf
+SHA-256-Digest: TsrwhDUWcGEVdQWyZ2ASdhgsYKo05LViZSPp29fYmPU=
+
+Name: root/readme/license_apache.txt
+SHA-256-Digest: 98fXBXAR3uQvrzUAgssj+59B9iMasKivsQIcBJHN2x4=
+
+Name: root/readme/license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: root/readme/ISPW_README.txt
+SHA-256-Digest: Cs+TAg7gpyoJk23tNw4QhNPVuZs6LYvZrBVxKKcCvDc=
+
+Name: feature.xml
+SHA-256-Digest: 7RjPwbtBfMFcJoal3wUFeFDWVCxOYmK+ulDR3jklStU=
+
+Name: license_compuware.html
+SHA-256-Digest: L72UscHUZLETkmQuaQCKASqKJPpx4b50ErtncehgCbY=
+
+Name: root.win32.win32.x86/IspwCLI.bat
+SHA-256-Digest: djq3rjnvqAh2LowrblyuhEH/ioeVrkeUi7vmOBNUtG0=
+
+Name: feature.properties
+SHA-256-Digest: gg0zYzeVITRUUsq2GcyCMSBGwYXRpG8LwxqViG5cIxQ=
+
+Name: root/readme/license_compuware.html
+SHA-256-Digest: L72UscHUZLETkmQuaQCKASqKJPpx4b50ErtncehgCbY=
+
+Name: root/workspace/configuration/ispw_logback.xml
+SHA-256-Digest: 9d/8dl2QPtmt4azqWYgY4G8GKahkeXsklSnY3HLiC/g=
+
+Name: root.gtk.linux.x86/IspwCLI.sh
+SHA-256-Digest: TKGAa6cpGD3w3QaR2Me5Y4NB1AjqiH3lDCKUYvsZwBM=
+
+Name: license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: root.win32.win32.x86_64/IspwCLI.bat
+SHA-256-Digest: RgD5XU6NVGWICFZt24E/C84JJyv3gX7Wgv2QE3uP8iM=
+
+Name: root.gtk.linux.x86_64/IspwCLI.sh
+SHA-256-Digest: TKGAa6cpGD3w3QaR2Me5Y4NB1AjqiH3lDCKUYvsZwBM=
+
