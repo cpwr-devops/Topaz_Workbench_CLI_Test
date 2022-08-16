@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.12.1.v20220810-1529_42?>
+<!--Topaz for Total Test 20.12.1.v20220810-1529_42 Aug 11, 2022 6:55:29 PM-->
+<testsuites>
+  <testsuite name="CWKTCOBX_Scenario.context" errors="0" tests="1" failures="0">
+    <testcase classname="CWKTCOBX_Scenario.context" name="Unit Test: Test Case: CWKTCOBXCase1 for program: CWKTCOBX" />
+  </testsuite>
+</testsuites>

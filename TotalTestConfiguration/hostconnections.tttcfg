@@ -1,0 +1,50 @@
+<Connections>
+  <Connection>
+    <id>10.100.4.82:16196</id>
+    <ipaddress>10.100.4.82</ipaddress>
+    <port>16196</port>
+    <socketType>HCI</socketType>
+    <databaseUri>jdbc:db2://10.100.4.82:&lt;port&gt;/${database}</databaseUri>
+    <databaseDriver>com.ibm.db2.jcc.DB2Driver</databaseDriver>
+    <databaseName>&lt;database&gt;</databaseName>
+    <description>CW13-16196</description>
+    <label>CW13-16196</label>
+    <skeletonDir>JCLSkeletons</skeletonDir>
+    <datasethlq />
+    <jclproperties>
+      <property key="lpar_tttrunner_lib" value="CX.R170000.MAIN.SLCXLOAD" />
+    </jclproperties>
+  </Connection>
+  <Connection>
+    <id>37b776ed-50e1-406f-bb65-abc7e036e748</id>
+    <ipaddress>10.10.0.200</ipaddress>
+    <port>16196</port>
+    <socketType>HCI</socketType>
+    <databaseUri>jdbc:db2://10.10.0.200:&lt;port&gt;/${database}</databaseUri>
+    <databaseDriver>com.ibm.db2.jcc.DB2Driver</databaseDriver>
+    <databaseName>&lt;database&gt;</databaseName>
+    <description>CW01-16196</description>
+    <label>CW01-16196</label>
+    <skeletonDir>JCLSkeletons</skeletonDir>
+    <datasethlq />
+    <jclproperties>
+      <property key="lpar_tttrunner_lib" value="&lt;value&gt;" />
+    </jclproperties>
+  </Connection>
+  <Connection>
+    <id>0c020d7d-0e4a-41f5-ba1e-6af11ba47c96</id>
+    <ipaddress>10.10.0.200</ipaddress>
+    <port>56086</port>
+    <socketType>HCI</socketType>
+    <databaseUri>jdbc:db2://10.10.0.200:&lt;port&gt;/${database}</databaseUri>
+    <databaseDriver>com.ibm.db2.jcc.DB2Driver</databaseDriver>
+    <databaseName>&lt;database&gt;</databaseName>
+    <description>CW01-56086</description>
+    <label>CW01-56086</label>
+    <skeletonDir>JCLSkeletons</skeletonDir>
+    <datasethlq />
+    <jclproperties>
+      <property key="lpar_tttrunner_lib" value="&lt;value&gt;" />
+    </jclproperties>
+  </Connection>
+</Connections>

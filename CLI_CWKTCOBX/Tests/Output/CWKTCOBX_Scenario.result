@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XaUnitResult resultType="SUCCESS" containsSimulation="false">
+  <ExecutionId>8bc1e9ab-8d59-42a1-8e4c-638bac6e979d</ExecutionId>
+  <Message />
+  <AST>
+    <XaUnit xmlns="http://www.xact.dk/xatester/v/1" xmlns:data="http://www.xact.dk/xatester/data/v/1" caseInsensitiveCompare="false">
+      <Test>
+        <Unittest testscenariopath="CWKTCOBX_Scenario.testscenario" moduleName="CWKTCOBX" />
+      </Test>
+    </XaUnit>
+  </AST>
+  <Context>
+    <ExecutionContext xmlns="http://www.xact.dk/xatester/v/1" environment="10.100.4.82:16196" logLevel="LOG" remote="false" useSimulations="true" uploadResult="false" timeout="600" readTimeout="30" debuggerType="NONE" jobInfoInterval="3" userid="pinaka0">
+      <platformruntime />
+      <ExtensionData>
+        <Parameter key="envname">
+          <Value>Test</Value>
+        </Parameter>
+        <Parameter key="level">
+          <Value>PDSE</Value>
+        </Parameter>
+        <Parameter key="unittest.loadlibraries">
+          <Value>ENTQA.TTT.RCPTT.PDSE.LOAD</Value>
+        </Parameter>
+      </ExtensionData>
+      <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWKTCOBX" caseInsensitiveCompare="false" path="CWKTCOBX_Scenario.context">
+        <Test>
+          <Unittest testscenariopath="CWKTCOBX_Scenario.testscenario" moduleName="CWKTCOBX" />
+        </Test>
+      </XaUnit>
+      <ExternalResources />
+    </ExecutionContext>
+  </Context>
+  <Started>20220811-18-54-43</Started>
+  <Ended>20220811-18-55-29</Ended>
+</XaUnitResult>

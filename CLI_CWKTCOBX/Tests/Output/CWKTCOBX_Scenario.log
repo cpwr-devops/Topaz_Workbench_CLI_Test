@@ -1,0 +1,48 @@
+18:54:43.002 INFO      Engine           Test Scenario execution started
+18:54:43.009 INFO      Engine           Using context settings:
+  Engine Version                : 20.12.1.v20220810-1529_42
+  Environment id                : 10.100.4.82:16196
+  Environment type              : Batch
+  Operating system              : ZOS
+  zOS agent version             : NEWEST
+  Server address                : 10.100.4.82
+  Server port                   : 16196
+  Job execution timeout seconds : 600
+  Job info interval seconds     : 3
+  Socket read timeout           : 30
+  Encoding                      : ISO8859-1
+  Codepage                      : 1047
+  Host user Id                  : pinaka0
+  Use Repository Server         : true
+  Account Information           : 
+  Dataset High Level Qualifier  : 
+18:54:43.011 INFO      Engine           Setting variables from context and context data extensions
+18:54:43.013 INFO      Engine             id: environmentId      value: 10.100.4.82:16196
+18:54:43.017 INFO      Engine             id: environmentType    value: BATCH
+18:54:43.019 INFO      Engine             id: userId             value: PINAKA0
+18:54:43.020 INFO      Engine             id: accountingInfo     value: 
+18:54:43.030 INFO      Engine             id: datasetHQL         value: 
+18:54:43.036 INFO      Engine             id: envname            value: Test
+18:54:43.038 INFO      Engine             id: level              value: PDSE
+18:54:43.060 INFO      Unittest         Interpreting Unittest of module: CWKTCOBX testscenario path: CWKTCOBX_Scenario.testscenario
+18:54:47.292 DEBUG     Unittest         Getting TTTRUNNR loadlib version
+18:54:47.741 DEBUG     Unittest         Generic JCL skeleton used from environment/connection
+18:54:47.743 INFO      Unittest         Using JCL skeleton to submit JCL
+18:54:47.751 DEBUG     Unittest         Building binary files for test scenario: CWKTCOBX_Scenario.testscenario in project Tests
+18:54:56.658 DEBUG     Unittest         Generic JCL skeleton used from environment/connection
+18:54:56.663 INFO      CW13-16196       Sending Job execution request to Host 
+18:54:56.693 DEBUG     CW13-16196       Executing Job through HCI
+18:54:57.802 DEBUG     CW13-16196       Job submitted with jobId: J0131703 jobName:PINAKA0A
+18:55:03.127 INFO      CW13-16196       Job execution completed with status:
+  Job status     : COMPLETED
+  Job status msg : Job PINAKA0A(J0131703) ended with return code: 0000
+  Job name       : PINAKA0A
+  Job id         : J0131703
+  Return code    : 0000
+  Abend code     : 
+  Abend reason   : 
+18:55:03.130 DEBUG     CW13-16196       Setting execution variable 'jobid' to J0131703
+18:55:03.132 DEBUG     CW13-16196       Setting execution variable 'jobname' to PINAKA0A
+18:55:03.140 DEBUG     CW13-16196       Setting execution variable 'returncode' to 0000
+18:55:29.148 INFO      Unittest         Execution completed
+18:55:29.150 INFO      Engine           Test Scenario execution ended

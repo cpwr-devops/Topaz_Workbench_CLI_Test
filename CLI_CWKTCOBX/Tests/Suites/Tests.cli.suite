@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XaSuite xmlns="http://www.xact.dk/xatester/v/1" name="Generated suite for folder: " haltAtFailure="false">
+  <Description>Generated suite by Topaz for Total Test CLI for folder on server: C:/Users/aasati/Compuware/Workbench/workspace/CLI_CWKTCOBX/Tests/</Description>
+  <XaUnits>
+    <Path>../Scenarios/CWKTCOBX_Scenario.context</Path>
+  </XaUnits>
+</XaSuite>

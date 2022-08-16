@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.11.2.v20220724-1531_125?>
+<!--Topaz for Total Test 20.11.2.v20220724-1531_125 Aug 11, 2022 6:30:40 PM-->
+<testscenario:testscenario xmlns:checkconditions="http://www.compuware.com/model/xml/checkconditions" xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:testcase="http://www.compuware.com/model/xml/testcase" xmlns:testscenario="http://www.compuware.com/model/xml/testscenario" alias="" id="Tests/Scenarios/CWKTCOBX_Scenario.testscenario">
+  <testscenario:description></testscenario:description>
+  <testscenario:testcases>
+    <testscenario:testcase alias="" csect="CWKTCOBX" encoding="1047" entrypoint="CWKTCOBX" id="Tests/Scenarios/CWKTCOBX_Scenario.testscenario%23CWKTCOBXCase1" target="CWKTCOBX">
+      <testcase:description></testcase:description>
+      <testcase:ddio>ENTQA.TTT.DBASE4</testcase:ddio>
+      <testcase:ddiotype>DDIO</testcase:ddiotype>
+      <testcase:targetCaptureCompileTime>1597889583000</testcase:targetCaptureCompileTime>
+      <testcase:interface>../Interfaces/CWKTCOBX.interface#Tests/Interfaces/CWKTCOBX.interface</testcase:interface>
+      <testcase:input listructure="../Structures/CWKTCOBX_PARMINFO.listructure#Tests/Structures/CWKTCOBX_PARMINFO.listructure">
+        <testcase:data baseType="listructure:structType ../Structures/CWKTCOBX_PARMINFO.listructure#PARMINFO" id="arg0.PARMINFO">
+          <properties:properties>
+            <properties:property name="value" type="string">0005F0F0F0F0F500000000000000</properties:property>
+            <properties:property name="expectedValue" type="string">0005F0F0F0F0F500009D29F0F2F0</properties:property>
+            <properties:property name="address" type="string">38247568</properties:property>
+          </properties:properties>
+        </testcase:data>
+      </testcase:input>
+      <testcase:checkconditions>
+        <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
+      </testcase:checkconditions>
+      <testcase:stubs>
+        <testcase:stub>../Stubs/CWKTCOBX_CWKTSUBC_01.stub#Tests/Stubs/CWKTCOBX_CWKTSUBC_01.stub</testcase:stub>
+        <testcase:stub>../Stubs/CWKTCOBX_CWKTDATE_01.stub#Tests/Stubs/CWKTCOBX_CWKTDATE_01.stub</testcase:stub>
+        <testcase:stub>../Stubs/CWKTCOBX_RPTFILE_FILE_01.stub#Tests/Stubs/CWKTCOBX_RPTFILE_FILE_01.stub</testcase:stub>
+        <testcase:stub>../Stubs/CWKTCOBX_EMPFILE_FILE_01.stub#Tests/Stubs/CWKTCOBX_EMPFILE_FILE_01.stub</testcase:stub>
+        <testcase:stub>../Stubs/CWKTCOBX_DATETIME_01.stub#Tests/Stubs/CWKTCOBX_DATETIME_01.stub</testcase:stub>
+      </testcase:stubs>
+      <testcase:returncode listructure="../Structures/CWKTCOBX_RETURN-CODE.listructure#Tests/Structures/CWKTCOBX_RETURN-CODE.listructure">
+        <testcase:data baseType="listructure:structType ../Structures/CWKTCOBX_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+          <properties:properties>
+            <properties:property name="expectedValue" type="string">0000</properties:property>
+          </properties:properties>
+        </testcase:data>
+      </testcase:returncode>
+      <testcase:ddioMemberName>CWKTCOBX</testcase:ddioMemberName>
+      <testcase:isNoLinkage>false</testcase:isNoLinkage>
+    </testscenario:testcase>
+  </testscenario:testcases>
+</testscenario:testscenario>
