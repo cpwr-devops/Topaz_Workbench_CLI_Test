@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+
+	<contextListener class="ch.qos.logback.classic.jul.LevelChangePropagator">
+		<resetJUL>true</resetJUL>
+	</contextListener>
+
+	<jmxConfigurator/>
+
+	<appender name="stdout"
+			class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<charset>UTF-8</charset>
+			<Pattern>%d %-5level %logger - %msg %n</Pattern>
+		</encoder>
+	</appender>
+
+	<!--Daily rolling file appender -->
+	<appender name="compuware" class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<File>${log.data.path}/compuware.log</File>
+		<rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+			<FileNamePattern>compuware.%d{yyyy-MM-dd}.%i.log</FileNamePattern>
+            <maxFileSize>10MB</maxFileSize>
+			<maxHistory>9</maxHistory>
+		</rollingPolicy>
+		
+		<encoder>
+			<charset>UTF-8</charset>
+			<Pattern>%d %-5level %logger - %msg %n</Pattern>
+		</encoder>
+	</appender>
+
+	<root>
+		<level value="info" />
+		<appender-ref ref="stdout" />
+		<appender-ref ref="compuware" />
+	</root>
+	
+	<!-- you can add your own logger, such as -->
+	<!-- 
+	<logger name="com.compuware">
+		<level value="info" />
+		<appender-ref ref="compuware"/>
+	</logger>
+		
+	<logger name="org">
+		<level value="info" />
+		<appender-ref ref="compuware"/>
+	</logger>
+	
+	<logger name="com.compuware.ispw">
+		<level value="debug" />
+		<appender-ref ref="compuware"/>
+	</logger>
+	 -->
+
+</configuration>

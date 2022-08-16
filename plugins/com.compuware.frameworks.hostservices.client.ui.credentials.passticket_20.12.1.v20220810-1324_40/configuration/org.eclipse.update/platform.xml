@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1660146599740" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.eclipse.emf.databinding" version="1.5.0.v20180130-1145" url="features/org.eclipse.emf.databinding_1.5.0.v20180130-1145/">
+		</feature>
+		<feature id="org.eclipse.emf.mapping.ecore.editor" version="2.11.0.v20180125-1130" url="features/org.eclipse.emf.mapping.ecore.editor_2.11.0.v20180125-1130/">
+		</feature>
+		<feature id="org.eclipse.emf.mapping" version="2.10.0.v20180125-1130" url="features/org.eclipse.emf.mapping_2.10.0.v20180125-1130/">
+		</feature>
+		<feature id="org.eclipse.emf.mapping.ui" version="2.10.0.v20180125-1130" url="features/org.eclipse.emf.mapping.ui_2.10.0.v20180125-1130/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore.editor" version="2.14.0.v20180212-1111" url="features/org.eclipse.emf.ecore.editor_2.14.0.v20180212-1111/">
+		</feature>
+		<feature id="org.eclipse.emf.mapping.ecore" version="2.10.0.v20180125-1130" url="features/org.eclipse.emf.mapping.ecore_2.10.0.v20180125-1130/">
+		</feature>
+		<feature id="org.eclipse.emf.common.ui" version="2.13.0.v20180127-1015" url="features/org.eclipse.emf.common.ui_2.13.0.v20180127-1015/">
+		</feature>
+		<feature id="com.compuware.frameworks.diagnostic.data.feature" version="20.12.1.v20220810-1310_40" url="features/com.compuware.frameworks.diagnostic.data.feature_20.12.1.v20220810-1310_40/">
+		</feature>
+		<feature id="com.compuware.unittest.eclipse.core.feature" version="20.12.1.v20220810-1529_42" url="features/com.compuware.unittest.eclipse.core.feature_20.12.1.v20220810-1529_42/" plugin-identifier="com.compuware.topaz.branding.development">
+		</feature>
+		<feature id="com.compuware.totaltest.cli.feature" version="20.12.1.v20220810-1529_42" url="features/com.compuware.totaltest.cli.feature_20.12.1.v20220810-1529_42/">
+		</feature>
+		<feature id="org.eclipse.emf.databinding.edit" version="1.5.0.v20180130-1145" url="features/org.eclipse.emf.databinding.edit_1.5.0.v20180130-1145/">
+		</feature>
+		<feature id="org.eclipse.datatools.modelbase.feature" version="1.14.100.201802022135" url="features/org.eclipse.datatools.modelbase.feature_1.14.100.201802022135/" plugin-identifier="org.eclipse.datatools.modelbase.sql">
+		</feature>
+		<feature id="com.compuware.ispw.cli.launcher.feature" version="20.12.1.v20220810-1525_40" url="features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810-1525_40/">
+		</feature>
+		<feature id="org.eclipse.emf.edit" version="2.13.0.v20180421-1151" url="features/org.eclipse.emf.edit_2.13.0.v20180421-1151/">
+		</feature>
+		<feature id="com.compuware.zadviser.cli.feature" version="20.12.1.v20220810-1546_39" url="features/com.compuware.zadviser.cli.feature_20.12.1.v20220810-1546_39/">
+		</feature>
+		<feature id="com.compuware.unittest.thirdparty.feature" version="20.12.1.v20220810-1529_42" url="features/com.compuware.unittest.thirdparty.feature_20.12.1.v20220810-1529_42/" plugin-identifier="com.compuware.topaz.branding.development">
+		</feature>
+		<feature id="org.eclipse.emf.converter" version="2.13.0.v20180131-0817" url="features/org.eclipse.emf.converter_2.13.0.v20180131-0817/">
+		</feature>
+		<feature id="com.compuware.unittest.cli.launcher.feature" version="20.12.1.v20220810-1545_42" url="features/com.compuware.unittest.cli.launcher.feature_20.12.1.v20220810-1545_42/">
+		</feature>
+		<feature id="com.compuware.unittest.cli.feature" version="20.12.1.v20220810-1529_42" url="features/com.compuware.unittest.cli.feature_20.12.1.v20220810-1529_42/">
+		</feature>
+		<feature id="com.compuware.frameworks.hostservices.core.feature" version="20.12.1.v20220810-1324_40" url="features/com.compuware.frameworks.hostservices.core.feature_20.12.1.v20220810-1324_40/">
+		</feature>
+		<feature id="com.compuware.codecoverage.cli.feature" version="20.12.1.v20220810-1546_39" url="features/com.compuware.codecoverage.cli.feature_20.12.1.v20220810-1546_39/">
+		</feature>
+		<feature id="org.eclipse.datatools.sqldevtools.parsers.feature" version="1.14.100.201801242337" url="features/org.eclipse.datatools.sqldevtools.parsers.feature_1.14.100.201801242337/" plugin-identifier="org.eclipse.datatools.sqltools.parsers.sql">
+		</feature>
+		<feature id="com.compuware.frameworks.hostservices.common.feature" version="20.12.1.v20220810-1324_40" url="features/com.compuware.frameworks.hostservices.common.feature_20.12.1.v20220810-1324_40/">
+		</feature>
+		<feature id="com.compuware.frameworks.workbench.logging.feature" version="20.12.1.v20220810-1310_40" url="features/com.compuware.frameworks.workbench.logging.feature_20.12.1.v20220810-1310_40/">
+		</feature>
+		<feature id="com.compuware.ispw.cli.feature" version="20.12.1.v20220810-1525_40" url="features/com.compuware.ispw.cli.feature_20.12.1.v20220810-1525_40/" plugin-identifier="com.compuware.ispw.cli">
+		</feature>
+		<feature id="com.compuware.frameworks.hostservices.client.feature" version="20.12.1.v20220810-1324_40" url="features/com.compuware.frameworks.hostservices.client.feature_20.12.1.v20220810-1324_40/">
+		</feature>
+		<feature id="com.compuware.xatester.cli.feature" version="20.12.1.v20220810-1529_42" url="features/com.compuware.xatester.cli.feature_20.12.1.v20220810-1529_42/">
+		</feature>
+		<feature id="org.eclipse.emf.codegen" version="2.13.0.v20180319-0813" url="features/org.eclipse.emf.codegen_2.13.0.v20180319-0813/">
+		</feature>
+		<feature id="com.compuware.frameworks.hostservices.cli.zosutil.feature" version="20.12.1.v20220810-1546_39" url="features/com.compuware.frameworks.hostservices.cli.zosutil.feature_20.12.1.v20220810-1546_39/">
+		</feature>
+		<feature id="org.eclipse.emf.codegen.ecore.ui" version="2.14.0.v20180418-0836" url="features/org.eclipse.emf.codegen.ecore.ui_2.14.0.v20180418-0836/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore.edit" version="2.10.0.v20180421-0731" url="features/org.eclipse.emf.ecore.edit_2.10.0.v20180421-0731/">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.14.0.v20180527-1134" url="features/org.eclipse.emf.common_2.14.0.v20180527-1134/">
+		</feature>
+		<feature id="com.compuware.codecoverage.api.feature" version="20.12.1.v20220810-1411_40" url="features/com.compuware.codecoverage.api.feature_20.12.1.v20220810-1411_40/">
+		</feature>
+		<feature id="com.compuware.frameworks.hostservices.cli.launcher.feature" version="20.12.1.v20220810-1546_39" url="features/com.compuware.frameworks.hostservices.cli.launcher.feature_20.12.1.v20220810-1546_39/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.14.0.v20180529-1144" url="features/org.eclipse.emf.ecore_2.14.0.v20180529-1144/">
+		</feature>
+		<feature id="com.compuware.ted.cli.feature" version="20.12.1.v20220810-1523_39" url="features/com.compuware.ted.cli.feature_20.12.1.v20220810-1523_39/">
+		</feature>
+		<feature id="org.eclipse.emf.edit.ui" version="2.14.0.v20180213-0527" url="features/org.eclipse.emf.edit.ui_2.14.0.v20180213-0527/">
+		</feature>
+		<feature id="com.compuware.unittest.eclipse.emf.feature" version="20.12.1.v20220810-1529_42" url="features/com.compuware.unittest.eclipse.emf.feature_20.12.1.v20220810-1529_42/">
+		</feature>
+		<feature id="com.compuware.fileaid.ex.cli.feature" version="20.12.1.v20220810-1438_40" url="features/com.compuware.fileaid.ex.cli.feature_20.12.1.v20220810-1438_40/">
+		</feature>
+		<feature id="com.compuware.frameworks.hostservices.cli.feature" version="20.12.1.v20220810-1546_39" url="features/com.compuware.frameworks.hostservices.cli.feature_20.12.1.v20220810-1546_39/" plugin-identifier="com.compuware.frameworks.hostservices.cli">
+		</feature>
+		<feature id="org.eclipse.emf.codegen.ecore" version="2.14.0.v20180418-0836" url="features/org.eclipse.emf.codegen.ecore_2.14.0.v20180418-0836/">
+		</feature>
+		<feature id="org.eclipse.emf.codegen.ui" version="2.9.0.v20180125-1130" url="features/org.eclipse.emf.codegen.ui_2.9.0.v20180125-1130/">
+		</feature>
+		<feature id="org.eclipse.emf" version="2.14.0.v20180529-1144" url="features/org.eclipse.emf_2.14.0.v20180529-1144/">
+		</feature>
+		<feature id="com.compuware.frameworks.diagnostic.collection.feature" version="20.12.1.v20220810-1310_40" url="features/com.compuware.frameworks.diagnostic.collection.feature_20.12.1.v20220810-1310_40/">
+		</feature>
+		<feature id="com.compuware.frameworks.hostservices.mainframe.communication.feature" version="20.12.1.v20220810-1324_40" url="features/com.compuware.frameworks.hostservices.mainframe.communication.feature_20.12.1.v20220810-1324_40/">
+		</feature>
+	</site>
+</config>

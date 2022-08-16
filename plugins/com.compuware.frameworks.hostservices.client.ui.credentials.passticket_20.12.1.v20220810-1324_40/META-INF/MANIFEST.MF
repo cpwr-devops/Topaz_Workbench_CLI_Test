@@ -1,0 +1,3488 @@
+Manifest-Version: 1.0
+Created-By: 11.0.7 (AdoptOpenJDK)
+
+Name: features/com.compuware.codecoverage.cli.feature_20.12.1.v20220810-
+ 1546_39/META-INF/COMPUWAR.RSA
+SHA-256-Digest: ncmG9uofvFwN6NulF/RzXR1rvpKCfbiUU6JLArvd+ZU=
+
+Name: plugins/org.eclipse.e4.ui.workbench_1.6.0.v20180516-2019.jar
+SHA-256-Digest: Eb/sCH5X0jvEV0Fk5iht8xQa1+So1b+jlwnnm9sYSJs=
+
+Name: plugins/com.compuware.ispw.cli_20.12.1.v20220810-1525_40.jar
+SHA-256-Digest: 1ZbsdPD+aynBfy/I44TxQKC7XMRK7ArIU6u1wf2nBKo=
+
+Name: plugins/com.compuware.frameworks.nls_20.12.1.v20220810-1310_40.jar
+SHA-256-Digest: pKolGCV230y9kAFQX4ar/ffLrhNWEoRNc7ObmKZjiYA=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/Application$1.class
+SHA-256-Digest: MJnKFnVFwxopBWdPGpDL45u3irL2taRPya07K65N/+w=
+
+Name: plugins/org.apache.commons.lang3_3.1.0.v201403281430.jar
+SHA-256-Digest: okEjAl4/ecILtbzbCKg01JcO24VKKe6VJ/WIxkfIEg0=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/root.win32.win32.x86_64/IspwCLI.bat
+SHA-256-Digest: RgD5XU6NVGWICFZt24E/C84JJyv3gX7Wgv2QE3uP8iM=
+
+Name: features/com.compuware.unittest.thirdparty.feature_20.12.1.v202208
+ 10-1529_42/META-INF/COMPUWAR.RSA
+SHA-256-Digest: bx99cOmju7lMJZZw7ogYeAU4BMi/opGLLx3pZf5K4is=
+
+Name: features/com.compuware.frameworks.hostservices.core.feature_20.12.
+ 1.v20220810-1324_40/META-INF/COMPUWAR.SF
+SHA-256-Digest: VZxiZu5U5X0A25FqBwTkUsGlgy0BotxNl1q3K6SwpDY=
+
+Name: features/org.eclipse.emf.codegen.ecore.ui_2.14.0.v20180418-0836/fe
+ ature.properties
+SHA-256-Digest: PTqvIIeiXP2fcv/XrFmmO0kBmCx76TEL+anxIVCmJb0=
+
+Name: plugins/com.compuware.frameworks.hostservices.ces.commandset_20.12
+ .1.v20220810-1324_40.jar
+SHA-256-Digest: yo8w7tPtTXmW9XPIM+er8FgunpxkgeseGJDtK1zvgDU=
+
+Name: plugins/com.compuware.frameworks.hostservices.message.resources_20
+ .12.1.v20220810-1324_40.jar
+SHA-256-Digest: dmTIo34cmAR8g7EWpZqnCw7H+AYKr0xgGZL3r71Mo4I=
+
+Name: features/com.compuware.fileaid.ex.cli.feature_20.12.1.v20220810-14
+ 38_40/feature.properties
+SHA-256-Digest: DnjuDIqn+6M02riw/0cvTFW/G51aeiQtkMu53aMGazw=
+
+Name: features/org.eclipse.datatools.modelbase.feature_1.14.100.20180202
+ 2135/META-INF/ECLIPSE_.SF
+SHA-256-Digest: 9agWnPPDvygtUXGBXHDv96XESSsFn+o08J6kgiCgAaU=
+
+Name: p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.pr
+ ofile/1660146572182.profile.gz
+SHA-256-Digest: Bqiy1eXKBLHVMjpWXn203dGaQcZhi8RhUXoRMnV7hhs=
+
+Name: features/org.eclipse.emf.mapping.ui_2.10.0.v20180125-1130/META-INF
+ /ECLIPSE_.RSA
+SHA-256-Digest: SObvSXLh8r9dDDPMaDptSe/cnt+aaWCko+Zh0ScOjj8=
+
+Name: plugins/com.compuware.zadviser.cli_20.12.1.v20220810-1546_39.jar
+SHA-256-Digest: 5cXTsDQp9bMX8bqc93GGyhMx4yCHnN4nkDJGtkHBpsE=
+
+Name: plugins/javax.activation_1.1.0.v201211130549.jar
+SHA-256-Digest: iWkBefXk6MCWPvsaGNQ/hS5TNLwLtoM37qLnjSSq02A=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/actions/OpenPerspectiveContributi
+ onItem.class
+SHA-256-Digest: Qalemf0jSjhew+sIqD5y71M255bm42LuNdnTX5SG9Jo=
+
+Name: plugins/com.compuware.runtime.visualizer.data_20.12.1.v20220810-13
+ 22_39.jar
+SHA-256-Digest: ddWl+PB7AMh3Pzm5wDBDLSkPIkqVCR9bxqqNNK1/aBc=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/license_compuware.html
+SHA-256-Digest: L72UscHUZLETkmQuaQCKASqKJPpx4b50ErtncehgCbY=
+
+Name: features/org.eclipse.emf.mapping_2.10.0.v20180125-1130/license.htm
+ l
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: features/com.compuware.unittest.eclipse.emf.feature_20.12.1.v20220
+ 810-1529_42/META-INF/MANIFEST.MF
+SHA-256-Digest: 4p5C60VLlcNCSI1g2kzPMDb0d11Fgc1p6Nq4pjWpSgI=
+
+Name: plugins/org.eclipse.core.databinding.property_1.6.200.v20180403-09
+ 44.jar
+SHA-256-Digest: MnLDmx1jZLY0xvO1kNofchVBRp/zuaG7g3gmyEqMLzI=
+
+Name: features/com.compuware.xatester.cli.feature_20.12.1.v20220810-1529
+ _42/META-INF/COMPUWAR.SF
+SHA-256-Digest: lzKvz/AgAYSMfi7bISjZhAk+2GtCdx1eFicji59Y2dI=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/listeners/WorkbenchPartListener.c
+ lass
+SHA-256-Digest: sZrMHZm1a3tOgMj/04jRUfTypE7YOOpfBA3CrIrA224=
+
+Name: features/com.compuware.xatester.cli.feature_20.12.1.v20220810-1529
+ _42/META-INF/COMPUWAR.RSA
+SHA-256-Digest: SHxZ8lQYjc3tWFe3mgLU3y9QOoWMEmLvEOFOWfynRQM=
+
+Name: features/org.eclipse.emf.mapping.ecore_2.10.0.v20180125-1130/META-
+ INF/MANIFEST.MF
+SHA-256-Digest: kPD3OVuK2bnuNN4yk6qeKLBo6s2n7ndKUhoAk/rOqD4=
+
+Name: plugins/org.slf4j.api_1.7.2.v20121108-1250.jar
+SHA-256-Digest: Ix+Yl2LOAAt0i5x2xb9GAgFstE4KRIbm+GqpUgZjsNQ=
+
+Name: plugins/com.compuware.fileaid.common.messaging.core_20.12.1.v20220
+ 810-1411_39.jar
+SHA-256-Digest: HV4esX9GTvv4DkvnToePh+qRA9H+V6/GUDRCptJF05w=
+
+Name: p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.pr
+ ofile/1660146597353.profile.gz
+SHA-256-Digest: rvhOpBYlhcCX6mVvFprEw7VOzvtjyj2s6Zua0MirJz0=
+
+Name: plugins/com.compuware.frameworks.hostservices.copybooks.local_20.1
+ 2.1.v20220810-1324_40.jar
+SHA-256-Digest: jI47PC6SxGw++p2NbDak1vuVatlHbaLjtnG9SFaaLCw=
+
+Name: plugins/org.eclipse.emf.importer.ecore_2.9.0.v20180125-1130.jar
+SHA-256-Digest: zwcq+wETnuoFdh8nAQpCntoDyuU/1CD8UlBsMWMqgY8=
+
+Name: plugins/com.compuware.java.utilities.icu_20.12.1.v20220810-1300_41
+ .jar
+SHA-256-Digest: R54Ig88jWXGeGqdfuHA8lHSeXbLSmYBe8pk1Vo1W29E=
+
+Name: features/org.eclipse.emf.common.ui_2.13.0.v20180127-1015/feature.p
+ roperties
+SHA-256-Digest: J9phE41jAIVnWgUrmvjHW/QxSsl3uhGpofkEzlwYO7c=
+
+Name: plugins/com.compuware.fileaid.common.util_20.12.1.v20220810-1411_3
+ 9.jar
+SHA-256-Digest: DMDoPv7orS5mgw9hIAPgvnfVVxYx/XW4qIv9L3CUoc8=
+
+Name: plugins/org.eclipse.equinox.p2.core_2.5.0.v20180512-1128.jar
+SHA-256-Digest: VR1lg7f3wrm/07kPa3bhlc/AzYNNHCNG0jAw0XHmflc=
+
+Name: p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.pr
+ ofile/1660146572272.profile.gz
+SHA-256-Digest: 7TMwMB/eEYmR2PgsUrT0wXVcggKTTgz/QOLzOHK/LNQ=
+
+Name: features/com.compuware.totaltest.cli.feature_20.12.1.v20220810-152
+ 9_42/feature.xml
+SHA-256-Digest: OC84oEXpH2O2/ILHlt5eB21eiX1TdApkuX8vugV0CcU=
+
+Name: plugins/org.eclipse.e4.core.di_1.7.0.v20180427-1454.jar
+SHA-256-Digest: qjs8mYim+CX9CDIh3EifWC9c6S2i4tUvX3Anrm0EHo0=
+
+Name: features/com.compuware.frameworks.hostservices.client.feature_20.1
+ 2.1.v20220810-1324_40/META-INF/MANIFEST.MF
+SHA-256-Digest: coHiiSnhB7hnR1KElz0hlCzkdEW7IG+Bw+0+1fLpUDw=
+
+Name: plugins/org.tukaani.xz_1.8.0.v20180207-1613.jar
+SHA-256-Digest: +hTI9GW3bwEyC2Rx9So4A98wpxUdlSVgMrma9GFpgUc=
+
+Name: features/org.eclipse.emf.ecore.editor_2.14.0.v20180212-1111/featur
+ e.xml
+SHA-256-Digest: IZBaIqwasMzZrpsPkdPFCTv817hOl7FZpI2qD+HHaPM=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-swing.jar
+SHA-256-Digest: 4tIgIdSFCxHusOXDWDL/X2JeQpOxo1hpeiXwv+DtFfA=
+
+Name: features/org.eclipse.emf.databinding.edit_1.5.0.v20180130-1145/MET
+ A-INF/ECLIPSE_.RSA
+SHA-256-Digest: 6C5T8W0fCbmFS1UI+Vz8SB/P2yRkdh8+KydUaLpttik=
+
+Name: features/com.compuware.frameworks.hostservices.client.feature_20.1
+ 2.1.v20220810-1324_40/p2.inf
+SHA-256-Digest: K2wWi/iC1/8zJLGWnWvkLsic4pe4mwcYocjinzti0VU=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/META-INF/COMPUWAR.SF
+SHA-256-Digest: U1yJN0WiqgK5ADzc3JNjfmS3350lPUj9mPwppkyZmgk=
+
+Name: features/com.compuware.frameworks.hostservices.core.feature_20.12.
+ 1.v20220810-1324_40/feature.properties
+SHA-256-Digest: 4DH2/nDdw6jBUeKi1toTfnJ8iAB/9R9GbxW2KPmDabU=
+
+Name: features/com.compuware.codecoverage.cli.feature_20.12.1.v20220810-
+ 1546_39/META-INF/COMPUWAR.SF
+SHA-256-Digest: l3+eIyCbDihrSUlC651X8L+7Dsr8j7aUIDZTMi491aM=
+
+Name: plugins/org.eclipse.osgi.services_3.7.0.v20180223-1712.jar
+SHA-256-Digest: Mx3t/4DzYSDGxAehZoyKBHf63KN1J/jKPYq+cQbjmMQ=
+
+Name: plugins/com.compuware.fileaid.common.commandProviders.requests_20.
+ 12.1.v20220810-1411_39.jar
+SHA-256-Digest: Cswjj66XZDXnKdCnIBwx+YmrzVHd2Wi9T0th5c5bNH8=
+
+Name: plugins/com.compuware.frameworks.workbench.diagnostic.common_20.12
+ .1.v20220810-1310_40.jar
+SHA-256-Digest: OcQfhOzg+xu8u8vu5Kt+uHgjB3TGU8l3O/38MTHewr8=
+
+Name: plugins/org.apache.commons.codec_1.14.0.v20200818-1422.jar
+SHA-256-Digest: nWUekCNhb8tvA9xEPmiJSJs0A0i+Mmi9r8bRBUn5kvo=
+
+Name: plugins/javax.transaction_1.1.1.v201105210645.jar
+SHA-256-Digest: 0JYSjy6C7oar904O8n+5MOQbaoGBJxDNJMWv018eDew=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/ant.bat
+SHA-256-Digest: W9p7+W5vj5wAJ/3ockMbPZmMgE0viRCcOdFWOtK9G7I=
+
+Name: plugins/com.compuware.frameworks.hostservices.cli_20.12.1.v2022081
+ 0-1546_39.jar
+SHA-256-Digest: J/4kO4WhHeJ3pccSK8d0EhKOYUVKY5YMCc22b42dFeY=
+
+Name: plugins/com.compuware.fileaid.common.metadata.services_20.12.1.v20
+ 220810-1411_39.jar
+SHA-256-Digest: S4qhxFkxHL/3Yt4jiMc6W1zz0hEVYdofT3oW0HsJS4s=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.codepagema
+ nager.api_20.12.1.v20220810-1324_40.jar
+SHA-256-Digest: df3lnCw10eCjxMvxTLR00qDvBRzouXBEzCMUEq6zY4U=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/about.html
+SHA-256-Digest: SpVNh+b5X8tDpI0ICEpVzm6VCTHOQd7PYTBTaQ/CNYk=
+
+Name: plugins/org.eclipse.emf.codegen_2.13.0.v20180319-0813.jar
+SHA-256-Digest: 4eNIUYjoUfsBA2ZnsIOSvZ3IJoSXroMFUqLxFleDe9E=
+
+Name: plugins/org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar
+SHA-256-Digest: zJq8mvYlsYsSGjlY2A4LE+qNTFcDFqUfnzQRGkgXC8k=
+
+Name: features/org.eclipse.emf.common_2.14.0.v20180527-1134/META-INF/ECL
+ IPSE_.SF
+SHA-256-Digest: 7nuc8SHLPpQ+461R0o0sYLExSzl8ts/+y8kDm85P86I=
+
+Name: plugins/org.eclipse.emf.ant_2.9.0.v20180125-1130.jar
+SHA-256-Digest: KGyvoIKVuNzvSislcYdziRoFm6PuxcYs/FUbm6IcswY=
+
+Name: plugins/com.compuware.codecoverage.api.impl_20.12.1.v20220810-1411
+ _40.jar
+SHA-256-Digest: iioxnzPNg+fTj6Ty5W9usofyG3Lmvz1Q54c0mFbwv3M=
+
+Name: TotalTestFTCLI.bat
+SHA-256-Digest: TmdgWqRuFAoDV8pGzduLEySbVXf/htHPO77ujDT9O6o=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/META-INF/COMPUWAR.SF
+SHA-256-Digest: DMva63Hlv+bdLvr+8Jw85Zt8Yo/8RlhIa41LOOGVFNI=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root.win32.win32.x86_64/SubmitJclCLI.bat
+SHA-256-Digest: H63ZkibwPH/Y7TU2XNJz4D2xUQwuiQ/PVDFUtIBZJ1c=
+
+Name: plugins/com.compuware.xpediter.api_20.12.1.v20220810-1415_42.jar
+SHA-256-Digest: uTIfbCOPwr4jTrImQo6Tr9Ov+Sgs2zWTZLvHkufUNwU=
+
+Name: features/org.eclipse.emf.ecore_2.14.0.v20180529-1144/feature.xml
+SHA-256-Digest: /37nl4uumFs5xULvepsOFl1kZw+WcvT8dIlj34IE0P4=
+
+Name: features/org.eclipse.emf.converter_2.13.0.v20180131-0817/feature.x
+ ml
+SHA-256-Digest: Q9UKMuTk2Y6KjeeLQd+MK4V2rSSh8cxGfI+8HEw0rs4=
+
+Name: plugins/org.eclipse.compare.core_3.6.200.v20180312-1255.jar
+SHA-256-Digest: 2hMfwvstDWpyq6Dm28nL2h7Xd+5VE4+rpPPSZRBPVFA=
+
+Name: plugins/com.compuware.fileaid.ex.areditor.model.rdx_20.12.1.v20220
+ 810-1438_40.jar
+SHA-256-Digest: wbKCwYuLdnDX6IBrHz57Y7gdrjkBBNcu4KyaPRx2KaE=
+
+Name: features/org.eclipse.emf.converter_2.13.0.v20180131-0817/META-INF/
+ ECLIPSE_.SF
+SHA-256-Digest: KT7kYvo7T7YHSX0FOAgjJYwYxN0uwia1jTJ22xMCKSI=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/colors.bmp
+SHA-256-Digest: +vpuRYQ0PwbKcwHoUHsiJno22nwd1PMSvpyqkHyggRw=
+
+Name: features/org.eclipse.datatools.modelbase.feature_1.14.100.20180202
+ 2135/license.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: features/org.eclipse.emf.ecore_2.14.0.v20180529-1144/META-INF/ECLI
+ PSE_.RSA
+SHA-256-Digest: KEx7ZTbrU3JpikQDe8Zk+e8dfEZKC1wKp8Nw0iSfNas=
+
+Name: plugins/org.eclipse.jface_3.14.0.v20180423-0714.jar
+SHA-256-Digest: DKKeTbusbBFLU1oPUX+U+/ePHvumPLVqAaFvAQmHKtA=
+
+Name: plugins/org.eclipse.emf.ecore.change.edit_2.7.0.v20180125-1130.jar
+SHA-256-Digest: Hgm33D+8olzrNIvXZHocG1TzGR+sYExAfrl/3MHCDdU=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/com/compuware/frameworks/hostser
+ vices/client/ui/credentials/passticket/internal/CustomCredentialProvide
+ rPassTicketActivator.class
+SHA-256-Digest: SOuj6w67NJ2i0D/Xu7KZU1e4RDkhffeoiX06r836iBo=
+
+Name: readme/license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: features/com.compuware.codecoverage.cli.feature_20.12.1.v20220810-
+ 1546_39/META-INF/MANIFEST.MF
+SHA-256-Digest: 4dBOGj0Ej8JIgKtQ5kWoYf90tz9f9EFO+OkqeUTNK8w=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/junit-frames.xsl
+SHA-256-Digest: qKYRG5UtQVIYdkfH+sVUh6MaM6QXfl6HhuNqti4yICk=
+
+Name: features/org.eclipse.datatools.sqldevtools.parsers.feature_1.14.10
+ 0.201801242337/feature.xml
+SHA-256-Digest: P5ffgn4CwcsH8qvH65cwEadxlIaYUsF4fKrfnitSJlM=
+
+Name: features/com.compuware.totaltest.cli.feature_20.12.1.v20220810-152
+ 9_42/META-INF/COMPUWAR.RSA
+SHA-256-Digest: qG3acePB0L8OlU9Bydeup6TIadDE9OtiIBy8ILnt7/w=
+
+Name: features/com.compuware.fileaid.ex.cli.feature_20.12.1.v20220810-14
+ 38_40/root/data/.com.compuware.fileaid.ex/cfg/security/faexclient.keyst
+ ore
+SHA-256-Digest: yfocgfzEkFzXv//2kA4NE8/02u6smzuAOb1Jbo2MlnA=
+
+Name: plugins/org.eclipse.equinox.preferences_3.7.100.v20180510-1129.jar
+SHA-256-Digest: WUEAki1CwU3Qp7GxFFTvbFMG5xFMee6zexm07m0WnqQ=
+
+Name: plugins/commons-logging_1.1.2.jar
+SHA-256-Digest: MO/bRzC0ZdCjATB1l1tZkdJYv1MjJJOm1vnllUPXJWw=
+
+Name: plugins/com.compuware.unittest.thirdparty.org.apache.commons-jexl_
+ 20.12.1.v20220810-1529_42.jar
+SHA-256-Digest: fWQF7Bp+fkc27EuOyuVwcpRwml0YVNQJCC9ti7k7foQ=
+
+Name: HostServicesCLI.exe
+SHA-256-Digest: aJVrL3DfgD8+5pIz/OIcvL+iShuH7y6+MZBshyQfpAs=
+
+Name: features/com.compuware.unittest.cli.feature_20.12.1.v20220810-1529
+ _42/META-INF/COMPUWAR.RSA
+SHA-256-Digest: UUOWoQYgaKMAZb7js+JcwzAp8P6daYFiHeguulbOR4c=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-launcher.jar
+SHA-256-Digest: xc6Mvtgkr0ImMK2i+yXvXTqGse7hHhmAfOufnhx/28s=
+
+Name: features/com.compuware.frameworks.workbench.logging.feature_20.12.
+ 1.v20220810-1310_40/META-INF/COMPUWAR.SF
+SHA-256-Digest: gqcLtDhKG1Mvm9ENlu1GfnRXXVADM5Wp6ycYYG3L88w=
+
+Name: features/org.eclipse.emf.ecore.edit_2.10.0.v20180421-0731/feature.
+ properties
+SHA-256-Digest: 7ywifWZ+o0oOIkHcByTA6riCKDJQ6nsVBZIMyMPneuQ=
+
+Name: plugins/org.eclipse.emf.exporter_2.8.0.v20180125-1130.jar
+SHA-256-Digest: A4NfWcVs3zLl0FYw+hGfFKDKfOvprh3ZsHfRvg/6wjM=
+
+Name: features/com.compuware.frameworks.workbench.logging.feature_20.12.
+ 1.v20220810-1310_40/feature.properties
+SHA-256-Digest: iKnPG0y4ObjPfq2UaoH5J3NuZSdpJnUbfRZvcvC9K90=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/about_files/license_compuware.html
+SHA-256-Digest: rrya7PGnRDRTGBl/gJ4LOkZ69UDYzPgOXu7BmF/Wr8Q=
+
+Name: plugins/com.compuware.totaltest.common.hci.api_20.12.1.v20220810-1
+ 529_42.jar
+SHA-256-Digest: HdS6IqryNqXeMosodWWPZKE4p9iH31nsJH3efxCNW5s=
+
+Name: plugins/com.compuware.unittest.eclipse.common.ui_20.12.1.v20220810
+ -1529_42.jar
+SHA-256-Digest: Xtr8IH9TCFqVq2zIrk2QZSpIIpT49czOgaFNdxBbi+g=
+
+Name: features/org.eclipse.emf.ecore_2.14.0.v20180529-1144/META-INF/ECLI
+ PSE_.SF
+SHA-256-Digest: YpE2lnTZsweMbOUlIaXlUR/Xg4V5g6ZUU6mq5J8xKTA=
+
+Name: plugins/org.eclipse.equinox.p2.repository_2.4.0.v20180512-1128.jar
+SHA-256-Digest: vQ+q0ZuD2ngLI5Wd1KvJFc91+douX2b8+LkDmd4A6ag=
+
+Name: features/com.compuware.frameworks.hostservices.client.feature_20.1
+ 2.1.v20220810-1324_40/feature.properties
+SHA-256-Digest: 0cgPyvqq+K16gATuegKUx6fK1M7jJ6nWBow7ydzXiW8=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.gtk.linux.x86_64/TotalTestCLI.sh
+SHA-256-Digest: JtJR8Aw+5pxPgG23dQ7AjRBuZgx64koGbPWd0vqYBA8=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/about_files/license_compuware.ht
+ ml
+SHA-256-Digest: rrya7PGnRDRTGBl/gJ4LOkZ69UDYzPgOXu7BmF/Wr8Q=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: B3FMHcIqyEBJuDCpGlkksuUbZNqnYug6w4jrw9pxDR4=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/jdepend-frames.xs
+ l
+SHA-256-Digest: gDJkA5Cx99H+xc28I/fTm04Dunxx3P9ix4stDcJUfSs=
+
+Name: plugins/org.eclipse.e4.ui.css.swt.theme_0.12.0.v20180403-0944.jar
+SHA-256-Digest: k1Z9F0WmtbnR8f0rm32SmJUuX+KLkZkj6NH1WhGjNSg=
+
+Name: features/org.eclipse.emf_2.14.0.v20180529-1144/epl-v10.html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: features/org.eclipse.emf.codegen.ecore_2.14.0.v20180418-0836/featu
+ re.properties
+SHA-256-Digest: 3sc6canh5gC5T8phn/RB5prGrMSQwcehBK6dUGvGITI=
+
+Name: features/com.compuware.frameworks.hostservices.client.feature_20.1
+ 2.1.v20220810-1324_40/META-INF/COMPUWAR.SF
+SHA-256-Digest: 8MJwyxwTOLtHA7Gmftz/riV02MUFMD3iNHifpnkOvxE=
+
+Name: plugins/com.compuware.fileaid.ex.executionsuites.model.jaxb_20.12.
+ 1.v20220810-1438_40.jar
+SHA-256-Digest: 7b0K5CDPjcJkaJ8zwmB9TlfqhI1rZn2ZsPslaT732+8=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.exceptions_20
+ .12.1.v20220810-1324_40.jar
+SHA-256-Digest: 4j0Z9QR3WYaJ74NHQxkOMNouhdWMFwwnMPgpdeK/1Uo=
+
+Name: plugins/org.eclipse.emf.mapping.ecore.editor_2.7.0.v20180123-1048.
+ jar
+SHA-256-Digest: QoWzPZWWip/OqLsR/k6yU+ahFZjkBTjvYwfTUxql1yU=
+
+Name: plugins/com.compuware.zadviser.communications.api_20.12.1.v2022081
+ 0-1324_40.jar
+SHA-256-Digest: /FtFle5C5rzScTachNqhOhtjjLV7eTSPb5T59aE1Q90=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/META-INF/ECLIPSE_.SF
+SHA-256-Digest: 5+p+/EXA4pEJNvMutkRqELu2owG+D47b4EhIFFXac40=
+
+Name: features/org.eclipse.datatools.sqldevtools.parsers.feature_1.14.10
+ 0.201801242337/META-INF/ECLIPSE_.RSA
+SHA-256-Digest: jVFQBa8i1BM/rPnEKhFYKktHGTiUKL8ylDGWNjJROSI=
+
+Name: features/org.eclipse.emf.codegen.ui_2.9.0.v20180125-1130/META-INF/
+ ECLIPSE_.SF
+SHA-256-Digest: AOJvFVl+cOCwfEybYxCseLuRaaaMYU+NrnLh0iiR5mg=
+
+Name: plugins/com.compuware.xatester.common.libs_20.12.1.v20220810-1529_
+ 42.jar
+SHA-256-Digest: c9j3T/peIs/WupvxRJOB8JxBBWM4DaQ45wTfb7Oib+U=
+
+Name: plugins/org.w3c.dom.svg_1.1.0.v201011041433.jar
+SHA-256-Digest: ChHh3L3XVrImCIxBwUFgVl4n7+iHr0DHjLowqFELucM=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root.gtk.linux.x86_64/ZAdviserCLI.sh
+SHA-256-Digest: f61byefhtTnwvLqLO996bof5b0qY/AwtlgFMphpBGDA=
+
+Name: features/com.compuware.frameworks.hostservices.mainframe.communica
+ tion.feature_20.12.1.v20220810-1324_40/feature.properties
+SHA-256-Digest: e99UIsIgaq2P1QvlFtEHeK/wthB7ES4T7xG4d7iIIZY=
+
+Name: plugins/org.eclipse.emf.mapping.ecore2xml.ui_2.9.0.v20180125-1130.
+ jar
+SHA-256-Digest: 3om0haCWhiD593qlpwCCZ4IRpBxA5c8OTrhYKTmmOH0=
+
+Name: plugins/org.eclipse.equinox.p2.jarprocessor_1.1.0.v20180512-1128.j
+ ar
+SHA-256-Digest: iWY41QmOpNp7kgX+gQlsJdhrZlRhiZ9+QF1rOg318M4=
+
+Name: plugins/com.compuware.frameworks.hostservices.client_20.12.1.v2022
+ 0810-1324_40.jar
+SHA-256-Digest: atKsX64/RxGXeWjk11fT+xEL6p7M5P34ADqBJxKFaGY=
+
+Name: features/com.compuware.codecoverage.cli.feature_20.12.1.v20220810-
+ 1546_39/feature.properties
+SHA-256-Digest: EYikhlO7pKZH2iloh0n2ihVofZ+g48v6bjQabXSv+u8=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/envset.cmd
+SHA-256-Digest: /RdqIs+QwZkuWZuoH5Gk6g73MJF8pJJBhq66Ki+cc14=
+
+Name: plugins/org.eclipse.persistence.moxy_2.7.7.v20201201_1699.jar
+SHA-256-Digest: 4J9ZHxRt/F7la2x5uVBM6yzZvqT8+7+9O4pMHHFHPgU=
+
+Name: features/org.eclipse.emf.databinding_1.5.0.v20180130-1145/feature.
+ xml
+SHA-256-Digest: fyFxBGzIDF74+ETXVs27uoXK1kzBEOsRH3a2/oRrZJY=
+
+Name: features/org.eclipse.emf.edit.ui_2.14.0.v20180213-0527/META-INF/MA
+ NIFEST.MF
+SHA-256-Digest: gTCuYl1Yuc74HDfBomXq1IXOrHcRzxhgy4xZiHIt3Fk=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root/workspace/TTTlogback.xml
+SHA-256-Digest: /H4sRb10WCIX9YZ3YaLOl3lrbb+xk3AXGsd8GoWzQX4=
+
+Name: plugins/org.apache.commons.collections_3.2.2.v201511171945.jar
+SHA-256-Digest: kHKxtCroty3K93Xyu8uHT9+hvpDnXx/MdhjdBJ2YM/I=
+
+Name: plugins/org.eclipse.jdt.debug_3.11.100.v20180515-0929/plugin.xml
+SHA-256-Digest: S5o5G7/c6SFoaKSI2fLB1h5bYlmOAUaWi6B/ejRakLU=
+
+Name: features/com.compuware.frameworks.hostservices.core.feature_20.12.
+ 1.v20220810-1324_40/META-INF/MANIFEST.MF
+SHA-256-Digest: vtlaVdhAwT4eeaSRYN+fiG220Rs3WEZVxDzggspcpTA=
+
+Name: plugins/com.compuware.fileaid.ex.extract.model.rdx_20.12.1.v202208
+ 10-1438_40.jar
+SHA-256-Digest: CHT5TMDpQltre6IL0POn5VfY+pH1aB5yPF7QWhchNY0=
+
+Name: features/com.compuware.frameworks.hostservices.cli.zosutil.feature
+ _20.12.1.v20220810-1546_39/feature.xml
+SHA-256-Digest: ud447nqx9ONEMlUi3yH4KmK61oeE90ZlQPeOYJqWPa0=
+
+Name: features/com.compuware.frameworks.diagnostic.data.feature_20.12.1.
+ v20220810-1310_40/feature.xml
+SHA-256-Digest: GdifUCFaVhkbYFcmhVhPZefJFJf6XHEufuTef/Bqn2M=
+
+Name: features/com.compuware.unittest.eclipse.emf.feature_20.12.1.v20220
+ 810-1529_42/META-INF/COMPUWAR.SF
+SHA-256-Digest: 8urn/Y04FYo0xZkJqd1F/GOqarO03hT20JV/8GCzWNo=
+
+Name: plugins/com.compuware.unittest.cli_20.12.1.v20220810-1529_42.jar
+SHA-256-Digest: OI4sKwES5hz3F+07Yw6k7A8C1Xj18qIx6pNowGRH5t0=
+
+Name: plugins/com.compuware.ted.cli_20.12.1.v20220810-1523_39.jar
+SHA-256-Digest: mPljQL34DcaG7aJCPPkll9vK+3Q7FV0LZrwTPoU1xCM=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/about_files/THE_APACH
+ E_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=
+
+Name: plugins/com.compuware.fileaid.ex.executionsuites.model.core_20.12.
+ 1.v20220810-1438_40.jar
+SHA-256-Digest: nUG1tyakgrojKU50Bnk90ldrcSeqvo4nyocIaJ+boC8=
+
+Name: plugins/com.compuware.unittest.eclipse.resultchecker_20.12.1.v2022
+ 0810-1529_42.jar
+SHA-256-Digest: hG8u3KwSic5UF8siMHk+tb5fkR8QYOXLIwxTvELvYy0=
+
+Name: features/org.eclipse.emf.mapping_2.10.0.v20180125-1130/META-INF/EC
+ LIPSE_.SF
+SHA-256-Digest: qCGSrEtbDjOThxiYK3fu1VfdEkBKdXGeNH05hhRvsek=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root.win32.win32.x86_64/TopazWorkbenchCLI.b
+ at
+SHA-256-Digest: w24gq8KtF3umpMwTv++vlfBi2jcUlr7tDmYYr2PxHts=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root/readme/license_apache.txt
+SHA-256-Digest: 98fXBXAR3uQvrzUAgssj+59B9iMasKivsQIcBJHN2x4=
+
+Name: features/com.compuware.frameworks.hostservices.client.feature_20.1
+ 2.1.v20220810-1324_40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: pr0eXe8NRJRoA4pPjyAyKD+CR04+NMiIMZWODOCo9tU=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/feature.properties
+SHA-256-Digest: gg0zYzeVITRUUsq2GcyCMSBGwYXRpG8LwxqViG5cIxQ=
+
+Name: features/org.eclipse.emf.mapping.ecore.editor_2.11.0.v20180125-113
+ 0/META-INF/ECLIPSE_.RSA
+SHA-256-Digest: YXmFuhU5xpbxik2iPAL4IUMLNlh6KjiCL5SU5HWoQlM=
+
+Name: features/com.compuware.frameworks.hostservices.cli.feature_20.12.1
+ .v20220810-1546_39/feature.xml
+SHA-256-Digest: xIIPQqdV8UhL8hXPXGNyZKNq5gnd4hM5hKC3eUZFLHA=
+
+Name: p2/org.eclipse.equinox.p2.core/cache/artifacts.xml
+SHA-256-Digest: m+1Z+gN6bUHMiP39/OgxnRuKJ89OBhOGnih/ucdosts=
+
+Name: features/org.eclipse.emf.mapping.ecore_2.10.0.v20180125-1130/featu
+ re.properties
+SHA-256-Digest: 7HbQhhLPpge8Ii1gNYiDx5u1wOfH4iHBGnlbRxnWtjs=
+
+Name: plugins/com.compuware.fileaid.ex.selectioncriteria.model.jaxb.vers
+ ions_20.12.1.v20220810-1438_40.jar
+SHA-256-Digest: CHc0CETMBUnsudiXfFYZxVUSHLPthSS2ZL/Yuq1lKE4=
+
+Name: plugins/org.eclipse.emf.common.ui_2.13.0.v20180127-1015.jar
+SHA-256-Digest: Coq0cDpt1z1dAPxKVY4JjEgLYi359rxOkL9evQNqotk=
+
+Name: features/org.eclipse.emf.mapping.ecore_2.10.0.v20180125-1130/featu
+ re.xml
+SHA-256-Digest: dgddBWBKjiokOzWoq/7AK4Xu3JBMRb/QhEdIahfAVi0=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/openFolder.gif
+SHA-256-Digest: IBQODmwnmzmEsTyrZtqmiLD4PuJZ9//EJnLmYhgRczM=
+
+Name: features/com.compuware.frameworks.hostservices.common.feature_20.1
+ 2.1.v20220810-1324_40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: /j34xlacwdW1PjM8Iai489xLqH9eGULyUOHOb3seKFs=
+
+Name: plugins/javax.jms_1.1.0.v201205091237.jar
+SHA-256-Digest: R9cnmWBfxXFe4Ik7UBQjmUSjCDfjmbBczaCczMdlncE=
+
+Name: features/com.compuware.codecoverage.api.feature_20.12.1.v20220810-
+ 1411_40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: UHGuneilOlMRiryR4ZjpqNVdXEN+v81TvR+A2Tne+ho=
+
+Name: features/org.eclipse.emf.common_2.14.0.v20180527-1134/META-INF/MAN
+ IFEST.MF
+SHA-256-Digest: oUCwrS2P5pPa5wcUPGt6NTjr2F/d0tU/tYGT5JXQe8s=
+
+Name: features/org.eclipse.emf_2.14.0.v20180529-1144/feature.properties
+SHA-256-Digest: 18ZUJvZT/cCMtSPGm/nKtyF03Me73lHtXTqDPSyH8yk=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/changelog.xsl
+SHA-256-Digest: jSxGvTssHGKi1RU09qXna1/+38/Ycq6kOlqbBso75Hk=
+
+Name: plugins/org.eclipse.equinox.security.ui_1.2.0.v20171221-2204.jar
+SHA-256-Digest: MhN3IxGeaT1RQkA+Pe3qVlybvYV8srOiUl7eemXqg1w=
+
+Name: plugins/com.compuware.frameworks.hostservices.database.common_20.1
+ 2.1.v20220810-1324_40.jar
+SHA-256-Digest: o4/GppYVZU54xxDzvyefRWvvVbT0G0t8bzmZ93VKnKU=
+
+Name: plugins/com.compuware.fileaid.common.core_20.12.1.v20220810-1411_3
+ 9.jar
+SHA-256-Digest: rwU/7VdgysVkZli044BfADioT7cxMRxY7JzL5FJ1x4s=
+
+Name: plugins/javax.annotation-api_1.3.2.jar
+SHA-256-Digest: /I6iLGCgL86s4KhhZb8zPsD0lZvSCzbYYn6jd3UqNxE=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/about_files/SAX-LICEN
+ SE.html
+SHA-256-Digest: FQRgO0nRSZCPug2AudAK07PSB4DJJspXsT1adPMxeuo=
+
+Name: features/com.compuware.xatester.cli.feature_20.12.1.v20220810-1529
+ _42/META-INF/MANIFEST.MF
+SHA-256-Digest: f0643mZyXORh8amHCZ1QndiS5vLXxLFMe+7G+dtviHc=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.win32.win32.x86_64/TotalTestFTCLI.bat
+SHA-256-Digest: TmdgWqRuFAoDV8pGzduLEySbVXf/htHPO77ujDT9O6o=
+
+Name: plugins/org.antlr.antlr4-runtime_4.7.2.jar
+SHA-256-Digest: KnLpSXGnppKQeeYdybY/TjyA3+cwpliXvO/0HufK9CE=
+
+Name: plugins/org.eclipse.debug.ui_3.13.0.v20180514-0621.jar
+SHA-256-Digest: wQbDia9wplFl/G6/e3lkG02RAjLdwh704r+oGS3qZwM=
+
+Name: features/com.compuware.frameworks.workbench.logging.feature_20.12.
+ 1.v20220810-1310_40/p2.inf
+SHA-256-Digest: RfSoAybrXaTn5vSivdlg3ieTdZx4q6oYy7PWAWW20/o=
+
+Name: plugins/com.compuware.ispw.wzzms.model_20.12.1.v20220810-1411_39.j
+ ar
+SHA-256-Digest: HEfkYQ/wy6T6owuarQP2zlKY/FWak6G3BB35sC87a3k=
+
+Name: features/org.eclipse.emf.common.ui_2.13.0.v20180127-1015/META-INF/
+ ECLIPSE_.RSA
+SHA-256-Digest: 8HRQCbncJtKV6oFLPG+97Tlsx3pSOnZHfhIzpaZlG1k=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/feature.xml
+SHA-256-Digest: 7RjPwbtBfMFcJoal3wUFeFDWVCxOYmK+ulDR3jklStU=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/antRun.pl
+SHA-256-Digest: 1JQv8vLQnDpkd3JDqU8wMHfWMYet0MAoqEV2hn9Ytf8=
+
+Name: features/com.compuware.zadviser.cli.feature_20.12.1.v20220810-1546
+ _39/feature.xml
+SHA-256-Digest: V7TcoUGRs5kbT8w8cWDurLonwj99BIl9uKq5t17IGow=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/copy.gif
+SHA-256-Digest: 86oZzpdAZe/IUrRNF4aiRm0TAdiAZ2+aqfREwGkQDwI=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.win32.win32.x86/TotalTestFTCLI.bat
+SHA-256-Digest: TmdgWqRuFAoDV8pGzduLEySbVXf/htHPO77ujDT9O6o=
+
+Name: features/com.compuware.xatester.cli.feature_20.12.1.v20220810-1529
+ _42/feature.properties
+SHA-256-Digest: dvYt18YMA730qZ725VEmU8m6QYE6xCGRs3sBkfjgcPA=
+
+Name: plugins/org.eclipse.ui.ide_3.14.0.v20180517-1842.jar
+SHA-256-Digest: 5XzrtaahiGkvxtDt1zBp+wtpxv1PARa4d7Pa8kqSjd0=
+
+Name: p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.pr
+ ofile/1660146600624.profile.gz
+SHA-256-Digest: qBi/8j1VxmAAYnrSFurHCQ7ral/iKtlGbqfZjW/r5m0=
+
+Name: features/org.eclipse.emf.databinding.edit_1.5.0.v20180130-1145/epl
+ -v10.html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/com.compuware.frameworks.imagerepository_20.12.1.v20220810
+ -1310_40.jar
+SHA-256-Digest: 4aQXamIrCOp7I6R8vgV3KuI76TjnrpUrgesCBJwJ3oU=
+
+Name: features/com.compuware.fileaid.ex.cli.feature_20.12.1.v20220810-14
+ 38_40/META-INF/COMPUWAR.SF
+SHA-256-Digest: eRgHchKrROrU5QJUg4jBQ3hbXczyN93KmdkGcrOfV5M=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/coverage-frames.x
+ sl
+SHA-256-Digest: c83olZ+UFMPX1wZQ3ta1EC8gFNsA85LPC09mTl4PWt0=
+
+Name: plugins/org.eclipse.jdt.debug_3.11.100.v20180515-0929/.api_descrip
+ tion
+SHA-256-Digest: fBVFF9KrlDsekYHydw0borpDZCZUjMPj6HV1CuAtSJI=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/about_files/LICENSE
+SHA-256-Digest: 1FfXdo4jghuHwEdZrLKqqy4iAxlzegYhXRYlew32/2A=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-junit4.jar
+SHA-256-Digest: L+2Pl4G0epkluqPR+qHirJjChyRB/d0j1SjgxMHBc6w=
+
+Name: features/org.eclipse.emf.edit_2.13.0.v20180421-1151/META-INF/ECLIP
+ SE_.RSA
+SHA-256-Digest: BdFyHwl3a8AhkKyAWaj7vacTDoZl/wl+4V3b0nb7E3E=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/LegacyIDE.e4xmi
+SHA-256-Digest: 7A4pVaT+guVDCDY0lvLO0M5+IH3sZ1+mtdNvc3v0y3I=
+
+Name: plugins/org.eclipse.equinox.p2.director_2.4.0.v20180302-1057.jar
+SHA-256-Digest: z+LPRmI/WiI+453Ehgr1XszTz+T4uwLQ4zxBNCqI2Ks=
+
+Name: plugins/com.compuware.fileaid.ex.common.expressionparser_20.12.1.v
+ 20220810-1438_40.jar
+SHA-256-Digest: J9yDxb60o4jwLVIw1Hod+ht/vzfXuoUjx4kS3Qx3G8g=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/checkstyle/checks
+ tyle-text.xsl
+SHA-256-Digest: vQnaLw2nAseue+n/3IZRIhcRFfcRxgeKHwRcVz2UPe0=
+
+Name: plugins/org.eclipse.core.contenttype_3.7.0.v20180426-1644.jar
+SHA-256-Digest: 0uvZLXBEYAz6SWlcGiTC72JTNpNC9Bde7/MWgjSwwOE=
+
+Name: features/com.compuware.zadviser.cli.feature_20.12.1.v20220810-1546
+ _39/feature.properties
+SHA-256-Digest: 5Otw5CULpXNzq+PIBfi3bB5PYNEfXVlJI3aKYLZcbwc=
+
+Name: features/com.compuware.frameworks.hostservices.cli.feature_20.12.1
+ .v20220810-1546_39/feature.properties
+SHA-256-Digest: vgluB3rzwOg8kyJVI5zPopmzQNAgqw4shfhAy/pu4rA=
+
+Name: p2/org.eclipse.equinox.p2.core/cache/binary/com.compuware.ispw.cli
+ .launcher.feature_root.win32.win32.x86_64_20.12.1.v20220810-1525_40
+SHA-256-Digest: kuzwl/L15DrYLxQ87QdxPzAWKwupVNDcXshzby+CXJw=
+
+Name: features/org.eclipse.emf.mapping_2.10.0.v20180125-1130/META-INF/EC
+ LIPSE_.RSA
+SHA-256-Digest: 2rBYWQWrLQudCcOKkT2aeWl2F8iV+lvt2zKCM5/R/dw=
+
+Name: plugins/com.compuware.fileaid.ex.common.model.core_20.12.1.v202208
+ 10-1438_40.jar
+SHA-256-Digest: Td4q8/FRhIgYdxJ/yoqgPea5x9T/IPQngOXcb/v/Q0w=
+
+Name: features/org.eclipse.emf.edit.ui_2.14.0.v20180213-0527/epl-v10.htm
+ l
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/com.compuware.xpediter.communications_20.12.1.v20220810-14
+ 15_42.jar
+SHA-256-Digest: dr6l+2Zjx2Sa345dEUZvuG99aQN8bagw6TYaRfNvKWM=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/junit-noframes.xs
+ l
+SHA-256-Digest: TmMoRI6AIa1quc2VUc4whT3MQ9KhYovy/vo+e/ep0TA=
+
+Name: plugins/org.eclipse.datatools.modelbase.sql.query.edit_1.2.100.201
+ 801242337.jar
+SHA-256-Digest: WPy4umezBLeWp/IYz5aq0Q7sTYlrJOpM2t+gOolvx40=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/root/readme/license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.gtk.linux.x86/TotalTestCLI.sh
+SHA-256-Digest: JtJR8Aw+5pxPgG23dQ7AjRBuZgx64koGbPWd0vqYBA8=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/p2.inf
+SHA-256-Digest: WC+2VR33dHqsV5QxMtAfCTfcvotX7Jb3dSienvPjb0c=
+
+Name: features/org.eclipse.emf.codegen.ui_2.9.0.v20180125-1130/feature.p
+ roperties
+SHA-256-Digest: ROR2TtYXhsM+f253KeRLipiuZ7s2u0B5paX1QHRuSJQ=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.extended.api_
+ 20.12.1.v20220810-1324_40.jar
+SHA-256-Digest: idVs31wj3RbZPJZjuS5mckxdbSB41m9P7RFo/YQi3ew=
+
+Name: plugins/com.compuware.frameworks.diagnostic.data.java_20.12.1.v202
+ 20810-1310_40.jar
+SHA-256-Digest: 8PIbcLTK1xJ7HlPV5SxxaEpkTJtbi4p053KZEcAN4ps=
+
+Name: features/org.eclipse.emf.edit.ui_2.14.0.v20180213-0527/license.htm
+ l
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/org.eclipse.core.jobs_3.10.0.v20180427-1454.jar
+SHA-256-Digest: 0wOjpvfSXa/leds+05I6Uh5tG95NL7tcLNTEwwI18pc=
+
+Name: plugins/com.compuware.workbench.jaxbmoxy.service_20.12.1.v20220810
+ -1310_40.jar
+SHA-256-Digest: ypEvthiZ68bQ4dhqYYBhwsfRXIWXLb1aGguVu7k3/7c=
+
+Name: plugins/org.eclipse.core.commands_3.9.100.v20180404-1234.jar
+SHA-256-Digest: bHUZDK4ETfPp26y9T797bUvCCzXtLVXHJS6OUN7uCfM=
+
+Name: plugins/org.eclipse.ui.workbench_3.111.0.v20180524-1156.jar
+SHA-256-Digest: g4vvEUXvAawf03bM4K0KJg0Z3bDM0I7KgZVegR/VxSk=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/root/workspace/configuration/ispw_logback.xml
+SHA-256-Digest: 9d/8dl2QPtmt4azqWYgY4G8GKahkeXsklSnY3HLiC/g=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/root.gtk.linux.x86_64/IspwCLI.sh
+SHA-256-Digest: TKGAa6cpGD3w3QaR2Me5Y4NB1AjqiH3lDCKUYvsZwBM=
+
+Name: plugins/org.w3c.dom.smil_1.0.1.v200903091627.jar
+SHA-256-Digest: SROvmpV9kmA0NtrtcIwNXNB1tIKtJpzNdGi40Fp2Dj8=
+
+Name: features/org.eclipse.emf.databinding.edit_1.5.0.v20180130-1145/lic
+ ense.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/com.compuware.fileaid.ex.selectioncriteria_20.12.1.v202208
+ 10-1438_40.jar
+SHA-256-Digest: NeB+kLSow85rJ2c/RRmNg6ZsDuOAMRrTy/iPmhtYC9g=
+
+Name: features/org.eclipse.emf.codegen.ecore_2.14.0.v20180418-0836/epl-v
+ 10.html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/org.eclipse.jdt.debug_3.11.100.v20180515-0929/.options
+SHA-256-Digest: BdMc2fx0WAAPoLCGV+a1fjhn3Cvf16tlkGpUODbAjjM=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationWorkbenchWindowAdvisor
+ .class
+SHA-256-Digest: H8164+pvmhZIu4WYMTEwKBIbQsmyC5RdzJHOF4u2KLw=
+
+Name: features/com.compuware.frameworks.hostservices.mainframe.communica
+ tion.feature_20.12.1.v20220810-1324_40/feature.xml
+SHA-256-Digest: 0CAPCRRyz+9ivOLHBrfV3DEtHEOlfjscUjzNOjDTF00=
+
+Name: plugins/com.compuware.fileaid.common.jaxb_20.12.1.v20220810-1411_3
+ 9.jar
+SHA-256-Digest: 4Uv3eimcPH/XVFnaO6Ybl8CHI0VvoFbmz5l569Tw0zE=
+
+Name: features/org.eclipse.emf.codegen.ecore_2.14.0.v20180418-0836/licen
+ se.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/org.eclipse.osgi.util_3.5.0.v20180219-1511.jar
+SHA-256-Digest: 9UpTDmTQNKbBJqy+cPYAiGt9NEzFmkxKsmZy7ROJJ9k=
+
+Name: plugins/org.apache.xmlgraphics_2.2.0.v20180410-1551.jar
+SHA-256-Digest: 7ego4yEpB17NTlpF4TDRvsfAGRc/WKrvzi2D2FRXSqQ=
+
+Name: features/org.eclipse.emf.mapping.ui_2.10.0.v20180125-1130/META-INF
+ /MANIFEST.MF
+SHA-256-Digest: z3n6kZDG0fQZOo2j5Avwpl9jRzo5UNly2iSbhIVJiYg=
+
+Name: plugins/org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.
+ jar
+SHA-256-Digest: GfGwEKcamiCHTTZPm7VSSfkZy+LPnzHbM4hTDpyecB4=
+
+Name: plugins/com.compuware.fileaid.common.model.core_20.12.1.v20220810-
+ 1411_39.jar
+SHA-256-Digest: ozi7Nem52H2h1uRWmzhBhYoh1e2BfAluGwbarxlAZ/o=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/META-INF/MANIFEST.MF
+SHA-256-Digest: dy5NvSRdWcePeht/KedJgaDs30u9mGIXfIGhLQfIVmY=
+
+Name: features/com.compuware.unittest.eclipse.core.feature_20.12.1.v2022
+ 0810-1529_42/p2.inf
+SHA-256-Digest: Yj/ydp7QNr1RbmbHG52fhSV3UR2R9kNv3cOINsEXjKE=
+
+Name: plugins/com.compuware.frameworks.jasypt_1.9.2.v20220707-1259_4.jar
+SHA-256-Digest: oBhpk3/m8WBlgk31HzTRUji5d6nrm2ykQxdAWEqWXLs=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.cocoa.macosx.x86/TotalTestCLI.sh
+SHA-256-Digest: JtJR8Aw+5pxPgG23dQ7AjRBuZgx64koGbPWd0vqYBA8=
+
+Name: features/org.eclipse.emf.mapping.ui_2.10.0.v20180125-1130/META-INF
+ /ECLIPSE_.SF
+SHA-256-Digest: DSXWZFYuihbHDmWI5JZhEmrc5e78cpf2O8EPlAUUC68=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.gtk.linux.x86/TotalTestFTCLI.sh
+SHA-256-Digest: SToK0UyqPl5QhA+Vm5EUocoDpLNi02jjAW6GbNqjXfI=
+
+Name: plugins/com.compuware.fileaid.ex.loader.model.core_20.12.1.v202208
+ 10-1438_40.jar
+SHA-256-Digest: 1u2D59iJFphdxnlx7GGvUgwXpz1kQ7GkE2Fu8gxTJIQ=
+
+Name: plugins/ch.qos.logback.core_1.2.11.jar
+SHA-256-Digest: mVoRrO7evYrmHcRX7n/e4s+06o/IpMMnsNDrZcTqPbg=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$6.cla
+ ss
+SHA-256-Digest: 3S6aoRTykM1DWnZgTYrY6Q7aN9m3TmU1QS9YJgBGtrE=
+
+Name: plugins/com.compuware.xatester.clientapi_20.12.1.v20220810-1529_42
+ .jar
+SHA-256-Digest: OTNtk3NwEv2v5AGmVF71c0zG8Rl22+Nw8OVztbRAV+4=
+
+Name: plugins/org.eclipse.e4.core.commands_0.12.200.v20180427-0801.jar
+SHA-256-Digest: +Sj+k2c56v/cnftbZhEL6WPG93x+GDYr/ARmlY/3oco=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/dialogs/ChooseWorkspaceDialog$1.c
+ lass
+SHA-256-Digest: uS5uHSbKlAXtA6bP0twCZbqNb2+3pDqttZ1HRQ7yupM=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/META-INF/maven/org.ec
+ lipse.orbit.bundles/org.apache.ant/pom.xml
+SHA-256-Digest: /3jukdwbWSYRYuPbQEgACqf46DAhrAYS0QzecBYqT34=
+
+Name: features/org.eclipse.emf.ecore.edit_2.10.0.v20180421-0731/META-INF
+ /MANIFEST.MF
+SHA-256-Digest: rmTlKLNFr9YdWd+4jYkcDp/0tzW82n67e/CgZPUN/hg=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/antenv.cmd
+SHA-256-Digest: Z389kGjE2ZTaiXn40M1w37UhbMwNsHJ7CVjJeomD/MI=
+
+Name: plugins/com.compuware.fileaid.ex.areditor.model.jaxb.versions_20.1
+ 2.1.v20220810-1438_40.jar
+SHA-256-Digest: sjyj4vrl9357kTrhYVfuY1A6UxhT8TAF0Ct1aQOnlhI=
+
+Name: plugins/com.compuware.unittest.cli.submit_20.12.1.v20220810-1529_4
+ 2.jar
+SHA-256-Digest: nDDvjiV4BT3njhJ3mB/wle2QR8/zMHPZ8oyr+eL8U5U=
+
+Name: plugins/org.sat4j.core_2.3.5.v201308161310.jar
+SHA-256-Digest: uvah5a9qZvvU5G573uZ+10x1MK3KXQFrw+5UTE1ffd8=
+
+Name: plugins/slf4j.api_1.7.32.jar
+SHA-256-Digest: JSdA+00+3rz7IgjTyZSfQvpEJFuzHh3s76z1wvW8mzI=
+
+Name: features/com.compuware.codecoverage.api.feature_20.12.1.v20220810-
+ 1411_40/p2.inf
+SHA-256-Digest: 6D20hShbFPasWdGN4/vONcvedFAiBgBJcXiJnZkIMiw=
+
+Name: plugins/org.eclipse.emf.ecore.edit_2.10.0.v20180421-0731.jar
+SHA-256-Digest: M9dE0msUnsEeE0/zqGPJR3ckrw8UBzGiwYSzgPGp0Kc=
+
+Name: features/com.compuware.totaltest.cli.feature_20.12.1.v20220810-152
+ 9_42/META-INF/MANIFEST.MF
+SHA-256-Digest: vBVabqoBXMIF/ZulHpLZteqALJESMnHOs95u9Ah3znI=
+
+Name: features/com.compuware.frameworks.diagnostic.data.feature_20.12.1.
+ v20220810-1310_40/feature.properties
+SHA-256-Digest: T3/ZQOicSH6uv2G1o3x26iBqYdgL6TTvumgcyE1Aa40=
+
+Name: features/com.compuware.frameworks.diagnostic.collection.feature_20
+ .12.1.v20220810-1310_40/feature.properties
+SHA-256-Digest: Ro2RdyRAIxkKduT8I9CcQSsjBKC00KRqBXcSgHY9J5o=
+
+Name: plugins/com.compuware.frameworks.hostservices.ces_20.12.1.v2022081
+ 0-1324_40.jar
+SHA-256-Digest: 52OeuhT/37tKyMNUNe25aq3B12dDxnJus3Q5l1omP9c=
+
+Name: features/org.eclipse.emf.mapping.ecore_2.10.0.v20180125-1130/META-
+ INF/ECLIPSE_.RSA
+SHA-256-Digest: 1I3MHzsDgElP4+OpffngMpqa6Cy/Yp0hOPPw5+WtDVw=
+
+Name: plugins/org.eclipse.jgit_5.0.0.201806131550-r.jar
+SHA-256-Digest: t5gU2CkC4vYfY5FHETzIDAPI21P7/7Wayp+x65l2ZGU=
+
+Name: plugins/org.eclipse.e4.core.di.extensions_0.15.100.v20180403-1008.
+ jar
+SHA-256-Digest: VhalEoLOLzIRh8v8SSkEeGHbNgYQtNi0GRXI8CLRMsA=
+
+Name: features/org.eclipse.emf.edit_2.13.0.v20180421-1151/feature.xml
+SHA-256-Digest: /DtMo4hIX+bzHPDsYXIc/kq9rRajtjUgfYJZj/Tlkus=
+
+Name: plugins/com.compuware.unittest.cli.transfer_20.12.1.v20220810-1529
+ _42.jar
+SHA-256-Digest: LjtTFbHdCQsPsW9I0EFnNMd3IN0TC2cl+OnOnZasmj8=
+
+Name: plugins/com.compuware.zadviser.topaz.api_20.12.1.v20220810-1324_40
+ .jar
+SHA-256-Digest: klaM/7/2vwkGdt2VVd5EXwqTBQUC9FJD0c2A653Nsgc=
+
+Name: plugins/org.eclipse.emf.ecore.editor_2.14.0.v20180212-1111.jar
+SHA-256-Digest: GKMd4fEJOPcUXQuK44dq3MURdnEXvfI8xXIxGdBRAlQ=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/root.win32.win32.x86/IspwCLI.bat
+SHA-256-Digest: djq3rjnvqAh2LowrblyuhEH/ioeVrkeUi7vmOBNUtG0=
+
+Name: features/org.eclipse.emf.common_2.14.0.v20180527-1134/epl-v10.html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: features/com.compuware.frameworks.hostservices.cli.zosutil.feature
+ _20.12.1.v20220810-1546_39/META-INF/COMPUWAR.SF
+SHA-256-Digest: QnN/WMqAR52OxQ55g2eysihoPwTb6xUOZHcNFVOnuIY=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/runant.pl
+SHA-256-Digest: SV+Rk09rIHVnFDPZri0HmjXPZti/AgduRx5e3sn1hLQ=
+
+Name: plugins/org.eclipse.core.net.win32.x86_64_1.1.100.v20180515-0858.j
+ ar
+SHA-256-Digest: JiBTZpoNbVQpLRxZhMx1h4ysA59Wom+Df0VuosFaQks=
+
+Name: plugins/org.eclipse.emf.mapping.ecore2ecore_2.10.0.v20180125-1130.
+ jar
+SHA-256-Digest: BZfggGFVJkZlx6Ihs0QN5SIm/iUoOYNZByFsVfZ/GQE=
+
+Name: features/org.eclipse.datatools.modelbase.feature_1.14.100.20180202
+ 2135/META-INF/MANIFEST.MF
+SHA-256-Digest: +Kla6Tsrv23oInWziZRypNQAp/RiTT5tDBzRAPYCMXU=
+
+Name: features/org.eclipse.emf.mapping.ecore.editor_2.11.0.v20180125-113
+ 0/epl-v10.html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/org.eclipse.emf.ecore.xmi_2.14.0.v20180129-1548.jar
+SHA-256-Digest: VXpdsH09hIx+Pxv9SyPv0r9SgJlvtEwmn/ODZHk9fEs=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root/readme/license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$1.cla
+ ss
+SHA-256-Digest: Vm955uRqAvQRge53f/FyLjCWscdU17hpzh62Bvpu4Fc=
+
+Name: plugins/org.eclipse.emf.codegen.ecore.ui_2.14.0.v20180418-0836.jar
+SHA-256-Digest: oSoZJKibbmSKlUCDLXM2TniMKzk5lWsG6KSQfRUgL1s=
+
+Name: plugins/com.compuware.frameworks.hostservices.resources.api_20.12.
+ 1.v20220810-1324_40.jar
+SHA-256-Digest: PHbqMaV53yBCmKRZwIzkiZ/7NBbRm/h25X0zW/rlL9Y=
+
+Name: features/com.compuware.frameworks.hostservices.core.feature_20.12.
+ 1.v20220810-1324_40/p2.inf
+SHA-256-Digest: +3bpRSV2DycpIg9Y7hP0PRnAPRPn8J9HP4RB73SzGZ4=
+
+Name: plugins/org.eclipse.jface.databinding_1.8.200.v20180403-0945.jar
+SHA-256-Digest: Fu0PO8MBMOKyDPVV8HYSgi0jZ9IavGpGlwMhQImSPrU=
+
+Name: features/org.eclipse.emf.mapping_2.10.0.v20180125-1130/epl-v10.htm
+ l
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: features/org.eclipse.emf.mapping.ecore_2.10.0.v20180125-1130/licen
+ se.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: features/org.eclipse.emf.databinding.edit_1.5.0.v20180130-1145/fea
+ ture.xml
+SHA-256-Digest: tbST6xhTIJ9/E42h9zloZ/UfowkMT/G/HEuko5LBGYY=
+
+Name: features/com.compuware.totaltest.cli.feature_20.12.1.v20220810-152
+ 9_42/feature.properties
+SHA-256-Digest: 5CnXZWqP8fS0sGovoLZB4ihXJyLdTtHqJ0FXjcbMS+o=
+
+Name: p2/org.eclipse.equinox.p2.core/cache/binary/com.compuware.framewor
+ ks.hostservices.cli.launcher.feature_root.win32.win32.x86_64_20.12.1.v2
+ 0220810-1546_39
+SHA-256-Digest: uDgth0dvKzIwdUfUXDJNZ+IATc7tXtvq5ksyTZ02lQw=
+
+Name: features/org.eclipse.datatools.modelbase.feature_1.14.100.20180202
+ 2135/feature.xml
+SHA-256-Digest: D2xJMriej/mMUBXNO8a1G87fj5j83Hs7/hFjlAlyk1M=
+
+Name: features/com.compuware.ispw.cli.feature_20.12.1.v20220810-1525_40/
+ META-INF/COMPUWAR.RSA
+SHA-256-Digest: oo7AaufGgYfxpQKC5w183MfJCG0aq7QsxNOQ2aGvwZU=
+
+Name: plugins/com.compuware.fileaid.ex.common.services.impl_20.12.1.v202
+ 20810-1438_40.jar
+SHA-256-Digest: Ixmleh95oJvh7zR+Wz4+HqwxfWupFUM406xjbIF3AXw=
+
+Name: plugins/com.compuware.fileaid.common.core.utilities_20.12.1.v20220
+ 810-1411_39.jar
+SHA-256-Digest: 3kUZHcOySw9Ucn8UP2UIcoCMYrFG+y7EhHJeht8JFsY=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/OSGI-INF/l10n/bundle_ja.properti
+ es
+SHA-256-Digest: 6nBnWrzzMh2oEYYlyvjJS2ELTVEFwNS/43goMZAXnp0=
+
+Name: features/org.eclipse.emf.mapping.ecore_2.10.0.v20180125-1130/META-
+ INF/ECLIPSE_.SF
+SHA-256-Digest: aGwpJ4MANM6qJFd8i1idK71nRbiPkNjd7+bISRQo+CY=
+
+Name: features/org.eclipse.emf.edit_2.13.0.v20180421-1151/META-INF/ECLIP
+ SE_.SF
+SHA-256-Digest: WRlTk5d4dvaNqAevMAd4x1oKv4J5XmnnSge54aM1vUo=
+
+Name: plugins/com.compuware.api.hostservices.passticket_1.0.0.v20220810-
+ 1324_40.jar
+SHA-256-Digest: o/3hKA5SsgGV1AO5OXZgKdZ3DhhBsxJM/pk04efRA5U=
+
+Name: plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.700.v2
+ 0180518-1200/META-INF/MANIFEST.MF
+SHA-256-Digest: DE04utdQiighJOve3uDcTUCTLS7GLs+2ldfzpkqOf5U=
+
+Name: plugins/javax.xml_1.3.4.v201005080400.jar
+SHA-256-Digest: ZIJq4m7TjJamWhWDZSGR39a2m8i7+TenT0CNmBV2XYQ=
+
+Name: plugins/com.compuware.fileaid.ex.extract.model.core_20.12.1.v20220
+ 810-1438_40.jar
+SHA-256-Digest: 5weqQtqB/cvzum1JyKEKjKMcAMUTrkJbnXw1UzcKOoI=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root.gtk.linux.x86_64/SCMDownloaderCLI.sh
+SHA-256-Digest: vf94QcdM8xVPPlWuqWdTTaK/qUBhNSK4nF/KePQ9g0I=
+
+Name: plugins/com.compuware.fileaid.common.model.jaxb.core_20.12.1.v2022
+ 0810-1411_39.jar
+SHA-256-Digest: +J77OjgeUxJd7qU188VKZ65FCGhbJy+B+P2AVOwSpQo=
+
+Name: plugins/com.compuware.fileaid.ex.common.model.jaxb_20.12.1.v202208
+ 10-1438_40.jar
+SHA-256-Digest: mWPByWKGaR7bPwmfk9FM7vvmajg2TNWIsIIUXx5WfZ8=
+
+Name: plugins/com.compuware.fileaid.ex.loader_20.12.1.v20220810-1438_40.
+ jar
+SHA-256-Digest: 1UJJHPz6BoTrmjqW8c+aOr3Xf88nGHJlu/8ULyjgsDY=
+
+Name: features/org.eclipse.datatools.modelbase.feature_1.14.100.20180202
+ 2135/eclipse_update_120.jpg
+SHA-256-Digest: Hz0atd2kr+i4cvgLVlm8vrN9olKs5NgxwdDxTuA9N2k=
+
+Name: features/org.eclipse.emf.edit.ui_2.14.0.v20180213-0527/feature.xml
+SHA-256-Digest: PPgFhwqPMjerLRJ9vBeUhy9O/UL+HAJKSOeBSgSJqOw=
+
+Name: features/com.compuware.frameworks.diagnostic.collection.feature_20
+ .12.1.v20220810-1310_40/feature.xml
+SHA-256-Digest: BGM4RfyVcDakfc5oF5WduzUb0WUVSmlo+LNVC0ACr14=
+
+Name: features/org.eclipse.emf.codegen_2.13.0.v20180319-0813/META-INF/EC
+ LIPSE_.RSA
+SHA-256-Digest: 2tjqaQtXIZL0R2smiURLwwlCD9QtARQFWA90bJDUmes=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/about_files/DOM-LICEN
+ SE.html
+SHA-256-Digest: 0eDSRxw93sR6pC5tpA0nM9Z4SgrpIeo2p/xuvXYcJtY=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/p2.inf
+SHA-256-Digest: TsrwhDUWcGEVdQWyZ2ASdhgsYKo05LViZSPp29fYmPU=
+
+Name: features/org.eclipse.emf.ecore.editor_2.14.0.v20180212-1111/licens
+ e.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/undo.gif
+SHA-256-Digest: XvObPKUMQ+Dg/LP+UlyUsLVjNmjat5jrno/IjNHmPys=
+
+Name: CodeCoverageCLI.bat
+SHA-256-Digest: ZWuZ/1Mdck7l7+GEzj0XzWtJDLbwkZyO2djIUZ7Nv7c=
+
+Name: plugins/com.compuware.fileaid.ex.executionsuites.model.impl_20.12.
+ 1.v20220810-1438_40.jar
+SHA-256-Digest: Q0h7s/x2lT0kYxLvgZgsmnDFzhVKzMKUaEXXveBD4zs=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s_20.12.1.v20220810-1324_40.jar
+SHA-256-Digest: t4PzA4il/qASYxgA50BAkcQUaiYeOaQ4rCI5tkCSIoo=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/fillDown.gif
+SHA-256-Digest: diFAaIa5zFbBH6IBwl1fYL+mqlUkSL9++4GIR0J25zY=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/META-INF/MANIFEST.MF
+SHA-256-Digest: pGycWYUjHf9sy0NA3QHMLtFCv+QsA2BJULajIDRo8mU=
+
+Name: plugins/org.eclipse.compare_3.7.200.v20180418-1233.jar
+SHA-256-Digest: PqBdoRgWCoqhviyYxD2IaElalbyhpdajmA+9xlN3PwI=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/plugin.xml
+SHA-256-Digest: pCh36epllBPmLtS7WJ83dwSt9EywLYDhhtOiaGXR1eY=
+
+Name: plugins/org.eclipse.jdt.core_3.14.0.v20180528-0519.jar
+SHA-256-Digest: B6i8lYceXMgq8WZld/sXpgm01DaS7P1OAKI5zxbfnwM=
+
+Name: features/com.compuware.ted.cli.feature_20.12.1.v20220810-1523_39/r
+ oot/data/executioncontext_template.properties
+SHA-256-Digest: 2FVPGWfY84eO/3qkG8XbRs7X8GgPg3iAsK9aNsEVluE=
+
+Name: plugins/org.eclipse.equinox.p2.engine_2.6.0.v20180409-1209.jar
+SHA-256-Digest: iNb4mh1OXjko9+Izixf0yl34Q4ClFkRHLZSgsCnrSDU=
+
+Name: plugins/com.compuware.fileaid.common.commandProviders_20.12.1.v202
+ 20810-1411_39.jar
+SHA-256-Digest: y0jMZH+53tu2synJjclgAIBI4YPrukqacGI8W9UDeBw=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.gtk.linux.x86_64/TotalTestFTCLI.sh
+SHA-256-Digest: SToK0UyqPl5QhA+Vm5EUocoDpLNi02jjAW6GbNqjXfI=
+
+Name: p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.pr
+ ofile/.lock
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: SubmitJclCLI.bat
+SHA-256-Digest: H63ZkibwPH/Y7TU2XNJz4D2xUQwuiQ/PVDFUtIBZJ1c=
+
+Name: plugins/com.compuware.unittest.cli.common_20.12.1.v20220810-1529_4
+ 2.jar
+SHA-256-Digest: URc6d0wywIQtdhrsQHoIn45d889rkNLe+mHXIWz6GCU=
+
+Name: features/org.eclipse.emf.converter_2.13.0.v20180131-0817/license.h
+ tml
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/org.eclipse.jface.text_3.13.0.v20180527-1819.jar
+SHA-256-Digest: FU7yE/+MJeusjcFbYT85I7ZIzlOhn0dGOzmuyQB/Qzs=
+
+Name: features/org.eclipse.emf.common.ui_2.13.0.v20180127-1015/feature.x
+ ml
+SHA-256-Digest: JEP31LJh8Y3vJVU/a/N2Z37xU4o6S9WuwoNbaN3Z3GA=
+
+Name: plugins/org.eclipse.datatools.sqltools.parsers.sql.query_1.4.100.2
+ 01801242337.jar
+SHA-256-Digest: I0H1f7ExdshklUVnwdxCbY0/S/8vYWc0PyAp27m3LLM=
+
+Name: plugins/org.eclipse.emf.codegen.ecore_2.14.0.v20180418-0836.jar
+SHA-256-Digest: nWSx95crYvxzvRvfErFbBPw5RZMXfRZfx3cYBjTKANg=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/runant.py
+SHA-256-Digest: jEfmrld/lA4WIPolE3bQst/8zUzBQHV1xhYu8wsiaqY=
+
+Name: features/com.compuware.unittest.cli.feature_20.12.1.v20220810-1529
+ _42/p2.inf
+SHA-256-Digest: mE3kw8mIvGMcEyY5BphNrBHdjMMhUdXkE3xecvtlVxw=
+
+Name: plugins/com.ibm.icu_58.2.0.v20170418-1837.jar
+SHA-256-Digest: LX+bkDJ4/CBT7Jf9b7/k20TKbtCNCeobOTNcYh5ukAU=
+
+Name: plugins/org.eclipse.core.filesystem_1.7.100.v20180304-1102.jar
+SHA-256-Digest: 68kdPQDNg0zb4hDkgZkWVphZNVedcnIEJ4sGqw3XFaE=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-netrexx.jar
+SHA-256-Digest: KySVnVB80+ydIlsxzkXuFU6vKwNnVHmvsLGRji3Wtyk=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/about.html
+SHA-256-Digest: ywK41KHWaHAmZ6nBEbkQEP4KwldA91DENSpin+Bgf2E=
+
+Name: features/org.eclipse.emf_2.14.0.v20180529-1144/license.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: features/com.compuware.frameworks.hostservices.mainframe.communica
+ tion.feature_20.12.1.v20220810-1324_40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: T/lLepklreCbbifyTSb8hKmYPPQlabY2AGGXiot+BbY=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/resources/Messages.class
+SHA-256-Digest: 07TzcgapisqOF7doVT6uQOA5Olwio1u8or48gRy5euc=
+
+Name: features/com.compuware.frameworks.hostservices.cli.feature_20.12.1
+ .v20220810-1546_39/META-INF/COMPUWAR.SF
+SHA-256-Digest: MpoiZc0gFfHKtz90HctNbKXiZ6WdSd5HkYaSKhtOhAw=
+
+Name: features/com.compuware.frameworks.hostservices.cli.zosutil.feature
+ _20.12.1.v20220810-1546_39/META-INF/COMPUWAR.RSA
+SHA-256-Digest: BrXZdktX7j7xv2ufc9HyCMjwdFPbpXoqdV2Ewb7puJ0=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root/readme/TTT_README.txt
+SHA-256-Digest: VAiuG+vMOK2XH9OQJDSmHLjf3cNGyF5boS6ZBDCDdMw=
+
+Name: features/org.eclipse.datatools.sqldevtools.parsers.feature_1.14.10
+ 0.201801242337/epl-v10.html
+SHA-256-Digest: 1sxnCKJzs3wLc3wO5BBsz6qYLSJy5jCyEruKp8hkq1c=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: features/com.compuware.frameworks.hostservices.cli.zosutil.feature
+ _20.12.1.v20220810-1546_39/feature.properties
+SHA-256-Digest: auN3Ta2X4aX8//0zFfPzNk1MVuVxN0P8WriLbOXBKRM=
+
+Name: features/org.eclipse.emf.ecore.editor_2.14.0.v20180212-1111/META-I
+ NF/MANIFEST.MF
+SHA-256-Digest: J9cO+ZGvxGl3oB1glTNl/WL7MWadTs7bNswK0+cV5xU=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/about_files/NOTICE
+SHA-256-Digest: RBj2xeMQ9/lVbsR3y+cj6DJnScVl/vHieWGovamW4AI=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/delete.gif
+SHA-256-Digest: Jj5m3VRsvW/zqRr9+1tA3CQP1XRKFJ5uacqieVGLQu0=
+
+Name: plugins/com.compuware.unittest.cli.resultchecker_20.12.1.v20220810
+ -1529_42.jar
+SHA-256-Digest: xjeLNpogAkhFa1gGLaLxfxo/vTd1aSC05PAJph+DHwg=
+
+Name: plugins/com.compuware.fileaid.ex.common.model.jaxb.versions_20.12.
+ 1.v20220810-1438_40.jar
+SHA-256-Digest: qTQFR5bSGHAq/1ywv9U/R/yAjc2QTojRFPHWaPGSjQs=
+
+Name: plugins/org.eclipse.equinox.security.win32.x86_64_1.1.0.v20171221-
+ 2204.jar
+SHA-256-Digest: RtAvXBimu5vwcePkToWpoivpgwUwdl0kqwRf+dLXXc0=
+
+Name: plugins/com.compuware.unittest.eclipse.hostservices_20.12.1.v20220
+ 810-1529_42.jar
+SHA-256-Digest: WnxbZMJtoAVRnhWcLl/0LoDOL8Q2MXTRiRQLz3Aww2o=
+
+Name: plugins/org.eclipse.core.filebuffers_3.6.200.v20180512-1137.jar
+SHA-256-Digest: T5eM9d1OeL8qKps0+/d3J1pC5mvHZ/xNjqFHBZoiPFY=
+
+Name: features/com.compuware.unittest.eclipse.core.feature_20.12.1.v2022
+ 0810-1529_42/META-INF/COMPUWAR.RSA
+SHA-256-Digest: dLsWyH2O2ZCsqFjk+2czQIybGbVY/1hBrgcgIKKCU3o=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/buildAllDisabled.gif
+SHA-256-Digest: BnhcerwEsOykosq1CcRYOpxSc9/wjM9GegajO9AENSc=
+
+Name: artifacts.xml
+SHA-256-Digest: 9u79Bf4xPQN2QlKWrKQalueAZQAoK+k0cVKSePqfjZI=
+
+Name: plugins/genericclasses_20.12.1.v20220810-1438_40.jar
+SHA-256-Digest: XRsUgtyoa6kSoiSMuJe9KpyCsPn0a1Qkg8f+GM9em2w=
+
+Name: plugins/org.eclipse.ant.core_3.5.100.v20180512-1141.jar
+SHA-256-Digest: 46n8q5j9d1Jju9Sxe+IinZ8s7dCsObgYeaAoFg89lxM=
+
+Name: plugins/com.compuware.frameworks.hostservices.icu_20.12.1.v2022081
+ 0-1324_40.jar
+SHA-256-Digest: jdZcGdlB5dH7JuSz6bsAo4Q14KkQn1/ALKzmTHXt2BY=
+
+Name: plugins/org.glassfish.hk2.osgi-resource-locator_2.5.0.v20161103-19
+ 16.jar
+SHA-256-Digest: FndGLgS1zaBY/YZULf0pGpr8OEyZFArUADG4ptptf6w=
+
+Name: plugins/org.apache.batik.util_1.9.1.v20180227-1645.jar
+SHA-256-Digest: L9NgndBN1Na9gyykGptTFj/EiNh9bamADcE8TOPxLPg=
+
+Name: plugins/org.eclipse.emf.edit.ui_2.14.0.v20180213-0527.jar
+SHA-256-Digest: 2FXdNQ5IjGw+S1c1FnUWz1ZyNd8wWmN2Vs7NbbfvoMY=
+
+Name: features/org.eclipse.emf_2.14.0.v20180529-1144/META-INF/ECLIPSE_.S
+ F
+SHA-256-Digest: knSjJSUMLEY2c7USqGFhkw1KKLHluc2f3jf1Gbv5lFo=
+
+Name: plugins/com.compuware.fileaid.common.logging_20.12.1.v20220810-141
+ 1_39.jar
+SHA-256-Digest: mdRN9IF7hPstE4ME6/w4GfiD7aY9eQJm1UdWCtnEBCc=
+
+Name: plugins/com.compuware.frameworks.logback.ext_20.12.1.v20220810-131
+ 0_40.jar
+SHA-256-Digest: 28i5T75gLhcuhSBJX/qI/1MlNThIl+FgtIVsl5eDp4g=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/META-INF/COMPUWAR.SF
+SHA-256-Digest: pvEL9uw4+vTYOtU0f7CJtMY4T76NXPkmRtBVFKVDtOE=
+
+Name: plugins/com.compuware.fileaid.ex.common.model.rdx_20.12.1.v2022081
+ 0-1438_40.jar
+SHA-256-Digest: sMM53+h3oNZ4NaZcwcDKWR93MLsqnFOLzZAEoUibl/U=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root.win32.win32.x86_64/ZAdviserCLI.bat
+SHA-256-Digest: y6FBcsTRQMdPuaMROXFV2mZae+DG+1w1zsY8f49FQlE=
+
+Name: plugins/com.compuware.fileaid.ex.common.api.impl_20.12.1.v20220810
+ -1438_40.jar
+SHA-256-Digest: BXUyKxyK/4LeUNsKZMe3/F6RTM1MjCY+DNQokfjSuB8=
+
+Name: p2/org.eclipse.equinox.p2.core/cache/binary/TopazCLI.executable.wi
+ n32.win32.x86_64_20.12.1
+SHA-256-Digest: D29mP9emzLi8LyrLUc7y5sK4CFTdW+Vqg98NoyPQX7M=
+
+Name: p2/org.eclipse.equinox.p2.engine/.settings/org.eclipse.equinox.p2.
+ metadata.repository.prefs
+SHA-256-Digest: EGJUeK4hdJubccza6VtU87p4nEpWPwM+tMfQWT3bWik=
+
+Name: plugins/com.compuware.unittest.thirdparty.org.apache.poi_20.12.1.v
+ 20220810-1529_42.jar
+SHA-256-Digest: jj79rv+LTZRsClTOnNrm/dp1m+m4wZxJGY6r1+s8YIg=
+
+Name: features/com.compuware.unittest.thirdparty.feature_20.12.1.v202208
+ 10-1529_42/feature.xml
+SHA-256-Digest: SbYq94Qh6gEtaawZTIvTHZynST6Ee4QTdDhmMVONnos=
+
+Name: p2/org.eclipse.equinox.p2.core/cache/binary/com.compuware.framewor
+ ks.hostservices.cli.launcher.feature_root_20.12.1.v20220810-1546_39
+SHA-256-Digest: A5k31EtwCjleqAnILl7h76bFC12+D7yG9aj5mQKV7fI=
+
+Name: plugins/com.compuware.frameworks.hostservices.core.messages_20.12.
+ 1.v20220810-1324_40.jar
+SHA-256-Digest: L4VvvuBiCrQQakiU53VOsYWSH8hnS5UybARj0GkP3kU=
+
+Name: features/org.eclipse.datatools.modelbase.feature_1.14.100.20180202
+ 2135/feature.properties
+SHA-256-Digest: vZ6p+3RkKqJXQ6XIbxh98aOK7VfkEoTy3W3EeBr4m5w=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root.win32.win32.x86_64/SCMDownloaderCLI.ba
+ t
+SHA-256-Digest: Wj9HSLD6rlqqL/XsRF2u6ESNvWDxrYh349fuNNVi8j4=
+
+Name: HostServicesCLI.ini
+SHA-256-Digest: exEKDr0m19jGoU1REjLgrAHqj96XwEoUTz9lmOb59Mc=
+
+Name: features/org.eclipse.emf_2.14.0.v20180529-1144/META-INF/MANIFEST.M
+ F
+SHA-256-Digest: J+TJak4EoMNTK4IlxJs/Tk3MLzOS3gc4iAnaxU1PVdc=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/META-INF/COMPUWAR.SF
+SHA-256-Digest: Ocd2lrI+wbX/s3+UtpHeViEkMyCIty9exxkhgNi6GpU=
+
+Name: plugins/com.compuware.fileaid.ex.loader.model.jaxb_20.12.1.v202208
+ 10-1438_40.jar
+SHA-256-Digest: wAtv+gWtce4r1yoYb5FFI2zPFppl3R9URomRKouAjxM=
+
+Name: plugins/com.compuware.workbench.xml.bind_20.12.1.v20220810-1310_40
+ .jar
+SHA-256-Digest: wE7yE4v2bXd6g7zHxZiazo+scad+B0jp+NCWjrGY+8E=
+
+Name: features/com.compuware.frameworks.hostservices.cli.zosutil.feature
+ _20.12.1.v20220810-1546_39/META-INF/MANIFEST.MF
+SHA-256-Digest: 2O/vaHIWgFTd+3/MuVthR7ZBCbKaLvL31S3fVp+GRPg=
+
+Name: features/org.eclipse.emf.databinding_1.5.0.v20180130-1145/META-INF
+ /ECLIPSE_.SF
+SHA-256-Digest: wWWgEF/qUzzHjN6HMPg7etG5sbypB5X6ork6SaD6Q7s=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/redo.gif
+SHA-256-Digest: AE2El4wemVxkqfJfePSRfoUdUXaabtKYuJYdfoOVKgg=
+
+Name: features/org.eclipse.emf.common_2.14.0.v20180527-1134/META-INF/ECL
+ IPSE_.RSA
+SHA-256-Digest: IHgoUv+K0U1UVxzN7+pjDDSBcL85S2cmihe4bI9Oh9Y=
+
+Name: features/org.eclipse.emf.databinding.edit_1.5.0.v20180130-1145/MET
+ A-INF/MANIFEST.MF
+SHA-256-Digest: ztX8fEabQOrmspI/pnNBfErKtvFBeTrM+u46olX9kB4=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/clear.gif
+SHA-256-Digest: XvObPKUMQ+Dg/LP+UlyUsLVjNmjat5jrno/IjNHmPys=
+
+Name: plugins/org.eclipse.osgi_3.13.0.v20180409-1500.jar
+SHA-256-Digest: QdrcqJ1dnWR5rEa8OsIVsdac6A9UDWovMeFHIGpCacc=
+
+Name: plugins/org.apache.commons.cli_1.3.1.jar
+SHA-256-Digest: Oi8FcEGqaogT9bWbaV9ybF6FAUpwPSCNfhaJCY6S2MA=
+
+Name: plugins/org.eclipse.equinox.p2.metadata_2.4.0.v20180320-1220.jar
+SHA-256-Digest: j4YlB1is0u9Ah16n7BtZB4KERSI5v7N/qXuO9Rfo6og=
+
+Name: plugins/org.apache.commons.lang3_3.5.0.jar
+SHA-256-Digest: DBsNankc25kgJ1v4NedERXb37Iq2SAYd1+z9pLuK4nI=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-jmf.jar
+SHA-256-Digest: kUCvXDZ+QUCJiJW2dNw1gGXbV4D3Sq2dldj497S63qI=
+
+Name: plugins/org.eclipse.debug.core_3.12.0.v20180509-0959.jar
+SHA-256-Digest: nKp0G/tTxpxLSofv2FU8azWmDvWn6bjZWqsPENTmjY0=
+
+Name: plugins/org.eclipse.ui.console_3.8.0.v20180413-0859.jar
+SHA-256-Digest: SU54qX/QJfi+vJA+ZVcoYdcFd+2Bqp8nvrSfBVdyNFM=
+
+Name: p2/org.eclipse.equinox.p2.core/cache/binary/com.compuware.unittest
+ .cli.launcher.feature_root_20.12.1.v20220810-1545_42
+SHA-256-Digest: axbQovMAyZD47AKH3cwsfOwsqlroF1Vs1uF3yUsa0HI=
+
+Name: plugins/net.sourceforge.lpg.lpgjavaruntime_1.1.0.v201004271650.jar
+SHA-256-Digest: 8XseISreUSs0z6JaFpjlBd7YZBH3tpjwsooL6l8CU44=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/plugin.xml
+SHA-256-Digest: l03SYuuxFCvukIIQKmPoBahyyXlsXhu8/gsDHQuEd0Q=
+
+Name: plugins/org.glassfish.metro.webservices-api-osgi_2.4.4.b01.jar
+SHA-256-Digest: TJ65QO2RPx1MdE36StgFhjhQ9/FP04rTDQVTwCPLC4k=
+
+Name: features/com.compuware.unittest.cli.feature_20.12.1.v20220810-1529
+ _42/feature.properties
+SHA-256-Digest: RKsIRXGG/FVnMb234AZu08lKgXkCzmyCrjY20RfkGQI=
+
+Name: features/com.compuware.totaltest.cli.feature_20.12.1.v20220810-152
+ 9_42/META-INF/COMPUWAR.SF
+SHA-256-Digest: bstZhQ9dw97hQmSSPqk+u7VbUiONWA7yBb0vxysRKAc=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/about_files/compuwareLogo.png
+SHA-256-Digest: ovgZSBRi5KGFYvmpGgE4s8Q9q3hUkCn6mEneuUAI3Ew=
+
+Name: plugins/com.compuware.unittest.eclipse.api_20.12.1.v20220810-1529_
+ 42.jar
+SHA-256-Digest: 2d8G6ZG/rk7Dq23RgIDS+9/uvxJHxnsRNEoti2+yxDU=
+
+Name: features/com.compuware.frameworks.hostservices.core.feature_20.12.
+ 1.v20220810-1324_40/feature.xml
+SHA-256-Digest: 1GqMLpaOLaPZdieu9pG7cawxWAudvce4CNZl/st2UpA=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-apache-bsf.ja
+ r
+SHA-256-Digest: niJ5iY/xACfFdaI43cH4VhL5CwS0pZgkLkN6s2VgWV0=
+
+Name: features/org.eclipse.datatools.sqldevtools.parsers.feature_1.14.10
+ 0.201801242337/eclipse_update_120.jpg
+SHA-256-Digest: Hz0atd2kr+i4cvgLVlm8vrN9olKs5NgxwdDxTuA9N2k=
+
+Name: features/com.compuware.frameworks.hostservices.common.feature_20.1
+ 2.1.v20220810-1324_40/p2.inf
+SHA-256-Digest: SX/9Ga8VxaHwIG27i0TeOaVVhWYmJGhFuOgRWkQ9gbY=
+
+Name: features/org.eclipse.emf.edit_2.13.0.v20180421-1151/feature.proper
+ ties
+SHA-256-Digest: Dpzk2wUAhVlowa27IANXocCvm9Yu541u96WK7Q0JRgQ=
+
+Name: plugins/org.dom4j_1.6.1.v201312101416.jar
+SHA-256-Digest: F45wTWtwASQQ6iCaWLy2L9bTZkFAIUZLn1i8chqOCEg=
+
+Name: features/com.compuware.unittest.eclipse.emf.feature_20.12.1.v20220
+ 810-1529_42/p2.inf
+SHA-256-Digest: gxTBFjRzeyFKRY+IAVy4ZkAOejoZiaT/llbYKB46FjE=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationWorkbenchWindowAdvisor
+ $1$1.class
+SHA-256-Digest: np0X+AxE+AUJ+BdVi3HX5aiBGo2vJDPGkL/lmWffNwQ=
+
+Name: features/com.compuware.unittest.eclipse.core.feature_20.12.1.v2022
+ 0810-1529_42/feature.xml
+SHA-256-Digest: uUM6Vx72DE5kOCOW4SMumr4AoTeMAyKTbiyqftTi/5M=
+
+Name: features/org.eclipse.emf.ecore.edit_2.10.0.v20180421-0731/feature.
+ xml
+SHA-256-Digest: 622Q5X0JKD0JxF/iZfhbWIx6wG9NJZtg4zYWmOYv+rA=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$2.cla
+ ss
+SHA-256-Digest: FxboW93+tNN1pgmAj2R6UMTaYgIgPPfVYjOKe6LJKzU=
+
+Name: features/org.eclipse.emf.codegen.ecore_2.14.0.v20180418-0836/META-
+ INF/ECLIPSE_.RSA
+SHA-256-Digest: sKg79gUzVt/G6ngXJ2SdCUPjojLM78Rt2mhpT9Kg7HU=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/runrc.cmd
+SHA-256-Digest: hFYL7KlOh0juA4dRiv5P0qI/YJXCKtjSkJKHb7M6uQM=
+
+Name: plugins/org.eclipse.ui.views.properties.tabbed_3.8.100.v20180427-1
+ 355.jar
+SHA-256-Digest: 8GsZ1282CQ9t7/WiZ25nGMYrnoMQt1sbs3wdMeU83DI=
+
+Name: features/com.compuware.fileaid.ex.cli.feature_20.12.1.v20220810-14
+ 38_40/root/data/.com.compuware.fileaid.ex/cfg/security/faexclient.trust
+ store
+SHA-256-Digest: mcrcOf9uWq67ye5fqVGNrQ9kloqja3BGyfQPAECjyGI=
+
+Name: plugins/com.compuware.fileaid.common.services.impl_20.12.1.v202208
+ 10-1411_39.jar
+SHA-256-Digest: H2MGZOWOpB6yPErCEads4QbCjiWfMQVYUatHojCBpA8=
+
+Name: plugins/com.compuware.frameworks.hostservices.crypto_20.12.1.v2022
+ 0810-1324_40.jar
+SHA-256-Digest: ceTqLT1dL4dfmnfeNug3mDMQaROONWRT1ovcUPF+POA=
+
+Name: plugins/com.compuware.fileaid.common.util.jsqlparser_20.12.1.v2022
+ 0810-1411_39.jar
+SHA-256-Digest: irA+mq0kysd3yueif0Ebhpjx5LYrxSsDMHwg8hGrzGs=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/saveAs.gif
+SHA-256-Digest: dK9aqGKpQGNbDJh4R4CTJ5xELmdJce8KH3SH84+T5Bg=
+
+Name: plugins/com.compuware.frameworks.diagnostic.collection_20.12.1.v20
+ 220810-1310_40.jar
+SHA-256-Digest: BAjz1Mrd2Qc81+OSiYBvrUzATzHjQNEyyOeez9/Z0lE=
+
+Name: features/org.eclipse.emf.edit_2.13.0.v20180421-1151/META-INF/MANIF
+ EST.MF
+SHA-256-Digest: ig/eQWug6gTEbM5nN11zw3qlsGelE9uGo7xjPQ9z+/s=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$5.cla
+ ss
+SHA-256-Digest: QrxxhrLcV+M9PYwYkFbCC8sbuBg3Ua+5sPC9M4ydatE=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/ant
+SHA-256-Digest: 0rLHqmh8F9XG8Jpi0dkpezPlyROE/UywOPopAZlHmsA=
+
+Name: plugins/org.apache.httpcomponents.httpcore_4.4.6.v20170210-0925.ja
+ r
+SHA-256-Digest: OTu6xv6/aoPkif+l4zBj4RYU8YJJixJs6CcRSbngNsI=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/refresh.gif
+SHA-256-Digest: 0mW4PZsSoUkTumzIBfg1/XhNk3RGxVWuQXeyp9OfS7k=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/META-INF/maven/org.ec
+ lipse.orbit.bundles/org.apache.ant/pom.properties
+SHA-256-Digest: +CdNtYgYALPJW4XUS4M/4IyQxhWVjAvLT0Zl/m7vsZw=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/OSGI-INF/l10n/bundle.
+ properties
+SHA-256-Digest: x7cEMojylK91VoPCj5D/qXFeGFoHnvUj+Tp8su7fgMk=
+
+Name: plugins/org.eclipse.datatools.sqltools.parsers.sql_1.2.100.2018012
+ 42337.jar
+SHA-256-Digest: AXOYOR+L5fpyyJ5A/Z00wGUITiGszbX8M723Kfv5fc8=
+
+Name: plugins/org.eclipse.jdt.debug_3.11.100.v20180515-0929/META-INF/ECL
+ IPSE_.SF
+SHA-256-Digest: qD2USXnBqxObuVrQUv8m5H1uwndpmuIsFqFQco5gGdo=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/checkstyle/checks
+ tyle-xdoc.xsl
+SHA-256-Digest: X18mSthJgMvSZtDm8mc21xjBnQqPl4Dxk4xEVFJB86g=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/META-INF/MANIFEST.MF
+SHA-256-Digest: TM0osvl0mxW3192jdXx46ReHGyud39Ib68jmrKoc18A=
+
+Name: plugins/org.eclipse.text_3.6.300.v20180430-1330.jar
+SHA-256-Digest: LI7ZoTqCykuDN/t7P15vDER0GWG70uC9ygnBK+R13Z4=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-apache-log4j.
+ jar
+SHA-256-Digest: 7pMQvGaJctbWnsjYn9FCJ4qnr0ZdOb5beCJc/X20o1o=
+
+Name: plugins/com.compuware.fileaid.common.services.core_20.12.1.v202208
+ 10-1411_39.jar
+SHA-256-Digest: Ay0V2f1bXGNBORk7LlNl1lseV+OOCRn6Xn/gNx4XYj8=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$4.cla
+ ss
+SHA-256-Digest: H9Mv+tblXP+JeELtOMf9qLGVcfqKhO56Nsa0gtjS2Aw=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/dialogs/ChooseWorkspaceDialog$3.c
+ lass
+SHA-256-Digest: CHEQEof4oJovK3f43Lj7wy6SUk4NMWDlCGRPpA8bBXM=
+
+Name: features/org.eclipse.emf.ecore_2.14.0.v20180529-1144/license.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/org.apache.commons.jxpath_1.3.0.v200911051830.jar
+SHA-256-Digest: aTQ24j5/S38QET6Up+BcbJ40Wmr4FOUXGo/wq2CwsTo=
+
+Name: plugins/com.compuware.fileaid.ex.executionsuites_20.12.1.v20220810
+ -1438_40.jar
+SHA-256-Digest: iSYFGXIoASGEB4SXP6KUpN+ocW5W9KnrxZnQMpbV4aQ=
+
+Name: plugins/org.eclipse.ltk.ui.refactoring_3.9.100.v20180425-1219.jar
+SHA-256-Digest: QWymsHyA3H7J3QfFnemvFBw1FA4AdG2upLGou/SvX04=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: eUcVRDAtO+LPEHNTMmwI02dcerN3RryZQkXyB8mbyK4=
+
+Name: plugins/org.eclipse.core.databinding.observable_1.6.200.v20180424-
+ 1922.jar
+SHA-256-Digest: 87X8jxIO1MNQxpjtMhmSjvjg4t5xHJboClaAmIezJ8M=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/root/readme/license_compuware.html
+SHA-256-Digest: L72UscHUZLETkmQuaQCKASqKJPpx4b50ErtncehgCbY=
+
+Name: features/com.compuware.frameworks.diagnostic.data.feature_20.12.1.
+ v20220810-1310_40/META-INF/COMPUWAR.SF
+SHA-256-Digest: bpbVXJOEtsyY0cxnvYYkOqJ4R6hQhj3/itn2n2ZFKsw=
+
+Name: features/org.eclipse.emf_2.14.0.v20180529-1144/feature.xml
+SHA-256-Digest: FuMrhBTvoHPvaxkdlTJZvjWWojpL55segJVPvc+0VpQ=
+
+Name: plugins/com.compuware.frameworks.diagnostic.data.log_20.12.1.v2022
+ 0810-1310_40.jar
+SHA-256-Digest: rBw1Uwhb14Z8hhJ797vaLzd0VkFCGQA2koeSzhI8d5Y=
+
+Name: features/com.compuware.ted.cli.feature_20.12.1.v20220810-1523_39/M
+ ETA-INF/MANIFEST.MF
+SHA-256-Digest: 0GUocqj414lDoVgWY1X6i9OVj5lTB7oCdHGYTnm2RbY=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$3$1.c
+ lass
+SHA-256-Digest: 22CPCiSbLayC/V+MptwlJSYF+JdgiuiObqGZmeaie64=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/junit-frames-xala
+ n1.xsl
+SHA-256-Digest: +emCiY5vQQn2MLe1b9rwNcb1c/ZFVilDNGvIVEc8na4=
+
+Name: features/com.compuware.ispw.cli.feature_20.12.1.v20220810-1525_40/
+ META-INF/COMPUWAR.SF
+SHA-256-Digest: 90hrC2iJxwtoE1WHOjqwM0SRaAGBbUVPh5ZekzZ21i8=
+
+Name: plugins/org.eclipse.e4.core.di.extensions.supplier_0.15.100.v20180
+ 427-1454.jar
+SHA-256-Digest: 5hvLURAVZNU6DckuALiJSb5zxjT29HTbVb9WdBiLOAM=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/openfile.gif
+SHA-256-Digest: zjMmKKcC+mcJj9P7Zv8LjusSScOh9zpx+TStAMpeL1g=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$3.cla
+ ss
+SHA-256-Digest: 0JRIkfEuPvA25UG9FBu48hQMoyTk3+feekbAnt6rs/M=
+
+Name: features/org.eclipse.emf.databinding_1.5.0.v20180130-1145/META-INF
+ /MANIFEST.MF
+SHA-256-Digest: qHzuUMyiLfNDZCuO5WRVTxw4WO6q2QZDsGokzRv6MbA=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/dialogs/ChooseWorkspaceDialog$2.c
+ lass
+SHA-256-Digest: bcZdI38b6rCQeid7L9TQME9mGM/D2DU+WqEp9Zacaow=
+
+Name: features/com.compuware.frameworks.hostservices.common.feature_20.1
+ 2.1.v20220810-1324_40/META-INF/MANIFEST.MF
+SHA-256-Digest: lRmTz764XUF8JggY3SKmU6pok54MI0v9rF0ALcsqbYg=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/internal/workbench/EditorAreaDropAdapter.cl
+ ass
+SHA-256-Digest: duI1Q8oD6lCymtfplMxj0uBA7itYyUvKwz1peVdENPY=
+
+Name: plugins/org.eclipse.equinox.p2.artifact.repository_1.2.0.v20180413
+ -0846.jar
+SHA-256-Digest: 6HR58rDGnejye2657YBooBfZuZKSyMO4vE646ag9qUY=
+
+Name: plugins/com.compuware.fileaid.ex.areditor_20.12.1.v20220810-1438_4
+ 0.jar
+SHA-256-Digest: 71wiZx4hy/t2Rw6yGda3tfO855m6qIbX1R5vvTvdstY=
+
+Name: plugins/org.eclipse.jdt.debug_3.11.100.v20180515-0929/META-INF/MAN
+ IFEST.MF
+SHA-256-Digest: 2oJ2Q011Uh5QEHXigcMzkzHw+NRKMTiEO//35yf5ceM=
+
+Name: plugins/org.eclipse.team.core_3.8.200.v20180309-1840.jar
+SHA-256-Digest: 7jyUQL7kHzIEIY5CXWiqH/BMT3aSP71czxBnpIo5Hoo=
+
+Name: configuration/config.ini
+SHA-256-Digest: BPJF8yhWxWLDG6B7jgw3ZZ4twPcFtpivJFPNEhytJAY=
+
+Name: features/org.eclipse.emf.codegen.ui_2.9.0.v20180125-1130/license.h
+ tml
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/com.compuware.fileaid.ex.selectioncriteria.model.jaxb_20.1
+ 2.1.v20220810-1438_40.jar
+SHA-256-Digest: mEY4DKHlaAaD7+ZPjamnJNel8bwGyGaOv5ABhwNFMbE=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/META-INF/COMPUWAR.RSA
+SHA-256-Digest: OhoLAGVJkvdVTCMr3TjF9ARwPzxH87fNAfr4TPgY6lw=
+
+Name: plugins/com.compuware.fileaid.common.commandset_20.12.1.v20220810-
+ 1411_39.jar
+SHA-256-Digest: Mds52wLCwi/OpMQA8ZLxdtFg7aYRufDggNJ8EGCyXDY=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: iL9ESdNZnUTOjLHg1AxnxWC6iECrfExEXLqCpMPFsC4=
+
+Name: features/com.compuware.frameworks.workbench.logging.feature_20.12.
+ 1.v20220810-1310_40/feature.xml
+SHA-256-Digest: 7u5YGSC36gZu+zWLP8RekFzKEMZqZTzi8rpx7lT6opY=
+
+Name: features/org.eclipse.datatools.sqldevtools.parsers.feature_1.14.10
+ 0.201801242337/META-INF/MANIFEST.MF
+SHA-256-Digest: GGfwwLF0FVVCXDc/dwRTe+ERbl0TqAVOOJYzs2Ocnco=
+
+Name: plugins/com.compuware.fileaid.ex.extract.model.impl_20.12.1.v20220
+ 810-1438_40.jar
+SHA-256-Digest: QYEqfAGIZyKFECzNfbu3K/G+caQSBV0EpnQjicbfH+Y=
+
+Name: features/com.compuware.fileaid.ex.cli.feature_20.12.1.v20220810-14
+ 38_40/root/data/.com.compuware.fileaid.ex/logs/readme.txt
+SHA-256-Digest: XuPKvFN3P+TGzqbsAY4/V6G9U/2ytxGuf58TaQn2qMQ=
+
+Name: features/org.eclipse.emf.ecore.editor_2.14.0.v20180212-1111/META-I
+ NF/ECLIPSE_.SF
+SHA-256-Digest: m9IULxyHnOQ6/vGlWIrtFr0cvmyWcjcpIctkrPPwqfQ=
+
+Name: features/com.compuware.frameworks.workbench.logging.feature_20.12.
+ 1.v20220810-1310_40/root/data/logs/readme.txt
+SHA-256-Digest: XuPKvFN3P+TGzqbsAY4/V6G9U/2ytxGuf58TaQn2qMQ=
+
+Name: features/org.eclipse.emf.ecore.editor_2.14.0.v20180212-1111/featur
+ e.properties
+SHA-256-Digest: ML7yU/5i8IRTwE3L55OAHHAYheYke6NYd/XHV6Z8hFk=
+
+Name: plugins/org.eclipse.core.expressions_3.6.100.v20180426-1644.jar
+SHA-256-Digest: LJ6hGMFkqpDVtutHnfESDFhp4OURJQb9/WpeSRzSg5k=
+
+Name: plugins/com.compuware.unittest.eclipse.common_20.12.1.v20220810-15
+ 29_42.jar
+SHA-256-Digest: wQjiJ2zWJBjeo3wCkQXmYTf1aKxLuGqnUWdXB71fVeo=
+
+Name: plugins/com.compuware.unittest.cli.zos.builder_20.12.1.v20220810-1
+ 529_42.jar
+SHA-256-Digest: 3Y3fBP9OuHtqVr7VgYl0Uvd1N4r9SsEg9sPwej40c2w=
+
+Name: plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.700.v2
+ 0180518-1200/eclipse_1705.dll
+SHA-256-Digest: UNd9W3oXUMPni2gJcfDySOD2jq8KYozcImv3DPG5HS4=
+
+Name: plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.700.v2
+ 0180518-1200/META-INF/ECLIPSE_.SF
+SHA-256-Digest: uaV9ktKOEmFL56DpyYLK8ukmGXAMXz5oEXQ0YZ9nohs=
+
+Name: plugins/com.compuware.fileaid.common.model.impl_20.12.1.v20220810-
+ 1411_39.jar
+SHA-256-Digest: jxacNgngpGNE2il7W20D7zJZmSjHejzHFnrsde/Dvro=
+
+Name: plugins/com.compuware.fileaid.ex.common.services.core_20.12.1.v202
+ 20810-1438_40.jar
+SHA-256-Digest: 54Rg0fCNpECrtVgXVai76+zfhkYSti6JbWUlbI2DnnA=
+
+Name: features/com.compuware.unittest.eclipse.emf.feature_20.12.1.v20220
+ 810-1529_42/META-INF/COMPUWAR.RSA
+SHA-256-Digest: TxzlNQaDAkFkmdsQ43nONjbSGzB6N8PMweOT5UN2NwE=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/editProperties.gif
+SHA-256-Digest: ueGSvXjyoDEIdeQRhJbViV+dARWnB6rqOnK4rMlynLk=
+
+Name: features/org.eclipse.emf.mapping.ui_2.10.0.v20180125-1130/feature.
+ properties
+SHA-256-Digest: 4mk939j91nEnAvdRKURloYydrBpWKvI9SXNMqB2+sjU=
+
+Name: plugins/org.eclipse.ui.editors_3.11.100.v20180512-1137.jar
+SHA-256-Digest: aS3F6XL3qS7MJtOBUEhBwBgxyKIvo7e3Odpr6YbtLi8=
+
+Name: features/org.eclipse.emf.ecore.edit_2.10.0.v20180421-0731/META-INF
+ /ECLIPSE_.SF
+SHA-256-Digest: JtHQSjUyw66+HlTFA57h1gIo6wN/qU1MpPvj/pVlEuA=
+
+Name: features/com.compuware.fileaid.ex.cli.feature_20.12.1.v20220810-14
+ 38_40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: T0G2yZHjSxMnwpeuz/96LsrBnzHS3oaWC1Ucn/wT0IE=
+
+Name: features/org.eclipse.emf.edit.ui_2.14.0.v20180213-0527/feature.pro
+ perties
+SHA-256-Digest: qUoueZyMlhqjI37JOArG8jcRsIO+9VeTlOkVptCKy3c=
+
+Name: plugins/com.compuware.frameworks.hostservices.hci_20.12.1.v2022081
+ 0-1324_40.jar
+SHA-256-Digest: +aNUOWXqUvwGPkcrcvpOrP5/+Tz6r6hVrlSqmIGsYbw=
+
+Name: features/org.eclipse.emf.mapping.ui_2.10.0.v20180125-1130/epl-v10.
+ html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/com.compuware.xatester.xaunit_20.12.1.v20220810-1529_42.ja
+ r
+SHA-256-Digest: Q+FO+vEYYYms93uppn9RVsQV9QcnRMnjZwHc1+BMq34=
+
+Name: features/com.compuware.unittest.cli.feature_20.12.1.v20220810-1529
+ _42/META-INF/COMPUWAR.SF
+SHA-256-Digest: dvFpxTEUT/1WyH/Wr4QeTjjjVmFhdPMeL2FWfVJ3hkA=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/META-INF/MANIFEST.MF
+SHA-256-Digest: Kl+rU/zFvSJenOUZTN0/Yp6skYpwgwR73YWFr4NTUTU=
+
+Name: plugins/com.compuware.api.hostservices_1.1.0.v20220810-1324_40.jar
+SHA-256-Digest: M2F1YW6dwT6CQP+gNixHtH24L2meX1ZMaH3dHGfdXaU=
+
+Name: eclipsec.exe
+SHA-256-Digest: ab6kg0tJ0wCZNaVx1mEdZ88PxoECi2SGcPuDQvS7H4E=
+
+Name: SCMDownloaderCLI.bat
+SHA-256-Digest: Wj9HSLD6rlqqL/XsRF2u6ESNvWDxrYh349fuNNVi8j4=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/about.html
+SHA-256-Digest: Y8eaKQqhA6+bI4Rp5iZqT4ynIGVA69lr1gSvqt0fUHQ=
+
+Name: plugins/org.eclipse.jdt.debug_3.11.100.v20180515-0929/about.html
+SHA-256-Digest: 0RM1x9lTJa7T8YkysaegPuBIeaEvSZypRDfXoMpsJAU=
+
+Name: features/com.compuware.frameworks.hostservices.core.feature_20.12.
+ 1.v20220810-1324_40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: ES26qwMh2XMc/OAx3SlEb/zymbgmYxVyOulr4E3jq1U=
+
+Name: plugins/org.eclipse.persistence.asm_7.3.1.v202003311108.jar
+SHA-256-Digest: KNgaM6EjVHmwGvaHeEW+2ktGTslKAeR9iv359IZCQw4=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationActionBarAdvisor$7.cla
+ ss
+SHA-256-Digest: 3E2ZASLWwHeEhP4KmByU0IT/STGkmiBo6RC1cg/slVo=
+
+Name: plugins/org.eclipse.datatools.modelbase.dbdefinition_1.2.100.20180
+ 1242337.jar
+SHA-256-Digest: stN9A/ZyjNH8PUr1cdg8eFUv3F1f8cloY6RDNxtfP70=
+
+Name: features/org.eclipse.emf.codegen_2.13.0.v20180319-0813/epl-v10.htm
+ l
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: features/org.eclipse.emf.databinding.edit_1.5.0.v20180130-1145/fea
+ ture.properties
+SHA-256-Digest: rbor77QIwfPmFPos1FBp+bJedVW0IP0l34+hlV2P9Vs=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.api_20.12.1.v20220810-1324_40.jar
+SHA-256-Digest: 5ob/UlzPYdErGQinuIBkvjSxbgTJ2aHa1aX2hxLYfyA=
+
+Name: plugins/com.compuware.topaz.branding.development_20.12.1.v20220810
+ -1310_40.jar
+SHA-256-Digest: /b9p1IY9T1Ek0lxeEXYRcN8jmPgGQeveRzOhDwqp7e4=
+
+Name: plugins/com.compuware.fileaid.ex.common.services.conversions_20.12
+ .1.v20220810-1438_40.jar
+SHA-256-Digest: Wnu3K75ir4/CTd/WkuVNIXUhm7ZkA9lHTfoXKv3j3cg=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/internal/workbench/EditorAreaDropAdapter$1.
+ class
+SHA-256-Digest: Px+185SeFI2rC3PAPVHiOsr23VUwYBNHYPc8LTYj2vY=
+
+Name: plugins/org.eclipse.emf.ecore_2.14.0.v20180529-1144.jar
+SHA-256-Digest: dTQUE1hg6t6xYTm1OBrtNmJKHWPzcSPdyxiU8xGjtEM=
+
+Name: features/com.compuware.frameworks.hostservices.mainframe.communica
+ tion.feature_20.12.1.v20220810-1324_40/p2.inf
+SHA-256-Digest: XuFoXvcIbD5ggeKQOWHbL64apPiW2LAeb3sU08765LU=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/about_files/compuwareLogo.png
+SHA-256-Digest: ovgZSBRi5KGFYvmpGgE4s8Q9q3hUkCn6mEneuUAI3Ew=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.extended.jes.
+ api_20.12.1.v20220810-1324_40.jar
+SHA-256-Digest: Qb9JVqWy2nfRveC450Uga90bqaBIY0d48A5tB16gGkE=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/replace.gif
+SHA-256-Digest: AbnPCRUI8aujpgJKYQDl+JRcfnQdWv0AjJ7G4joD/1c=
+
+Name: features/com.compuware.unittest.thirdparty.feature_20.12.1.v202208
+ 10-1529_42/META-INF/MANIFEST.MF
+SHA-256-Digest: LtQlMG9qAU6zQyxXgRS7TKVLV5Im9MzKt7wOtWAH/m4=
+
+Name: plugins/org.eclipse.e4.ui.workbench3_0.14.100.v20180403-0945.jar
+SHA-256-Digest: zRDTV0M7GbRUGvjHdmjFxtA+YSdL5xEiCoCuNFeV1po=
+
+Name: plugins/org.eclipse.emf.mapping.ecore_2.7.0.v20180123-1048.jar
+SHA-256-Digest: G+7pWVx/nMvpRpTLEKJEaAaeBxbNzLgJBqUnPD15rQ4=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/META-INF/MANIFEST.MF
+SHA-256-Digest: eH9Taq2hIDabrSWfJ61Yg0lNqTsvzNaDGq4eMjc50eI=
+
+Name: plugins/org.glassfish.hk2.external.jakarta.inject_2.6.1.jar
+SHA-256-Digest: XojBI7PkG8p4iyaDEYhn2bbexxQkfqkcWIrtRqNu4k8=
+
+Name: TotalTestCLI.bat
+SHA-256-Digest: 4noTqnRh+TT3QwRG1YYvqOYCrVzGXrC6sG4ysXWJIps=
+
+Name: plugins/com.compuware.unittest.mainframe.commands_20.12.1.v2022081
+ 0-1529_42.jar
+SHA-256-Digest: cCut+E4a/uJZhxvwToJtqPNbzFaMhSffq0YluTgC4gc=
+
+Name: plugins/com.compuware.fileaid.common.model.jaxb.versions_20.12.1.v
+ 20220810-1411_39.jar
+SHA-256-Digest: xugTKtFmZmpcik5/EfbOmDRl0Qh/r0tAmwjWMi+oY8g=
+
+Name: plugins/org.apache.commons.commons-csv_1.7.0.jar
+SHA-256-Digest: JfXnkUcpo8ucu4ORi18RFmJcymPOOKUPD+WW+De5pSQ=
+
+Name: plugins/org.eclipse.equinox.event_1.4.200.v20180426-0845.jar
+SHA-256-Digest: F9lQ+BMuEbPoeABvPzomSmSy3tTR9DVHJfA9lLjj7PU=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root.gtk.linux.x86_64/SubmitJclCLI.sh
+SHA-256-Digest: EOb3wdvIOW0LiF4dkoNHjDeG7fZjkNh50GtACLzsJIQ=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-antlr.jar
+SHA-256-Digest: aj76ta+f7r3FYs8fBfN9TqgO1JgAfe5qljN7pcEpqXs=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/com/compuware/frameworks/hostser
+ vices/client/ui/credentials/passticket/CredentialProviderPassTicket$1.c
+ lass
+SHA-256-Digest: GBIRmiJGpF2rnrOEwBPT/h4gZ12FptgsDIRWjG/020U=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/jdepend.xsl
+SHA-256-Digest: anAEbSEusGqrz5DX+/icQiosQoU/1s8lhxLkYF15lD8=
+
+Name: features/com.compuware.frameworks.hostservices.common.feature_20.1
+ 2.1.v20220810-1324_40/feature.xml
+SHA-256-Digest: BJ8w66TtSd+qIzFjUBKY9WcbTF3Nm6e1OghV4CfniiM=
+
+Name: features/org.eclipse.emf.mapping.ecore.editor_2.11.0.v20180125-113
+ 0/META-INF/MANIFEST.MF
+SHA-256-Digest: feQsrjztDHXnlgQVuYM+/jeNrJBpyqA4CM9k56B8LB4=
+
+Name: features/org.eclipse.emf.databinding.edit_1.5.0.v20180130-1145/MET
+ A-INF/ECLIPSE_.SF
+SHA-256-Digest: Y9nsMBgmtJ+Kxe1XneCtNhHNtVEBXo+poiKD+SjXCtM=
+
+Name: plugins/org.eclipse.core.variables_3.4.100.v20180509-0959.jar
+SHA-256-Digest: 2MayfjJa7GJazqC/8zbyqIA0SJnNeOnL8SbDM1Z2ybE=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-commons-loggi
+ ng.jar
+SHA-256-Digest: m9qXjEFfRrjo7M8yXIELHgrPQ+U2pzdaZ02rW3tLamg=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/com/compuware/frameworks/hostser
+ vices/client/ui/credentials/passticket/CredentialProviderPassTicket.cla
+ ss
+SHA-256-Digest: np8WVtDJwT2LSe2GMXcmBsaaJPKzYLsURKp5KFOAxrQ=
+
+Name: plugins/org.eclipse.osgi.compatibility.state_1.1.100.v20180331-174
+ 3.jar
+SHA-256-Digest: FivZe1z1WnF98zkh6rcUZVor7gBy+fB0SPBPlMMx3k4=
+
+Name: features/org.eclipse.emf.ecore.edit_2.10.0.v20180421-0731/META-INF
+ /ECLIPSE_.RSA
+SHA-256-Digest: wZqEoJHWk+wOfjUdjXtYX/2WJboltcc+RVjN7OgEyiU=
+
+Name: plugins/org.eclipse.equinox.bidi_1.1.100.v20171221-2204.jar
+SHA-256-Digest: 8xQ4PO/tXlouaNWP0KS3Km+tD5dsstN6bsCFSdgS6tg=
+
+Name: plugins/com.compuware.xatester.cli_20.12.1.v20220810-1529_42.jar
+SHA-256-Digest: vrMNTdK49ZmwpNfEUA/yLWC2OjJoadxmS6g0X9shV8w=
+
+Name: features/com.compuware.unittest.thirdparty.feature_20.12.1.v202208
+ 10-1529_42/META-INF/COMPUWAR.SF
+SHA-256-Digest: O8tG0DUX9ORtJP2sUaB9SbJB4qZfFazsUo5HdmiaonQ=
+
+Name: features/com.compuware.frameworks.hostservices.mainframe.communica
+ tion.feature_20.12.1.v20220810-1324_40/META-INF/MANIFEST.MF
+SHA-256-Digest: 8BJCx0M1GetIg/VklDobzylhj1IrhXJa1arU+R1TVl0=
+
+Name: features/org.eclipse.emf.edit_2.13.0.v20180421-1151/epl-v10.html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: features/org.eclipse.datatools.sqldevtools.parsers.feature_1.14.10
+ 0.201801242337/license.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-commons-net.j
+ ar
+SHA-256-Digest: A8I5k/7jDA2hNzQRCvzFGodCbniGIUIkPYUNREyOx0U=
+
+Name: features/org.eclipse.emf.ecore_2.14.0.v20180529-1144/feature.prope
+ rties
+SHA-256-Digest: iFpYgqMy3GuWwfBRPUzOn26kvtBIVwcB4NDi8oMotTc=
+
+Name: plugins/com.compuware.unittest.cli.zos.parser_20.12.1.v20220810-15
+ 29_42.jar
+SHA-256-Digest: aYcL9OP+B8aYVWbzURhMhl1rHUs5zWnIzVlNgd/BLQ4=
+
+Name: plugins/org.eclipse.emf.databinding_1.4.0.v20180130-1145.jar
+SHA-256-Digest: DFF5qquCwZaGs1zbHge9PxjvFi3G+trDfLreZft8O68=
+
+Name: plugins/com.compuware.fileaid.ex.selectioncriteria.services.conver
+ sions_20.12.1.v20220810-1438_40.jar
+SHA-256-Digest: kWQJFytR0B3Pu/Xpc+fQv0nDIi6u+Sp06C0dZes9PD4=
+
+Name: plugins/com.compuware.fileaid.ex.common_20.12.1.v20220810-1438_40.
+ jar
+SHA-256-Digest: QtHq1npCC/XFeJRBFpoxWMyWQRaL2TrdalC4nHmmjw8=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/plugin.properties
+SHA-256-Digest: vNgHscyX84Biy1z4vyQtqB7ZwX556lPWx+wqaktLjEU=
+
+Name: plugins/com.compuware.fileaid.ex.areditor.model.impl_20.12.1.v2022
+ 0810-1438_40.jar
+SHA-256-Digest: Xf0Oboy5UT6UT7woPYvtn86+HOQqRXN3Qgi92yFrg8g=
+
+Name: plugins/com.compuware.frameworks.compuwarePreferences_20.12.1.v202
+ 20810-1310_40.jar
+SHA-256-Digest: 3Pa2zhflXE2F9WsZNXwNVtxGPyIJVl8F+/tLBmEhZE4=
+
+Name: plugins/com.compuware.frameworks.hostservices.hostexplorer_20.12.1
+ .v20220810-1324_40.jar
+SHA-256-Digest: JBJ1HJkU+IMrSaL6RKFIaXC5cFJgTumJd1vV9zIOMSI=
+
+Name: plugins/com.compuware.fileaid.ex.selectioncriteria.model.rdx_20.12
+ .1.v20220810-1438_40.jar
+SHA-256-Digest: DKOGp6aqGJgU3YK9xsGspEr/Ea3Kr6fv2qihxORR7kE=
+
+Name: features/org.eclipse.emf.ecore.edit_2.10.0.v20180421-0731/license.
+ html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: workspace/configuration/ispw_logback.xml
+SHA-256-Digest: 9d/8dl2QPtmt4azqWYgY4G8GKahkeXsklSnY3HLiC/g=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-apache-resolv
+ er.jar
+SHA-256-Digest: lawuLo0BPbCyDZgW+E3PHSERTwK4+gEkW1qu1tj1KUM=
+
+Name: features/org.eclipse.emf.codegen.ui_2.9.0.v20180125-1130/META-INF/
+ ECLIPSE_.RSA
+SHA-256-Digest: uCiq5uDYVFpJWPZ3z6T4q3cUHq4cRXRzWSN759XSmOc=
+
+Name: features/com.compuware.ted.cli.feature_20.12.1.v20220810-1523_39/M
+ ETA-INF/COMPUWAR.RSA
+SHA-256-Digest: sXB/+Y8OSV2He8u5f4Nsn9hTOQ0L4gdnHR6CEmsM1Hw=
+
+Name: plugins/org.eclipse.emf.ecore.change_2.12.0.v20180125-1130.jar
+SHA-256-Digest: xmkGSdVsy0xvqX5ij9/aGRAoY2I3YNVibG0VBpK76KQ=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/antRun
+SHA-256-Digest: 4iN2O/MIkCDRxAb8GJk31duEE5VjP1d0BV/QsoYg7VA=
+
+Name: features/org.eclipse.emf.codegen.ecore.ui_2.14.0.v20180418-0836/li
+ cense.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/com.compuware.unittest.eclipse.builderparser_20.12.1.v2022
+ 0810-1529_42.jar
+SHA-256-Digest: lW2UZs2cXF4K975wRefz8keqqq2lfWN7cs7jAsEILKs=
+
+Name: plugins/com.compuware.fileaid.ex.loader.model.impl_20.12.1.v202208
+ 10-1438_40.jar
+SHA-256-Digest: x3VTvplFvCapG1o+wsqCJW97XdNnZKZVcqs1DmSxpv4=
+
+Name: plugins/com.compuware.frameworks.logging.configuration_20.12.1.v20
+ 220810-1310_40.jar
+SHA-256-Digest: 6IoKNNoYVpUCm4aNCCJ3o4CC0ED8tzuiXs1dEIgDHM8=
+
+Name: plugins/com.compuware.frameworks.hostservices.smartcard.core_20.12
+ .1.v20220810-1324_40.jar
+SHA-256-Digest: mYd/LcRojq4XeTe+XITvQlimMkP2GK48j3nbS5wRNfY=
+
+Name: plugins/org.eclipse.equinox.common_3.10.0.v20180412-1130.jar
+SHA-256-Digest: zA1QsOVX9+3FzS67l08z4xxJAAClzouXHk6PdeOON9Q=
+
+Name: plugins/com.compuware.codecoverage.api_20.12.1.v20220810-1411_40.j
+ ar
+SHA-256-Digest: PlJrrmVxH1X5+8XMfel5QB3SH5wMRViXq/EVVoqeUIc=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root/workspace/configuration/topaz_logback.
+ xml
+SHA-256-Digest: rlwNY4lfV3buK8cholSfi5dzSYGuNxXELDX1sLK5gwk=
+
+Name: plugins/com.compuware.fileaid.ex.areditor.model.jaxb_20.12.1.v2022
+ 0810-1438_40.jar
+SHA-256-Digest: aJ+SnLP5BtA1xUhryXsA/rKkcQMNgeqcVeW47i0ORMQ=
+
+Name: plugins/org.w3c.dom.events_3.0.0.draft20060413_v201105210656.jar
+SHA-256-Digest: 7BVW8ZncgCxazINJg6CEUSEl9chBsqdhD6g8NtGx/4g=
+
+Name: plugins/com.google.guava_25.1.0.jre.jar
+SHA-256-Digest: xjs/AkM5CZ42Pkzj5J8lPuvx1F0zrcJ3443PzjxZhcg=
+
+Name: features/org.eclipse.emf.codegen.ecore.ui_2.14.0.v20180418-0836/ep
+ l-v10.html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/com.compuware.codecoverage.cli_20.12.1.v20220810-1546_39.j
+ ar
+SHA-256-Digest: 4BhNbjUnSl+zjPDRE6l1bg0uaZZJ8pntAmeXu4lB/XQ=
+
+Name: features/com.compuware.codecoverage.api.feature_20.12.1.v20220810-
+ 1411_40/META-INF/COMPUWAR.SF
+SHA-256-Digest: JgCzDMPn+/ddUjw+JHWnECi45o1v2LUWLhIkuhAGBjs=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/internal/workbench/Activator.class
+SHA-256-Digest: 4neXfcxmCGYg59gwqzA+c4Z18Hm+EnnaCa8D95TX2Y8=
+
+Name: plugins/org.eclipse.equinox.security_1.2.400.v20171221-2204.jar
+SHA-256-Digest: Z8Sw9l0JpYwKLW45LMu0g39sQFrCunvdixtcnfUu2E8=
+
+Name: plugins/org.eclipse.e4.core.services_2.1.100.v20180427-1454.jar
+SHA-256-Digest: RrSCbxvhVnJLCizOKCJ27bRb1YtPCkgf5eFTmfENFi0=
+
+Name: plugins/org.apache.logging.log4j.1.2-api_2.17.1.jar
+SHA-256-Digest: GaiIn3aAvaqDMGRR3RJlmC8bI7rj4Cz3qhPVpSIm97A=
+
+Name: plugins/com.compuware.fileaid.common.expressionparser_20.12.1.v202
+ 20810-1411_39.jar
+SHA-256-Digest: 3vIcnWespbnFc/CwH0PsdRWOnmGozXQaHbI4zJJZjw0=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/actions/SwitchPerspectiveAction.c
+ lass
+SHA-256-Digest: RUjmbgKzUmrSYqgswosqrwR1BsiHkJ+3VkNBLVp4D4o=
+
+Name: features/com.compuware.unittest.cli.feature_20.12.1.v20220810-1529
+ _42/META-INF/MANIFEST.MF
+SHA-256-Digest: suklz16bmmkafO57iQKLIv/SSEtohglmCHOH6OpleNA=
+
+Name: plugins/com.compuware.fileaid.ex.legacy_20.12.1.v20220810-1438_40.
+ jar
+SHA-256-Digest: uYWhqqca6ZCucpgR58TmWnweYQFMeKYuFjnRtVjKO9I=
+
+Name: features/org.eclipse.emf.codegen.ecore.ui_2.14.0.v20180418-0836/ME
+ TA-INF/ECLIPSE_.RSA
+SHA-256-Digest: tsiGWdwarkL88EKbcd1S4gkmXbZx7pkqFybgRrS+KlM=
+
+Name: plugins/javaewah_1.1.6.v20160919-1400.jar
+SHA-256-Digest: Kr/wl1spjUTtc+phCRjZdRqX5jZKXQ0cqok1dX6gRMw=
+
+Name: plugins/com.compuware.unittest.eclipse.templates_20.12.1.v20220810
+ -1529_42.jar
+SHA-256-Digest: 0ga1m/lVNgbEATS0oUosPndiepQztn43wE7pVMh7D2w=
+
+Name: features/com.compuware.ted.cli.feature_20.12.1.v20220810-1523_39/p
+ 2.inf
+SHA-256-Digest: 3f6oPtI5we52fXFCUTz8LPl4MmeTgOv9tdwU6nhH78c=
+
+Name: plugins/com.compuware.fileaid.ex.selectioncriteria.model.impl_20.1
+ 2.1.v20220810-1438_40.jar
+SHA-256-Digest: QrlqUB/XB2GoJB7gqucHxjq5+/w47lpYngwJDR9SHJM=
+
+Name: plugins/com.compuware.fileaid.common.diagnostic_20.12.1.v20220810-
+ 1411_39.jar
+SHA-256-Digest: DsIP0AAYsE/dFI75SSpjH5CrH30N9WZ0kE4VAb4zTl8=
+
+Name: features/com.compuware.frameworks.hostservices.cli.feature_20.12.1
+ .v20220810-1546_39/META-INF/COMPUWAR.RSA
+SHA-256-Digest: 8UUVF5MkyCtz2Jm3MOnoQ34YEmfPs7QuX9h77z9VYss=
+
+Name: features/org.eclipse.emf.mapping_2.10.0.v20180125-1130/feature.pro
+ perties
+SHA-256-Digest: uOiM7cbUqdhWP2FGGzjav/JwOK3gOqGWEvstqkvprZk=
+
+Name: plugins/com.compuware.fileaid.common.services.rest.client_20.12.1.
+ v20220810-1411_39.jar
+SHA-256-Digest: IP8RQQ0My+NHFeI1iqjC5okF6Jw0pMxPtHnGLJJ4JhE=
+
+Name: plugins/com.compuware.fileaid.ex.extract.model.jaxb_20.12.1.v20220
+ 810-1438_40.jar
+SHA-256-Digest: W0tiezdr3qAjvfQyGnRprBUQ3kETgyYkoCs0U4vYFmg=
+
+Name: plugins/org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar
+SHA-256-Digest: tMcPqN8Dmmypx+MY5pQPfZwLYr7ZY6cAokIppf9J+zM=
+
+Name: features/com.compuware.unittest.eclipse.core.feature_20.12.1.v2022
+ 0810-1529_42/feature.properties
+SHA-256-Digest: nwJVg2uRdd+J8wvxE1TfrCUj5EWzCnd7Y0bpgGZARDQ=
+
+Name: features/com.compuware.fileaid.ex.cli.feature_20.12.1.v20220810-14
+ 38_40/p2.inf
+SHA-256-Digest: Rw5TcuKPzmSzDrFwsldRSjn7BgW/iNRvHFWaql9vbo4=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationWorkbenchWindowAdvisor
+ $2.class
+SHA-256-Digest: OA0F5jxDt8k5rmbcx93QeA4zl1TQvL8qjaBeorL8UjI=
+
+Name: plugins/com.compuware.fileaid.ex.loader.services.conversions_20.12
+ .1.v20220810-1438_40.jar
+SHA-256-Digest: HiPhQItCKqD1Kid7zA4qsfEXbe2SBZv72SjwEzZ44OE=
+
+Name: features/com.compuware.ispw.cli.feature_20.12.1.v20220810-1525_40/
+ feature.properties
+SHA-256-Digest: aMvhNKkEM9ef23rCGMj3R1TTetxjAU5J0iYvwHu/eU0=
+
+Name: plugins/org.eclipse.datatools.modelbase.sql_1.2.100.201801242337.j
+ ar
+SHA-256-Digest: difvT1w0QUvzMWI3V78W3eZ5Ga+96hAN1wEQWg9aJVM=
+
+Name: plugins/org.apache.batik.constants_1.9.1.v20180227-1645.jar
+SHA-256-Digest: iKoW39E+wgoJFv/YAy3NgxaRz61ldtiFaWK2eqSZvh4=
+
+Name: plugins/org.eclipse.e4.ui.workbench.swt_0.14.200.v20180516-2019.ja
+ r
+SHA-256-Digest: Y40ptKHuS0uQ2ajks4ukgS6KqZd6JkFRxuJD0P1GGF8=
+
+Name: plugins/com.compuware.frameworks.hostservices.core_20.12.1.v202208
+ 10-1324_40.jar
+SHA-256-Digest: ydcNIHUKMyD2mG7SCZQ26SgHOWqJQTTT1kyQ9cUDZY4=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationWorkbenchAdvisor$1.cla
+ ss
+SHA-256-Digest: bAFjInTWuh6sKFBgpvYxSGDiAT6tjW+2Xhck4pxMOxs=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root/readme/license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root.win32.win32.x86_64/CodeCoverageCLI.bat
+SHA-256-Digest: ZWuZ/1Mdck7l7+GEzj0XzWtJDLbwkZyO2djIUZ7Nv7c=
+
+Name: features/com.compuware.ispw.cli.feature_20.12.1.v20220810-1525_40/
+ META-INF/MANIFEST.MF
+SHA-256-Digest: /lnJ2/Uq6h7DRGRxn6W9We1utX/L0KGV4u7kgsg+PPQ=
+
+Name: features/com.compuware.frameworks.diagnostic.collection.feature_20
+ .12.1.v20220810-1310_40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: cI//+SR/RAY6IUo7d1YZ319F+5DjEzo+pImM0kUJRrc=
+
+Name: plugins/com.compuware.fileaid.common.model.jaxb_20.12.1.v20220810-
+ 1411_39.jar
+SHA-256-Digest: BNO+0UuhGhvDuqKnswL0y4Eb/VCQb/ZEg742tJ2FgDM=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/actions/ShowViewContributionItem.
+ class
+SHA-256-Digest: h8nd0Z66uenJsDGkt2g9Hlms3LGz/bKnKyWqNMnuNGw=
+
+Name: p2/org.eclipse.equinox.p2.core/cache/binary/com.compuware.framewor
+ ks.workbench.logging.feature_root_20.12.1.v20220810-1310_40
+SHA-256-Digest: Dsiemma/UwyVUCudoKqu7E7LYP/zIZV/uCEpMVGmd7w=
+
+Name: features/com.compuware.codecoverage.api.feature_20.12.1.v20220810-
+ 1411_40/META-INF/MANIFEST.MF
+SHA-256-Digest: kBbXf6rtOjwQjlkusDTuhPpuQgflXLdq9hQPoK/aIiw=
+
+Name: plugins/com.compuware.frameworks.hostservices.http_20.12.1.v202208
+ 10-1324_40.jar
+SHA-256-Digest: HHPrVqlmdYLXzWXW+f7hS9t4gtOiJgNVjQ0wsdP32kY=
+
+Name: features/com.compuware.frameworks.workbench.logging.feature_20.12.
+ 1.v20220810-1310_40/license_compuware.html
+SHA-256-Digest: WzcopoMZehfbsFAt82IsG4yaLMySO5L6u1GnL1TFOKM=
+
+Name: plugins/com.compuware.zadviser.api_20.12.1.v20220810-1324_40.jar
+SHA-256-Digest: HY+sK/wZJVmR9aFkFhq6NUItHBOIAyD2xmkST9JBWB4=
+
+Name: features/org.eclipse.emf.mapping.ecore.editor_2.11.0.v20180125-113
+ 0/license.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: features/org.eclipse.emf.edit.ui_2.14.0.v20180213-0527/META-INF/EC
+ LIPSE_.RSA
+SHA-256-Digest: qFWQ3dVIkN3qggccdISGrwV45PkB0IWyUy36BMiNDHQ=
+
+Name: plugins/com.compuware.frameworks.diagnostic.data.osgi_20.12.1.v202
+ 20810-1310_40.jar
+SHA-256-Digest: V0xiR8u4/gSiQKn9dA8T5Ad0OyKHADfZBcB6K6dTnLE=
+
+Name: features/org.eclipse.emf.codegen.ecore.ui_2.14.0.v20180418-0836/ME
+ TA-INF/ECLIPSE_.SF
+SHA-256-Digest: 174BwrIGAlsCOGV0XQQpcYsuGb9Hxmmx3fe3lFJarG8=
+
+Name: plugins/com.compuware.fileaid.ex.selectioncriteria.model.core_20.1
+ 2.1.v20220810-1438_40.jar
+SHA-256-Digest: 3mcXoARocehMF0xkI+wL969ZkHpwR6qo05VQrwJicFw=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/META-INF/COMPUWAR.SF
+SHA-256-Digest: ShQY8FGpMSvpQAhvl1VAS7RH9/9OrJgMHwxSpMbNmdI=
+
+Name: features/org.eclipse.emf.ecore_2.14.0.v20180529-1144/META-INF/MANI
+ FEST.MF
+SHA-256-Digest: f5I50ICdGJCBHe+VvBljBCzjZqKLoEmUtAxjTKffJWY=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root.gtk.linux.x86_64/CodeCoverageCLI.sh
+SHA-256-Digest: y0YpImFdWt+IRVAv6DsMEwZXsNqEq5/LyJNj9QplwQg=
+
+Name: features/org.eclipse.emf.common.ui_2.13.0.v20180127-1015/epl-v10.h
+ tml
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/colors.png
+SHA-256-Digest: gAMD4s+ZvphAzWEN6YV90+NdBTxPGPv9wXpWSgrTZFI=
+
+Name: plugins/org.eclipse.emf.mapping.ecore2ecore.editor_2.8.0.v20180125
+ -1130.jar
+SHA-256-Digest: rcSjxWhib6K7aAcXYp7c1eB4tdgtoitwjq9KSNATNt4=
+
+Name: features/org.eclipse.emf.converter_2.13.0.v20180131-0817/epl-v10.h
+ tml
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/META-INF/COMPUWAR.RSA
+SHA-256-Digest: MkkzJDdFb325YR18/B6WtXGXBikySmjpCg2DUIv+TN8=
+
+Name: features/com.compuware.frameworks.diagnostic.data.feature_20.12.1.
+ v20220810-1310_40/META-INF/MANIFEST.MF
+SHA-256-Digest: +Qwz+0H3GVrlYrboTjlGVWIjL8ATYq3RntzSr3IbyBQ=
+
+Name: features/com.compuware.frameworks.hostservices.common.feature_20.1
+ 2.1.v20220810-1324_40/META-INF/COMPUWAR.SF
+SHA-256-Digest: naAu1tSEmp9BzsKkS5DCiOL3dxsWPpXYpThO7d0pqEE=
+
+Name: plugins/org.eclipse.e4.ui.workbench.addons.swt_1.3.100.v20180516-2
+ 019.jar
+SHA-256-Digest: sfMfqSp2+lJjvxmL4NImdH3smH+Apbi7bE994lBGENQ=
+
+Name: plugins/com.compuware.fileaid.ex.common.services.legacy_20.12.1.v2
+ 0220810-1438_40.jar
+SHA-256-Digest: jtlJUSaul3/tikjyb10CKZVRdyPI3Gd0mBFVTgQC/vU=
+
+Name: plugins/org.eclipse.emf.edit_2.13.0.v20180421-1151.jar
+SHA-256-Digest: fTXO6ZvSTPZJ3sZmSltNKZm+QJWG7UhMRWvhiY5Dt+g=
+
+Name: plugins/com.compuware.fileaid.ex.common.model.impl_20.12.1.v202208
+ 10-1438_40.jar
+SHA-256-Digest: qJFi1300I/Ll02S2AKrUHbWjvp8UkMk7OatggViu1cU=
+
+Name: features/org.eclipse.datatools.sqldevtools.parsers.feature_1.14.10
+ 0.201801242337/feature.properties
+SHA-256-Digest: popw9sgkp3hiEmi/nPIYQKQiXgTO9a3Eaqyx+vmYwYk=
+
+Name: features/com.compuware.ted.cli.feature_20.12.1.v20220810-1523_39/M
+ ETA-INF/COMPUWAR.SF
+SHA-256-Digest: /GkA/srLeLG7mdAgWi7hWLggOMXp0nqNgKlXaD+z3qs=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/lcp.bat
+SHA-256-Digest: xE0FZ7y+qCT/bGz9CY264KBYaVAVjjFvwP93JqnPP9g=
+
+Name: features/org.eclipse.emf.mapping_2.10.0.v20180125-1130/META-INF/MA
+ NIFEST.MF
+SHA-256-Digest: VOdbBLKv2Clm+/co/qfWe/NBaBIAl480UwWKf/uLg5U=
+
+Name: plugins/com.compuware.frameworks.diagnostic.data.system_20.12.1.v2
+ 0220810-1310_40.jar
+SHA-256-Digest: lJ4k2vLyCjdqZqCGfUyiGo1QZrpYZpjhaIoqJUnV2Wc=
+
+Name: plugins/com.compuware.fileaid.common.api_20.12.1.v20220810-1411_39
+ .jar
+SHA-256-Digest: Z4kpSEHLcNQBJafJZI2sdHcUtMZgFo51WuNTf4CLy/w=
+
+Name: plugins/org.eclipse.ui_3.109.100.v20180426-0903.jar
+SHA-256-Digest: kVuXi49xUb+EFQ9DaEr5kADsHVLEdVVhy0qPWQ2Wooc=
+
+Name: features/com.compuware.zadviser.cli.feature_20.12.1.v20220810-1546
+ _39/META-INF/COMPUWAR.SF
+SHA-256-Digest: WQS7FTd5XF2drrnXOGgvbiIkTQr1NXHZZcv+KnqoOto=
+
+Name: plugins/ch.qos.logback.classic_1.2.11.jar
+SHA-256-Digest: aPtWdlsBvUsby1j4BeFWbxqcYz510stDJsJdY4QDegk=
+
+Name: plugins/com.compuware.fileaid.ex.extract.model.jaxb.versions_20.12
+ .1.v20220810-1438_40.jar
+SHA-256-Digest: JiHIBolHp7h3YgIePrRu7SUpdLqse4FJu6RqJrnBslQ=
+
+Name: plugins/org.eclipse.equinox.ds_1.5.100.v20171221-2204.jar
+SHA-256-Digest: SWzZohYtiCa7/MI93AUXd2ChuX1AWQ+uR8YXStPCNWA=
+
+Name: configuration/org.eclipse.update/platform.xml
+SHA-256-Digest: IgtDsekonYbss9QORlSpZLgg+EPmtGRfqOoyb3l03sg=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: Em7wNKZuFcKJbRcWBzD1mH+sSmeYzIezBIEzsN6qlPw=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-apache-bcel.j
+ ar
+SHA-256-Digest: 40eT3NtsC1I7oS3irOE94n7jM8ZplKgZPENAYCChv+E=
+
+Name: plugins/sharedclasses_20.12.1.v20220810-1438_40.jar
+SHA-256-Digest: jA+v4GgXtrdDZV3tnz5wz1/RQ4vCmaz49ejf+SbQOIU=
+
+Name: features/org.eclipse.emf.codegen.ecore.ui_2.14.0.v20180418-0836/ME
+ TA-INF/MANIFEST.MF
+SHA-256-Digest: j66p9UsAWwkn0WzGzPhWsT00zo/m8Qb6wIs4I0o4xjg=
+
+Name: features/org.eclipse.emf.codegen.ui_2.9.0.v20180125-1130/epl-v10.h
+ tml
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/org.eclipse.emf.databinding.edit_1.4.0.v20180130-1145.jar
+SHA-256-Digest: 2EMfoJx2LYbNV2vigH6C0JHOxCvkdNE6jE3yVS92imQ=
+
+Name: features/org.eclipse.emf.codegen_2.13.0.v20180319-0813/license.htm
+ l
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: features/com.compuware.frameworks.hostservices.mainframe.communica
+ tion.feature_20.12.1.v20220810-1324_40/META-INF/COMPUWAR.SF
+SHA-256-Digest: D8JYJ4Vlc1nxa5hbq0TXBbUJrIqxiEtYJWxEHm23nQM=
+
+Name: plugins/org.sat4j.pb_2.3.5.v201404071733.jar
+SHA-256-Digest: KEN6fAehTbhLehHKBMMteMx71C8OtkwofjZMeEOUu9w=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/ant.cmd
+SHA-256-Digest: kR6RZ7/AJkuK6AhLS7w+t1NUnXHd2Q20AXB0H0DaC8U=
+
+Name: features/com.compuware.frameworks.workbench.logging.feature_20.12.
+ 1.v20220810-1310_40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: N2unRPLc37eUhOIifEChYfZDKjhnN90uVyF+u8sQjdM=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/feature.properties
+SHA-256-Digest: B+8l2FC6SuQXRfQLLoD2BNuaJ8fioILLVUZnod4lt9c=
+
+Name: plugins/org.eclipse.emf.mapping.ui_2.8.0.v20180125-1130.jar
+SHA-256-Digest: O/S4ItXLqpaUZr/W2+ADIw/Rcud56GHj0MWLtqws+u8=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/dialogs/ChooseWorkspaceData.class
+SHA-256-Digest: M5MLRaYc1DFH4XvjNSsfuA+GOb3c6qbmu/AVb/ZBVPM=
+
+Name: plugins/org.eclipse.search_3.11.200.v20180503-1856.jar
+SHA-256-Digest: Xr+IPSzHV3v2AshU/ttJ7XbSN1wBUzKGoTBRumE1CfI=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationActionBarAdvisor.class
+SHA-256-Digest: YDos/NcSlnuOHfwiRwhYAW+vAdub9i9DOhXFcc0G8Ho=
+
+Name: plugins/com.compuware.zadviser.communications.api.impl_20.12.1.v20
+ 220810-1324_40.jar
+SHA-256-Digest: FEC2SxtDZ7+Td7IW/528m1Wls6tO6T06gIVY6r+IWTI=
+
+Name: plugins/org.eclipse.datatools.sqltools.parsers.sql.lexer_1.2.100.2
+ 01801242337.jar
+SHA-256-Digest: Yw1X4V/v2RBmQ2byzu1ccFkAQNmnSbQ4ZYlzvvKRg6M=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/p2.inf
+SHA-256-Digest: TsrwhDUWcGEVdQWyZ2ASdhgsYKo05LViZSPp29fYmPU=
+
+Name: features/org.eclipse.emf.databinding_1.5.0.v20180130-1145/epl-v10.
+ html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/org.eclipse.e4.ui.widgets_1.2.100.v20180403-0945.jar
+SHA-256-Digest: 0JufQQHkQcprq6VB5QurnDQELRYgy6FT+7xmziZ9I08=
+
+Name: features/org.eclipse.datatools.modelbase.feature_1.14.100.20180202
+ 2135/META-INF/ECLIPSE_.RSA
+SHA-256-Digest: rmsDHfbX3CHzsX1a8z3OCYx7WxwTYatoORO/7VI8ueI=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/save.gif
+SHA-256-Digest: hCSGZnztKV9BtGKjI6x1NsQs/BWiKVvSS/ETm/uAGjk=
+
+Name: features/org.eclipse.emf.databinding_1.5.0.v20180130-1145/license.
+ html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/com.compuware.frameworks.workbench.diagnostic.trace_20.12.
+ 1.v20220810-1310_40.jar
+SHA-256-Digest: kkKsy+UPYRULjI1t4zjIXZQh7jDYOinfkOXUmVoq/iI=
+
+Name: features/org.eclipse.emf.converter_2.13.0.v20180131-0817/META-INF/
+ ECLIPSE_.RSA
+SHA-256-Digest: TuOFRu17ZdRbYBeAzI9d2uLbJBw+zcUFCJCkiH0QNDA=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-jai.jar
+SHA-256-Digest: WUYNV0AbNi16MUCbbMmWvydCqb8tUzsC2sywH9f219w=
+
+Name: plugins/com.compuware.codecoverage.commandset_20.12.1.v20220810-14
+ 11_40.jar
+SHA-256-Digest: 6YgKCdjNHTbRqao4PxvOffTPqZ5TuaqM8HEtJ8KKigk=
+
+Name: plugins/org.eclipse.emf.importer.java_2.9.0.v20180127-0728.jar
+SHA-256-Digest: 0dwA1fy1rpgXpXhnuFubiNrVfvMS9fMYFnEMnaEXfdQ=
+
+Name: plugins/org.eclipse.e4.ui.bindings_0.12.100.v20180509-1220.jar
+SHA-256-Digest: yLxJnl5M1yGz6OIixSwBvH/FQLiKLjSGJE3A1vPMhd0=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-jsch.jar
+SHA-256-Digest: traHSrtPP3MiGLd1CtJXXuTpt30GDQuUsAHMfMo5CBw=
+
+Name: plugins/com.compuware.fileaid.ex.areditor.services.conversions_20.
+ 12.1.v20220810-1438_40.jar
+SHA-256-Digest: ZdUw7dTpwW1IbMMDiDI2ocrUyLhaXPvwQH8mMKqgyqA=
+
+Name: features/org.eclipse.emf.edit.ui_2.14.0.v20180213-0527/META-INF/EC
+ LIPSE_.SF
+SHA-256-Digest: D4M5JV+PG6h/ZvP9tUzZfPh43aropSXW8vs5JjXI8cw=
+
+Name: plugins/com.compuware.frameworks.hostservices.common_20.12.1.v2022
+ 0810-1324_40.jar
+SHA-256-Digest: D6X0f+HEA9FzgXuf0EEUCGAhDWIjvLA2MWoHL+utT/A=
+
+Name: plugins/org.eclipse.ui.navigator_3.7.100.v20180524-1240.jar
+SHA-256-Digest: uFkgymaE0N/gt18jNvX5X/xg3c03Vw6FP8tSZ0VV880=
+
+Name: features/org.eclipse.emf.databinding_1.5.0.v20180130-1145/META-INF
+ /ECLIPSE_.RSA
+SHA-256-Digest: 7Jbcnsw9CkmQfDNm/OUflKLR0d4RoHU6gEkzZ0vYIjI=
+
+Name: plugins/org.eclipse.e4.ui.css.swt_0.13.100.v20180515-1637.jar
+SHA-256-Digest: Gl+D8IptgX6q+Uf8gfesuRzjk6sDSzIwDOg6omryq+w=
+
+Name: features/com.compuware.frameworks.workbench.logging.feature_20.12.
+ 1.v20220810-1310_40/root/data/configuration/logback.xml
+SHA-256-Digest: 8M+xigGI2R4ozFYt4lmc4J1KxlLE4tN7eEMOQ3o3UGE=
+
+Name: features/com.compuware.unittest.thirdparty.feature_20.12.1.v202208
+ 10-1529_42/feature.properties
+SHA-256-Digest: UqyIcObEHGu1AHfN/HPnaTdXDvnBSGr22RPKL4kjv3A=
+
+Name: readme/ISPW_README.txt
+SHA-256-Digest: Cs+TAg7gpyoJk23tNw4QhNPVuZs6LYvZrBVxKKcCvDc=
+
+Name: plugins/com.compuware.frameworks.hostservices.javax.smartcard_20.1
+ 2.1.v20220810-1321_39.jar
+SHA-256-Digest: UHBltf0b0LSJjXfOivVnWsDZp04dAvhNj1dewehgGT4=
+
+Name: plugins/org.eclipse.core.databinding.beans_1.4.100.v20180403-0944.
+ jar
+SHA-256-Digest: O89JnFERr8YjLlT+YsR5S1Fb8VEfdKQwo173GVLGuKw=
+
+Name: plugins/com.compuware.frameworks.hostservices.database_20.12.1.v20
+ 220810-1324_40.jar
+SHA-256-Digest: QGK29rKXB9fGmnixPyOEW1INjng/4Vq7eNr4iS/JnNk=
+
+Name: data/logs/readme.txt
+SHA-256-Digest: XuPKvFN3P+TGzqbsAY4/V6G9U/2ytxGuf58TaQn2qMQ=
+
+Name: plugins/com.compuware.frameworks.hostservices.ces.credentials_20.1
+ 2.1.v20220810-1324_40.jar
+SHA-256-Digest: atfrkHnx13m28hEbv0DsQp/38CULx/IPmmYOxLvSvVQ=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/buildAllEnabled.gif
+SHA-256-Digest: vy6w9JObw4m6a6t7jb+h9rcthz8PsJW3GebG8uFlzqs=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/tagdiff.xsl
+SHA-256-Digest: RE9uuObEoffBHHlJH7AUkCNXSuK6hlDhZaqJ/ffAc0w=
+
+Name: features/com.compuware.codecoverage.api.feature_20.12.1.v20220810-
+ 1411_40/feature.properties
+SHA-256-Digest: Xb7jLJx0O6MZkIJMJUW2blLT6gPC8Rp581jZ9HpUqv4=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/saveDisabled.gif
+SHA-256-Digest: s1Wh+wcOqnNLJk00GTmehXjcoKK4m2j/QjTd195K3WE=
+
+Name: features/org.eclipse.datatools.modelbase.feature_1.14.100.20180202
+ 2135/epl-v10.html
+SHA-256-Digest: 1sxnCKJzs3wLc3wO5BBsz6qYLSJy5jCyEruKp8hkq1c=
+
+Name: plugins/org.eclipse.jdt.core.manipulation_1.10.0.v20180323-0650.ja
+ r
+SHA-256-Digest: zqVPVtNPXfdZiRwIR9Hugy4OhoSX2ZuiU/3xjW9mLm4=
+
+Name: plugins/org.eclipse.ui.forms_3.7.200.v20180512-1133.jar
+SHA-256-Digest: JaJiMAmkHYrbLUJxow3MtJvXZVKp0NtX8skAR4u0hkc=
+
+Name: features/com.compuware.unittest.eclipse.emf.feature_20.12.1.v20220
+ 810-1529_42/feature.xml
+SHA-256-Digest: FJgp9S1g4BDfrf4rlMNUVCDFIbfpAg4HTFwYVuZZLfM=
+
+Name: features/org.eclipse.emf.edit_2.13.0.v20180421-1151/license.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/find.gif
+SHA-256-Digest: l9sAMZ3O5kzgvLx3BfJ58zSitZaqupVS0ttO5w87PmA=
+
+Name: plugins/com.compuware.xatester.unittest_20.12.1.v20220810-1529_42.
+ jar
+SHA-256-Digest: N+fFElvxK3KYjuUIZIGv8OPd/0JPo3vu4x8bBqPGSxY=
+
+Name: plugins/bcprov_1.66.0.jar
+SHA-256-Digest: l7sFIW34wnEtP9BJDHll4tIuUSoM2fBdHRZioSsGjio=
+
+Name: plugins/org.eclipse.team.ui_3.8.100.v20180418-1233.jar
+SHA-256-Digest: WAMlvSD5K43msFamSi07NfpsaCN254NmRaO4HfH4KG4=
+
+Name: plugins/org.eclipse.emf.codegen.ui_2.7.0.v20180125-1130.jar
+SHA-256-Digest: 0AoKW0heMe74KWt86dyo6tF6kEBk9ln9y6r5UMfldYs=
+
+Name: plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.700.v2
+ 0180518-1200/META-INF/ECLIPSE_.RSA
+SHA-256-Digest: HXMT3aSD1DcPex4jJHnYtG0xJQ+PiDfGgL2i4RC5EpM=
+
+Name: plugins/org.apache.commons.net_3.2.0.v201305141515.jar
+SHA-256-Digest: Xzpt3QEaTaxe69aBb5wKAXmVYHb3hXWp5SYtP+RnFD0=
+
+Name: plugins/org.apache.commons.io_2.2.0.v201405211200.jar
+SHA-256-Digest: GCaiAynL5OvHhaDH0d0jLXxr97mI+fArklJH80g94QI=
+
+Name: plugins/com.compuware.unittest.eclipse.edit_20.12.1.v20220810-1529
+ _42.jar
+SHA-256-Digest: 4wjwKh0B1bBY0OMKdKpYT+gYQM5aAualOjwGOxw2C6M=
+
+Name: plugins/com.compuware.java.utilities_20.12.1.v20220810-1300_41.jar
+SHA-256-Digest: fhT4pdPaeoRKrAUaFYFbM3YTv/LmXu2cIF7nLfNxEcU=
+
+Name: plugins/org.eclipse.datatools.modelbase.sql.query_1.3.101.20180202
+ 2135.jar
+SHA-256-Digest: Z9mn9+ACklNp8ek5OzXCSGzEMeTe5FOqjSqFWnOkL/0=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root/readme/license_compuware.html
+SHA-256-Digest: rrya7PGnRDRTGBl/gJ4LOkZ69UDYzPgOXu7BmF/Wr8Q=
+
+Name: features/org.eclipse.emf.common_2.14.0.v20180527-1134/feature.xml
+SHA-256-Digest: UGRpMTtB9mHIACg/WFD/yXxLM0QdiSBtGEPIi18KuTg=
+
+Name: plugins/org.eclipse.jdt.debug_3.11.100.v20180515-0929/jdimodel.jar
+SHA-256-Digest: bPHc1N86BPPwrIDQhbvM0hBv5HiQReJ8AQqTCfa1NCY=
+
+Name: features/org.eclipse.emf.codegen.ui_2.9.0.v20180125-1130/feature.x
+ ml
+SHA-256-Digest: P2Pz9KjMwfrTUCLLzY+IJF1kiRJGhIL0EfYcUUcYj2M=
+
+Name: plugins/org.eclipse.emf.common_2.14.0.v20180527-1134.jar
+SHA-256-Digest: 0LOfT3nMRz0hoqfIxs3W93YdOlS9KyBa+o0WAUb0sRE=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.cocoa.macosx.x86/TotalTestFTCLI.sh
+SHA-256-Digest: SToK0UyqPl5QhA+Vm5EUocoDpLNi02jjAW6GbNqjXfI=
+
+Name: plugins/org.apache.httpcomponents.httpclient_4.5.2.v20170210-0925.
+ jar
+SHA-256-Digest: K/NSeUenTf9oWd3N5sKbM0BdPIERBmdokv2I1cFVJGc=
+
+Name: plugins/com.compuware.fileaid.ex.loader.model.rdx_20.12.1.v2022081
+ 0-1438_40.jar
+SHA-256-Digest: CvsRj9aGHbfhF9z5YO/MvcYFDmxBdebzypj1Im3y9OI=
+
+Name: features/com.compuware.xatester.cli.feature_20.12.1.v20220810-1529
+ _42/feature.xml
+SHA-256-Digest: uybcJvJ4dYYOfOvj81MmsM0lzLXacBwlExNgmvnpPzE=
+
+Name: features/com.compuware.frameworks.hostservices.common.feature_20.1
+ 2.1.v20220810-1324_40/feature.properties
+SHA-256-Digest: cOdurwvrR90rjYFrB6yn3U+KuBmWYjiBm/TwrnMZqZA=
+
+Name: features/org.eclipse.emf.codegen.ui_2.9.0.v20180125-1130/META-INF/
+ MANIFEST.MF
+SHA-256-Digest: A+y1jZLEmI9N6JppEILGEkHJuLENTK1pS86XBReVq1U=
+
+Name: plugins/com.compuware.frameworks.diagnostic.commands_20.12.1.v2022
+ 0810-1310_40.jar
+SHA-256-Digest: SjIYNH1zSRFI9+LGbmgKTSAz0Dk6nqpr8re7KerXKT8=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ClipboardManager.class
+SHA-256-Digest: 1TX2gwXAIPWguu7gSCa6ls+4/MmoJzRAWUYivvlCeUw=
+
+Name: plugins/com.compuware.fileaid.ex.areditor.model.core_20.12.1.v2022
+ 0810-1438_40.jar
+SHA-256-Digest: I5w4btRg28/pU19CVIJ/4HEdv09NgtLWSToVOIX94XQ=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/edit.gif
+SHA-256-Digest: aXmsdAlLZPqkGn3w5YAXCbP+/wjMcI7lwAW146UNW+o=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/complete-ant-cmd.
+ pl
+SHA-256-Digest: RfqL8c4TIFUau4BCxEuP4En4JZvZRKfUUTdxdT1J2YU=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/about.mappings
+SHA-256-Digest: X+J+l4RGg9pNJdORhYCtVyQw6/ZhFpiQYg2ZYs7OVgY=
+
+Name: plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.700.v2
+ 0180518-1200/launcher.win32.win32.x86_64.properties
+SHA-256-Digest: i/685Id7EfNAo6CFxgoS5ibdLonAEDvXBkSMUMW5/xU=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.codepagema
+ nager_20.12.1.v20220810-1324_40.jar
+SHA-256-Digest: zMSbZPR9y0clUf0zCuI27z1FmhuZdwI6adWqx4ZNERw=
+
+Name: plugins/com.compuware.frameworks.workbench.utils_20.12.1.v20220810
+ -1310_40.jar
+SHA-256-Digest: AiO9by4khVoOYgwbRN/Eg0LrogwIDY5bUbLlvFZHMcc=
+
+Name: features/org.eclipse.emf.common.ui_2.13.0.v20180127-1015/license.h
+ tml
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/com.compuware.unittest.cli.run_20.12.1.v20220810-1529_42.j
+ ar
+SHA-256-Digest: oTDuFRRmNeq/fwJO8gFxS9ZTFjgqTf8WYS41Po70bHw=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/feature.xml
+SHA-256-Digest: f7eApbfu3zfFngTBA+Hc6jbXytcmWHW1LMr7QbzW9ng=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.win32.win32.x86/TotalTestCLI.bat
+SHA-256-Digest: 4noTqnRh+TT3QwRG1YYvqOYCrVzGXrC6sG4ysXWJIps=
+
+Name: plugins/org.eclipse.ui.workbench.texteditor_3.11.0.v20180419-2011.
+ jar
+SHA-256-Digest: N8uYGg8mzn63aawGaimQF0D4dY9j8BqlIOGY0PqI6rk=
+
+Name: plugins/org.eclipse.e4.core.contexts_1.7.0.v20180514-1409.jar
+SHA-256-Digest: OiiAyfPc9rtDWclNCk0OWgmh7BNA6CNs4jIZZs1/mwA=
+
+Name: plugins/com.compuware.ispw.wzzms_20.12.1.v20220810-1411_39.jar
+SHA-256-Digest: DpOurjJiYWVf/oDC0rUviURvsjT1Bn+1Y2qCvfNMvq0=
+
+Name: features/org.eclipse.emf.mapping.ui_2.10.0.v20180125-1130/feature.
+ xml
+SHA-256-Digest: Z9YWEtrNWGnot3xJCPxrGBzsyplIDcgbFOs+mjHMe70=
+
+Name: plugins/com.compuware.frameworks.importexport_20.12.1.v20220810-13
+ 10_40.jar
+SHA-256-Digest: LI87HG+qGl6JxT3/TVDt7v6B2dUd0RsGbeslFGw8VQU=
+
+Name: plugins/com.compuware.unittest.eclipse.reportgenerator_20.12.1.v20
+ 220810-1529_42.jar
+SHA-256-Digest: PmF4YItGZefOg90d/z9YjBQdijVqoSao6clfOSDgi7s=
+
+Name: readme/license_compuware.html
+SHA-256-Digest: SponLi7VnXfa8cnmuYwjHKXN6L2gKdiZ7qXx17NWdKo=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/resources/messages_ja.properties
+SHA-256-Digest: jfcgA12Et45LZVgQgC/r7OR60JB7oM/yNalyhuGgXfI=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: plugins/org.eclipse.emf.mapping.ecore2xml_2.10.0.v20180125-1130.ja
+ r
+SHA-256-Digest: P0kU3VlG7bi59BC28PJg06Es46GLpXLDHGZRus2SpRA=
+
+Name: features/com.compuware.ted.cli.feature_20.12.1.v20220810-1523_39/f
+ eature.properties
+SHA-256-Digest: zyB+v5fIItHsL/vL/JGRwul+LEllg3BBWJ2g5vCkVC8=
+
+Name: plugins/org.eclipse.datatools.sqltools.parsers.sql.xml.query_1.2.1
+ 00.201801242337.jar
+SHA-256-Digest: QTzCWYn2+eEESGpY82RXPttAsy9+zYV/3ugXNH21ivI=
+
+Name: plugins/org.eclipse.ui.views_3.9.100.v20180427-1355.jar
+SHA-256-Digest: 8D7Z7NlhZ4HboWUChTGtXRmPZsAXTQSX2OFD2hjJrK8=
+
+Name: plugins/com.compuware.fileaid.ex.executionsuites.services.conversi
+ ons_20.12.1.v20220810-1438_40.jar
+SHA-256-Digest: a4XIUQaQ8cCKWB/t1DWi109eKeVTcBCSmsCrYuHe2sk=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/log.xsl
+SHA-256-Digest: XxidzipQrOM/Y7eRTcHrkqCqIrO7xMNoPfTeKDeqGbI=
+
+Name: features/org.eclipse.datatools.sqldevtools.parsers.feature_1.14.10
+ 0.201801242337/META-INF/ECLIPSE_.SF
+SHA-256-Digest: /A1wc7HX5btqOpZO4N684M3Epe6A/HXWjkJDGaYNQZA=
+
+Name: plugins/org.apache.xmlbeans_2.3.0.v201605172150.jar
+SHA-256-Digest: pboqwZXABD7CTU5WFYdueWLf3XOSwHCG1JIP+Zwuegg=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/iconHelp.png
+SHA-256-Digest: nfFWUrcmbdglTj4sZqCO0n9DdD94ISAx+sVhIlM6VSQ=
+
+Name: plugins/org.apache.felix.gogo.runtime_1.0.6.v20170914-1324.jar
+SHA-256-Digest: E1lM2IQp8hf1wUipzJsGmxTOV5v5SMULLTt0oYgqsOE=
+
+Name: plugins/org.eclipse.core.resources_3.13.0.v20180512-1138.jar
+SHA-256-Digest: YcdIbvHwFBnruPuoDN0ugTc3sdCoy+b/hBusRa+P34g=
+
+Name: features/com.compuware.frameworks.diagnostic.collection.feature_20
+ .12.1.v20220810-1310_40/META-INF/MANIFEST.MF
+SHA-256-Digest: ggdBb6uG9st36iIvEN28nN2z+zsC+gZ9aZ8kH/pLa3s=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/feature.xml
+SHA-256-Digest: Vf6IR6ot+iTecFrF2rUC6omzxEtCCxBJadh7O628kZk=
+
+Name: features/com.compuware.frameworks.hostservices.cli.feature_20.12.1
+ .v20220810-1546_39/META-INF/MANIFEST.MF
+SHA-256-Digest: kk6cvspXsuhLMllXg5aHwM8zXVAgp5bA3E/foTIj6jo=
+
+Name: plugins/org.eclipse.core.net_1.3.200.v20180515-0858.jar
+SHA-256-Digest: TM+5j/X8YOYQ4J3cF1KdlLylBGJRhK/I5tG8qWMWgfA=
+
+Name: plugins/org.apache.felix.scr_2.0.14.v20180117-1452.jar
+SHA-256-Digest: qa89G4JAybkmYzKtEGK7CqUCUpOpT0oiyR0KXLOmUvU=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.cocoa.macosx.x86_64/TotalTestFTCLI.sh
+SHA-256-Digest: SToK0UyqPl5QhA+Vm5EUocoDpLNi02jjAW6GbNqjXfI=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/paste.gif
+SHA-256-Digest: FDHmk1HdmG4dpiXj35D0LDEGGqCNTHjBHorhc31r904=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationWorkbenchWindowAdvisor
+ $1.class
+SHA-256-Digest: TriJctdYpr1mCzio9LzO7JPb/6wMfHacP800ZF+OdI4=
+
+Name: features/com.compuware.zadviser.cli.feature_20.12.1.v20220810-1546
+ _39/META-INF/MANIFEST.MF
+SHA-256-Digest: wpANkdijXNIW/AvSTQPNZ+LVNwGe6zC7bALHZXeA6ds=
+
+Name: plugins/com.compuware.frameworks.hostservices.css_20.12.1.v2022081
+ 0-1324_40.jar
+SHA-256-Digest: nzRRHOv5/s7b5nz8Dno86xTmee1fbv7SsLqgDWU6xmU=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-apache-oro.ja
+ r
+SHA-256-Digest: OTPrnLoaATEcBtk8kQzCnviV2jDeDGBFYxJ4bWcrWFU=
+
+Name: plugins/com.compuware.fileaid.ex.common.services.mf_20.12.1.v20220
+ 810-1438_40.jar
+SHA-256-Digest: wejrFbNgZfCmniJoAx9CjbtlemASdBOymZ2LA1XO20k=
+
+Name: features/com.compuware.codecoverage.cli.feature_20.12.1.v20220810-
+ 1546_39/feature.xml
+SHA-256-Digest: k4zs5oxRkysCN5CCCFS0Omp6XTHhmdXDSO9PbxzsYsI=
+
+Name: plugins/org.w3c.css.sac_1.3.1.v200903091627.jar
+SHA-256-Digest: ZuusU2OBSzaE6luegxSpgYq2ftBwHFwzoSiDc8Bkz70=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.win32.win32.x86_64/TotalTestCLI.bat
+SHA-256-Digest: 4noTqnRh+TT3QwRG1YYvqOYCrVzGXrC6sG4ysXWJIps=
+
+Name: plugins/com.compuware.totaltest.common_20.12.1.v20220810-1529_42.j
+ ar
+SHA-256-Digest: OIVsFuMWsS7c5LChWwN0s9lMIoYMADFBP0XSkq7WrQk=
+
+Name: features/org.eclipse.emf.mapping.ecore.editor_2.11.0.v20180125-113
+ 0/META-INF/ECLIPSE_.SF
+SHA-256-Digest: 7FfhSynpLn0zILsKeI6EQSUyNIwJsRcrdj8WZUjvnBY=
+
+Name: features/com.compuware.unittest.eclipse.core.feature_20.12.1.v2022
+ 0810-1529_42/META-INF/MANIFEST.MF
+SHA-256-Digest: MOg5pKS1VzV5lUUk9cP6DIH2nqtqIRLDKXtNJspBdaw=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/META-INF/p2.inf
+SHA-256-Digest: 3+cWZJ7hMTNQiVMqdJ/HwfSa5Cqs98nQ9d6gOENV8dE=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-apache-xalan2
+ .jar
+SHA-256-Digest: twdyAUhqywZvgfgyiJya3zVAwnDCcegJAYXVFTAvwIE=
+
+Name: features/org.eclipse.emf.mapping.ui_2.10.0.v20180125-1130/license.
+ html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: plugins/org.eclipse.equinox.p2.ui_2.5.100.v20180425-1343.jar
+SHA-256-Digest: O99DRu64QkDr4uWLOIieuOlFaQV0nyRSf7Zr230QSp4=
+
+Name: plugins/org.eclipse.ltk.core.refactoring_3.9.0.v20180220-2105.jar
+SHA-256-Digest: nI1mMqq4h9bnxSERu+g2jZHZV4143PlwM/RV7Ri0WxU=
+
+Name: features/org.eclipse.emf.common_2.14.0.v20180527-1134/feature.prop
+ erties
+SHA-256-Digest: AcUqY++BrGR3ouuk4z9zJtUQnbIvSWbeuhF9NP75u6g=
+
+Name: plugins/com.compuware.fileaid.ex.executionsuites.model.jaxb.versio
+ ns_20.12.1.v20220810-1438_40.jar
+SHA-256-Digest: ZXEZ8zYfoiDt1IrwxFsnjMo27tPzrGP/B3Vy98Uipl0=
+
+Name: p2/org.eclipse.equinox.p2.core/cache/binary/com.compuware.unittest
+ .cli.launcher.feature_root.win32.win32.x86_64_20.12.1.v20220810-1545_42
+SHA-256-Digest: dBheDraC4fByykXCV9bqHSVEjV3UTtdM1Hb71h+MKLk=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.configuration
+ .api_20.12.1.v20220810-1324_40.jar
+SHA-256-Digest: m0i4QITzoqxSTgMMzgQP8oF9S51UiXZF9dM2tTIYZig=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationWorkbenchAdvisor.class
+SHA-256-Digest: 2zu32ccNZBo5v1/B2dYq1YR9sgDM1l6GoXanzsqIM24=
+
+Name: plugins/org.eclipse.emf.mapping_2.10.0.v20180125-1130.jar
+SHA-256-Digest: wqw6ju5cE9aDtQoH7PcPf8TyK186PqinovC7tMZgvNw=
+
+Name: plugins/org.eclipse.e4.ui.workbench.renderers.swt_0.14.200.v201805
+ 16-2019.jar
+SHA-256-Digest: 29+mnEgJWjnaQ91nbXc0qA9ukZmfmiG6IsqEQ38y6uQ=
+
+Name: features/org.eclipse.emf.mapping.ecore.editor_2.11.0.v20180125-113
+ 0/feature.xml
+SHA-256-Digest: zsuXlDVJsjaVRsDd0jeMpqrEfdHxECwK7wPARc/ldVQ=
+
+Name: plugins/org.eclipse.e4.ui.di_1.2.200.v20180403-0945.jar
+SHA-256-Digest: JZgAicMQtstmwVrLpDhGRFXvvJSGNm2EXIPjxXZ5I74=
+
+Name: readme/TTT_README.txt
+SHA-256-Digest: VAiuG+vMOK2XH9OQJDSmHLjf3cNGyF5boS6ZBDCDdMw=
+
+Name: plugins/com.compuware.frameworks.hostservices.server.core_20.12.1.
+ v20220810-1324_40.jar
+SHA-256-Digest: IYCRy76IH74q8+YKNuEjWwO2KQJeB0OytbbrMEoAtL0=
+
+Name: plugins/org.eclipse.e4.ui.css.core_0.12.200.v20180417-2309.jar
+SHA-256-Digest: RH/n8O6q3CJOEPgIE+usmPWfXVvRuF1sMG9i7QZCs6s=
+
+Name: plugins/org.eclipse.jdt.ui_3.14.0.v20180529-1023.jar
+SHA-256-Digest: QPPfGYxRWWEfz/keYQrU9ZRT7Z3iqAj8Njc7xvMYmfk=
+
+Name: plugins/org.eclipse.jdt.debug_3.11.100.v20180515-0929/plugin.prope
+ rties
+SHA-256-Digest: maCGXnnafYaeonbe0/lvHcQ7Q3BHpM7sQyHQs2r/dFg=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/META-INF/ECLIPSE_.RSA
+SHA-256-Digest: Rr/8i9XVVMNhg0jm345YTf/51mF9a+rNUWFgBOnR580=
+
+Name: plugins/org.apache.batik.i18n_1.9.1.v20180227-1645.jar
+SHA-256-Digest: 0L6PkyYJbzItqU56TFz2c0D1ohkDT/fZxjtvBrxrMd0=
+
+Name: plugins/org.eclipse.core.runtime_3.14.0.v20180417-0825.jar
+SHA-256-Digest: VrsWHiuPtqX+UA6Ca9wPUzu6UcCnOPMSZFoGiEw3gtU=
+
+Name: plugins/org.eclipse.e4.emf.xpath_0.2.100.v20180403-0944.jar
+SHA-256-Digest: YFRyGuP3k9fKtDgzwFUmYwpLWlMao9PgPfDbWX8a75A=
+
+Name: features/org.eclipse.emf.mapping.ecore.editor_2.11.0.v20180125-113
+ 0/feature.properties
+SHA-256-Digest: Y3flPthdysu04bTcJWQ8VncgFAE1SPN7aQOBmIBsKbY=
+
+Name: plugins/com.jcraft.jsch_0.1.54.v20170116-1932.jar
+SHA-256-Digest: NMGe7ufTlzAhv+tB0yPY7GjomrOO9QjnA8vAJb2/TbY=
+
+Name: features/org.eclipse.emf.ecore.edit_2.10.0.v20180421-0731/epl-v10.
+ html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/com.compuware.unittest.eclipse.common.sonarlint_20.12.1.v2
+ 0220810-1529_42.jar
+SHA-256-Digest: kdpz0f0hP8SuKvREI1WmhZLdHOasSY2WqGYS+uC0Ab4=
+
+Name: features/org.eclipse.emf.codegen_2.13.0.v20180319-0813/META-INF/MA
+ NIFEST.MF
+SHA-256-Digest: XnD12PkeFvY0DHgKQt0Aeg9J9fpVo2INTVFJLOpUggo=
+
+Name: plugins/org.eclipse.e4.ui.model.workbench_2.1.0.v20180429-1333.jar
+SHA-256-Digest: XKm/1/Zed3IMlleY7+SNPCUQGiY6tjAyObIcvfGti7M=
+
+Name: plugins/com.compuware.fileaid.common.conversion_20.12.1.v20220810-
+ 1411_39.jar
+SHA-256-Digest: RdhtbYxjZBi1JAnypmHEy2059ymhJ6kFa/puYh/rwEc=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-junitlauncher
+ .jar
+SHA-256-Digest: 3kFojrQXg0vtFVu5OXlHzzuzBWrJC1aQVKPvL78XUyU=
+
+Name: plugins/apache.collections.generic_0.1.1.013_cpwr.jar
+SHA-256-Digest: xqHjnKEq08VAl1VWHqpbAlRGcnh+Lf6gy+QTgMW84Q0=
+
+Name: plugins/org.eclipse.jdt.debug_3.11.100.v20180515-0929/META-INF/ECL
+ IPSE_.RSA
+SHA-256-Digest: VerfIt1xhUJqNGr47q651ZCdbjIMzY1dhJiQr01FqTY=
+
+Name: plugins/org.apache.commons.lang_2.6.0.v201404270220.jar
+SHA-256-Digest: s31Vg908c8aQMLt0M1CcwvAL9N4oLpD22fckUo2hOyo=
+
+Name: plugins/com.compuware.frameworks.hostservices.database.cachedrowse
+ t_20.12.1.v20220810-1324_40.jar
+SHA-256-Digest: g/bQkmTNrVvugTNXT03ZCrcGslLp2bZ3BSWRDLTKVlE=
+
+Name: ZAdviserCLI.bat
+SHA-256-Digest: y6FBcsTRQMdPuaMROXFV2mZae+DG+1w1zsY8f49FQlE=
+
+Name: plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.700.v2
+ 0180518-1200/about.html
+SHA-256-Digest: VPMitIIkEm99NLfkFf/bqCv7gqDh+SdCqyIrbu4QETQ=
+
+Name: features/org.eclipse.emf.databinding_1.5.0.v20180130-1145/feature.
+ properties
+SHA-256-Digest: sL1KbPcXFdURayUdjjDrn1piN5cp6PXoActV0+kF4so=
+
+Name: workspace/configuration/topaz_logback.xml
+SHA-256-Digest: rlwNY4lfV3buK8cholSfi5dzSYGuNxXELDX1sLK5gwk=
+
+Name: plugins/com.compuware.frameworks.workbench.diagnostic.resources_20
+ .12.1.v20220810-1310_40.jar
+SHA-256-Digest: CjHh8Bq5pbWibqPNDNR6zZV9eD+XZuisX6p+XT4tlVY=
+
+Name: plugins/com.compuware.xatester.hiperstation_20.12.1.v20220810-1529
+ _42.jar
+SHA-256-Digest: By8G/Cv+4giiw7anAeQJq1/QfGuSVuFz5yDwsjItRMc=
+
+Name: plugins/org.eclipse.ui.intro_3.5.200.v20180328-0550.jar
+SHA-256-Digest: /NK7QFFNlDfuU1b9KOBZq/hGqCWoHrzNnONJjSiBplU=
+
+Name: features/com.compuware.frameworks.diagnostic.data.feature_20.12.1.
+ v20220810-1310_40/META-INF/COMPUWAR.RSA
+SHA-256-Digest: rcyP9cqlkWqxfCOEWKJIZdH8v5bPSqwwzLPL3I09mTE=
+
+Name: plugins/org.eclipse.persistence.core_2.7.7.v20201201_1699.jar
+SHA-256-Digest: A4+fyKYiCb7IxeOtBOGJviv1m8lj+/9BwlvbJj76Hu8=
+
+Name: features/com.compuware.frameworks.diagnostic.collection.feature_20
+ .12.1.v20220810-1310_40/META-INF/COMPUWAR.SF
+SHA-256-Digest: gs9Ch0Th/UPO4D4lJsITqjnerT0AYaGOsN32/Yuws3M=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/META-INF/p2.inf
+SHA-256-Digest: Q9wAJLDGR6LquIRnia8rvgMAluL7mh2Cbh3jFCYNSSo=
+
+Name: features/com.compuware.frameworks.workbench.logging.feature_20.12.
+ 1.v20220810-1310_40/license_eclipse.html
+SHA-256-Digest: at9qppIlIv7w7q6Vjvl2+DVH+lLPp4XbqHiQaRtv/K4=
+
+Name: features/org.eclipse.emf.ecore.editor_2.14.0.v20180212-1111/epl-v1
+ 0.html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/fillUp.gif
+SHA-256-Digest: Vw46ufGPkoVcM+WGX/xIGFMtHWAW7AqxlSNIxAIK3Wg=
+
+Name: p2/org.eclipse.equinox.p2.core/cache/binary/com.compuware.ispw.cli
+ .launcher.feature_root_20.12.1.v20220810-1525_40
+SHA-256-Digest: sR8I48drq8QZ0sfBQZN501W69Cp8BKEx7wFWlPyvfyQ=
+
+Name: plugins/org.eclipse.jdt.debug_3.11.100.v20180515-0929/jdi.jar
+SHA-256-Digest: o5upFVmkNrQyf9MwSbPUIQmVYI8gTImPIXlFAF7Bbf4=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root.cocoa.macosx.x86_64/TotalTestCLI.sh
+SHA-256-Digest: JtJR8Aw+5pxPgG23dQ7AjRBuZgx64koGbPWd0vqYBA8=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-junit.jar
+SHA-256-Digest: YmC7xZvXeo8l0OzENWz/t6t/5OW4x/0Tr1PazPiie2M=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.passticket_20.12.1.v20220810-1324_40/META-INF/MANIFEST.MF
+SHA-256-Digest: 3eLq8BtMyoVo46kOkqopBmowlGRwTeZcaJ+NTDcrm+M=
+
+Name: plugins/com.compuware.frameworks.hostservices.mainframe_20.12.1.v2
+ 0220810-1324_40.jar
+SHA-256-Digest: 9mndRWTu+1iZEepsgjOCJdBIoNt2YJB1NiCwuojp+f8=
+
+Name: features/org.eclipse.emf.codegen_2.13.0.v20180319-0813/META-INF/EC
+ LIPSE_.SF
+SHA-256-Digest: ZWLAatzkoqLIkUnKvVOCRkaRLQoNheC4goBmJPPn4ZQ=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/license_compuware.html
+SHA-256-Digest: SponLi7VnXfa8cnmuYwjHKXN6L2gKdiZ7qXx17NWdKo=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/close.png
+SHA-256-Digest: +QExUUkxsVZd7dWQt9aFwKdFgvrAlfxPrRla74+Sa9g=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/root.gtk.linux.x86/IspwCLI.sh
+SHA-256-Digest: TKGAa6cpGD3w3QaR2Me5Y4NB1AjqiH3lDCKUYvsZwBM=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/dialogs/ChooseWorkspaceDialog.cla
+ ss
+SHA-256-Digest: IZKtN8oAH1ZfSF5JhNOu09VFSLKZF7+YSMAwaqQHytw=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/maudit-frames.xsl
+SHA-256-Digest: aTCc05yj08Ji3hp38WvuPkPxf87k6iqan82BxsDeLes=
+
+Name: p2/org.eclipse.equinox.p2.engine/.settings/org.eclipse.equinox.p2.
+ artifact.repository.prefs
+SHA-256-Digest: YC1Mbp4bX5RkbV8Qy73El59hYXjuFUTi56x2vkaJ4J8=
+
+Name: features/com.compuware.frameworks.hostservices.cli.launcher.featur
+ e_20.12.1.v20220810-1546_39/root.gtk.linux.x86_64/TopazWorkbenchCLI.sh
+SHA-256-Digest: dmc0UaJaJldAn/jyS2VWOM1x+PzjCkpqq9GYCsf7bRU=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/schema/com.compuware.frameworks.workbench.showSelectWorkspace.exsd
+SHA-256-Digest: lErq0fPgWAAQtBe2c0JGMsuCIzuB2gvLZAfOmBLwL7E=
+
+Name: plugins/com.google.gson_2.8.5.jar
+SHA-256-Digest: 6/DdSzR0syOeh5esr1srMNED8/zxjUjPirSmCigwl2g=
+
+Name: features/org.eclipse.emf.codegen_2.13.0.v20180319-0813/feature.xml
+SHA-256-Digest: RtwjNSZ83FFgN95phmVtfiU5s0EuZ2tMBX4xJJdmkMo=
+
+Name: plugins/com.compuware.fileaid.common.metadata.messages_20.12.1.v20
+ 220810-1411_39.jar
+SHA-256-Digest: 0irIYaW/9QM6UDpHGP3FRvJ1g08Sf++VQMiRu8SAElU=
+
+Name: plugins/org.eclipse.datatools.modelbase.sql.xml.query_1.2.100.2018
+ 01242337.jar
+SHA-256-Digest: PcFcmis0c/wxqMHQrJeWeBSV6wVuv/mK1nyt4EB8jls=
+
+Name: workspace/TTTlogback.xml
+SHA-256-Digest: /H4sRb10WCIX9YZ3YaLOl3lrbb+xk3AXGsd8GoWzQX4=
+
+Name: plugins/com.compuware.unittest.thirdparty.net.sf.cb2xml_20.12.1.v2
+ 0220810-1529_42.jar
+SHA-256-Digest: pZAnLf1W2rd5gwRirisB5V57TeAze3FJv7VI7B2qWM4=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-xz.jar
+SHA-256-Digest: HM1KpdUbI4J9BfWDAAfbaGcLj3Mr7GfKWYzlqBdQfM4=
+
+Name: features/com.compuware.frameworks.workbench.logging.feature_20.12.
+ 1.v20220810-1310_40/META-INF/MANIFEST.MF
+SHA-256-Digest: hiEclj9s9pFbZ6CoDvO8QrEBda+ZHcuD2HVUEDOCR6I=
+
+Name: plugins/org.eclipse.e4.core.di.annotations_1.6.100.v20180427-1454.
+ jar
+SHA-256-Digest: JWNuYjnfjXDNPUzPPMO7R0eeC1ihNM/hwqkJWfieplQ=
+
+Name: plugins/org.eclipse.ui.navigator.resources_3.6.100.v20180427-1355.
+ jar
+SHA-256-Digest: fgGDTDwMB+F9nTttscqtrO1H8trgO4k/xmJdOoFZxoo=
+
+Name: plugins/com.compuware.codecoverage.ui.api_20.12.1.v20220810-1411_4
+ 0.jar
+SHA-256-Digest: Ewf5QjIGclliICJmMYqKjwUse6mXRhAZeSxJM1qqYUg=
+
+Name: features/com.compuware.codecoverage.api.feature_20.12.1.v20220810-
+ 1411_40/feature.xml
+SHA-256-Digest: +BMrgxu6oM6eGY3aeengtT20m4E4bBQOAj+HeNa+1p8=
+
+Name: plugins/org.apache.batik.css_1.9.1.v20180313-1559.jar
+SHA-256-Digest: ElCopcIgd5K/mIh9Hm4hyYwfbT4SBe6weXdHEg2YwoM=
+
+Name: plugins/org.eclipse.e4.ui.services_1.3.100.v20180403-0945.jar
+SHA-256-Digest: Rz8sgoo3GAm0Xw9sNLlAeq377UNMeexPD2AKn/ANzfI=
+
+Name: features/org.eclipse.emf.converter_2.13.0.v20180131-0817/META-INF/
+ MANIFEST.MF
+SHA-256-Digest: Wst5K7EKG138vPZorX99m02qnLiVDkTv0zA4EmzzjyY=
+
+Name: plugins/org.eclipse.emf.importer_2.10.0.v20180131-0817.jar
+SHA-256-Digest: srB5dRJ4xS6D3gRa5kwinY2VDk9jUh7VP7Z0KVWlYgs=
+
+Name: features/org.eclipse.emf.codegen.ecore.ui_2.14.0.v20180418-0836/fe
+ ature.xml
+SHA-256-Digest: K166fNdvk+RS8/UwjEP3PBuHZga/9yWYO3l1jXtH8ns=
+
+Name: features/org.eclipse.emf_2.14.0.v20180529-1144/META-INF/ECLIPSE_.R
+ SA
+SHA-256-Digest: s+lxyAZxrFCoW6jbMwJGVvM01xlchSAch8Ao/U2eFiM=
+
+Name: features/org.eclipse.emf.codegen.ecore_2.14.0.v20180418-0836/featu
+ re.xml
+SHA-256-Digest: M/kjNaG17EM+wlAx3H5BCJ0bKHwoeKaUTmdMRhl7BKQ=
+
+Name: features/com.compuware.fileaid.ex.cli.feature_20.12.1.v20220810-14
+ 38_40/root/data/.com.compuware.fileaid.ex/cfg/clientSecurity.properties
+SHA-256-Digest: fR2ig5mPcZinmRRMZxmQmmypxxb3mCbZq80tqDh2qtQ=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/ApplicationWorkbenchWindowAdvisor
+ $2$1.class
+SHA-256-Digest: 748xe5j4ArpqFEX/XBn2rJ96vNtvuNJPJcvn7kGHM2M=
+
+Name: plugins/org.eclipse.help_3.8.100.v20180512-1136.jar
+SHA-256-Digest: XoJBSIeu5jnQ+1MBZZwrCnjumxnl6AuzFYDWUaoa9Ck=
+
+Name: plugins/org.apache.logging.log4j.api_2.17.1.jar
+SHA-256-Digest: qCUvZbU553SKF5xh2gXyg2+F13P+KdsQCa9I+QJH/uk=
+
+Name: features/org.eclipse.emf.codegen.ecore_2.14.0.v20180418-0836/META-
+ INF/MANIFEST.MF
+SHA-256-Digest: 0FWn69eJm9bamClfW76BBsqN9X+WBAHQEyxO60l6PM8=
+
+Name: features/com.compuware.zadviser.cli.feature_20.12.1.v20220810-1546
+ _39/META-INF/COMPUWAR.RSA
+SHA-256-Digest: CLxai7kCHA/3Gs9UMzlS8nbzjDR3ZmV3cvoyMZamscM=
+
+Name: plugins/com.compuware.xatester.enterprisedata_20.12.1.v20220810-15
+ 29_42.jar
+SHA-256-Digest: sMr45D5Dv8zRc97oB/XQ6M66Uye23j48Q0L2bQRNTx8=
+
+Name: plugins/org.eclipse.equinox.simpleconfigurator_1.3.0.v20180502-182
+ 8.jar
+SHA-256-Digest: twxt9zVy2+ze9+wC+Z7ibAO+imK9rC6VPMvp+imWFqY=
+
+Name: features/org.eclipse.emf.mapping.ecore_2.10.0.v20180125-1130/epl-v
+ 10.html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: plugins/org.eclipse.equinox.p2.operations_2.5.0.v20180302-1057.jar
+SHA-256-Digest: 00OMqh3vXWPsl8s5n/lU/fW8dYX3BOaQN/KhUt2fFhM=
+
+Name: features/com.compuware.ted.cli.feature_20.12.1.v20220810-1523_39/f
+ eature.xml
+SHA-256-Digest: oRapfjZJ9UEFwQcpGgSTH0xW4CLrKNjMsS9TjiwSTI4=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/bin/antRun.bat
+SHA-256-Digest: RvkoqxA5T4asT7tZvjcmQ7BTeoITcVcTcLN0mVFg0vA=
+
+Name: plugins/org.eclipse.datatools.modelbase.sql.edit_1.2.100.201801242
+ 337.jar
+SHA-256-Digest: YBMJx/Bok3tLRy6wZuZlrBHPcJGZwGSXiXGCWdC+O0Q=
+
+Name: data/configuration/logback.xml
+SHA-256-Digest: 8M+xigGI2R4ozFYt4lmc4J1KxlLE4tN7eEMOQ3o3UGE=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/feature.properties
+SHA-256-Digest: AHs+ez4f+glRFV4sX5oaVaWs4fU1itJ0nz+uYHlG7t0=
+
+Name: plugins/com.compuware.frameworks.hostservices.zosfilesystem_20.12.
+ 1.v20220810-1324_40.jar
+SHA-256-Digest: lwKFlA8M/1soJEJZArFP3x10BmO4I60ABSJvfUGDxck=
+
+Name: plugins/org.apache.logging.log4j.core_2.17.1.jar
+SHA-256-Digest: PARbpZsWkYxZxVlSz6D9gY8hQNtgYHFq+ecc+dQXN5c=
+
+Name: readme/license_apache.txt
+SHA-256-Digest: 98fXBXAR3uQvrzUAgssj+59B9iMasKivsQIcBJHN2x4=
+
+Name: plugins/com.compuware.frameworks.hostservices.cli.zosutil_20.12.1.
+ v20220810-1546_39.jar
+SHA-256-Digest: QnJ8b0bzt6K5zyI1qSrDuNt/hHBD2ZnXf0xVLkJm6iI=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/root/readme/ISPW_README.txt
+SHA-256-Digest: Cs+TAg7gpyoJk23tNw4QhNPVuZs6LYvZrBVxKKcCvDc=
+
+Name: plugins/com.compuware.fileaid.ex.loader.model.jaxb.versions_20.12.
+ 1.v20220810-1438_40.jar
+SHA-256-Digest: 8RG4ynrANgj3d+7jdrRm3XKbv+B2GcQpgCCDGVsibgo=
+
+Name: plugins/org.eclipse.equinox.registry_3.8.0.v20180426-1327.jar
+SHA-256-Digest: z3tnI1Sjmkvvsylruh1aYHa2kXZKB4wgjN8ZIo1fibY=
+
+Name: plugins/com.compuware.frameworks.diagnostic.data_20.12.1.v20220810
+ -1310_40.jar
+SHA-256-Digest: PZKRNPrK5BTyIQ+MrCTO2SbABPLWF+/V24GO1FsdnMA=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/mmetrics-frames.x
+ sl
+SHA-256-Digest: Ne2FgaRkm56aU+wLS2zIDW+4XJEOsG62heOCbmkYzbg=
+
+Name: features/org.eclipse.emf.codegen.ecore_2.14.0.v20180418-0836/META-
+ INF/ECLIPSE_.SF
+SHA-256-Digest: nnbUXC1LIIiZjp1WYU43mDAsiXvKcYs4V6jPr0J/gU0=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-testutil.jar
+SHA-256-Digest: o8FOq29Ic0WSHF2a4Q8lEb57zY53jHE717F6WozjGXM=
+
+Name: features/com.compuware.fileaid.ex.cli.feature_20.12.1.v20220810-14
+ 38_40/META-INF/MANIFEST.MF
+SHA-256-Digest: zttZNDcbPTbGdkFTZAUeeCisiZLIXLS9AIESokesUW0=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/checkstyle/checks
+ tyle-frames.xsl
+SHA-256-Digest: hfIfwqoPqhvdzOvLjZZXSUl5PaDuLTfsznu7WKVsQAA=
+
+Name: features/com.compuware.unittest.cli.launcher.feature_20.12.1.v2022
+ 0810-1545_42/root/readme/license_compuware.html
+SHA-256-Digest: SponLi7VnXfa8cnmuYwjHKXN6L2gKdiZ7qXx17NWdKo=
+
+Name: features/org.eclipse.emf.ecore.editor_2.14.0.v20180212-1111/META-I
+ NF/ECLIPSE_.RSA
+SHA-256-Digest: 3Of29gbXrF0n1xS6JLldqUXSJa6xoS5ymcgG0laf5lk=
+
+Name: plugins/org.eclipse.core.databinding_1.6.200.v20180509-1517.jar
+SHA-256-Digest: wPSLm/+MjuZHq6CGIQxwXfL5E0lav0X1wyCs3LXGp2o=
+
+Name: plugins/com.compuware.xatester.xaunit.parsers_20.12.1.v20220810-15
+ 29_42.jar
+SHA-256-Digest: OTmsIbP6UDult2/sfXIKFcnuiPL0t/Ni3VUql2rThX4=
+
+Name: features/org.eclipse.emf.common.ui_2.13.0.v20180127-1015/META-INF/
+ ECLIPSE_.SF
+SHA-256-Digest: UT4VlC/8nfVsDpf5ty1hPV53QzLqAMY+dwwhHC1FIdM=
+
+Name: features/org.eclipse.emf.codegen_2.13.0.v20180319-0813/feature.pro
+ perties
+SHA-256-Digest: emGM1VDIeGV/KV+NPt8ZIpk2xN8edtFdq/T/JjgzxSg=
+
+Name: features/org.eclipse.emf.mapping_2.10.0.v20180125-1130/feature.xml
+SHA-256-Digest: K7rwjaOKdDK0F0eWzV+ES5YVFfP38AInYm1vqfEGYpc=
+
+Name: plugins/org.eclipse.equinox.p2.metadata.repository_1.3.0.v20180302
+ -1057.jar
+SHA-256-Digest: kJS36yNyL0EHWhnnAGWvvyGw6EqA0umJt0eL+U7oe3M=
+
+Name: plugins/org.eclipse.equinox.app_1.3.500.v20171221-2204.jar
+SHA-256-Digest: 87/GirWWTsWiAnoMw4gxGcgH7JAYnSD8L0xoAV97gV8=
+
+Name: features/com.compuware.fileaid.ex.cli.feature_20.12.1.v20220810-14
+ 38_40/feature.xml
+SHA-256-Digest: Q5V/ihSPb7lC5iLc+vKD8d2h1IHtBmUPxRKVqeA/2bI=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/icons/cut.gif
+SHA-256-Digest: Rceu7VK46Fm896WZL+SvGBgBPZtoj6x1/D4JiEVj/HE=
+
+Name: features/org.eclipse.emf.common_2.14.0.v20180527-1134/license.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
+Name: features/com.compuware.ispw.cli.feature_20.12.1.v20220810-1525_40/
+ feature.xml
+SHA-256-Digest: rzm5YSMe8So8szwHKCu6mhhdP54h7rBIWvoUOXcevoo=
+
+Name: plugins/com.compuware.unittest.eclipse.model_20.12.1.v20220810-152
+ 9_42.jar
+SHA-256-Digest: GXrjeZhH7+FnNv8mPXQm3bf1Zf6/G5602WLqSlajZvU=
+
+Name: plugins/org.eclipse.emf.importer.rose_2.9.0.v20180125-1130.jar
+SHA-256-Digest: dLfuN9RBtYIFFptSlqmecbIs8JZE6Z/rYAzsI4ixIAw=
+
+Name: plugins/org.eclipse.emf_2.7.0.v20180123-1048.jar
+SHA-256-Digest: GiUNErWGwszpTVV7dHYL6CZSEJgOium/KBqP12JEhSU=
+
+Name: features/com.compuware.unittest.eclipse.emf.feature_20.12.1.v20220
+ 810-1529_42/feature.properties
+SHA-256-Digest: AQZUsBbU8ldPBtA//rTVEm/8qibqtILUVTcZxpyytko=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-apache-regexp
+ .jar
+SHA-256-Digest: N6BQNjAsidesM544juBESOQkZTXBItHWJmxN8DnV5xk=
+
+Name: plugins/com.compuware.fileaid.common.services.conversions_20.12.1.
+ v20220810-1411_39.jar
+SHA-256-Digest: 9kJpiQ0OPmUkNxLxgH+6gPJpCy9T44Tcrpb2dEiqmUo=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/Application.class
+SHA-256-Digest: PMVmMw4yGxYFE9TUf3hDl0yhIdhFHyFs2npU0ZphGcI=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/plugin_ja.properties
+SHA-256-Digest: qU9NxkF4sBGtl8TMIAmoHQ3CaGFDnljlTqvGYdBxG4M=
+
+Name: plugins/com.compuware.frameworks.hostservices.hss_20.12.1.v2022081
+ 0-1324_40.jar
+SHA-256-Digest: KrNH8LOqjjRdyuY/qBa/s/DuyBvT1EcEtDtHQljmmzg=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant.jar
+SHA-256-Digest: 5oxql/WPBCiSJDe+xXaZbKloTp16Tlm946So1wSL/kE=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/resources/messages.properties
+SHA-256-Digest: moc4dyOkiGyEnFLyaaSnMHBjzUQBhk6Pk9RVvOI1TlU=
+
+Name: features/org.eclipse.emf.converter_2.13.0.v20180131-0817/feature.p
+ roperties
+SHA-256-Digest: 9JsY7mas8+YOWicJ9LEeqPs4jAtxQbHwoOwHFQCAt/Y=
+
+Name: features/com.compuware.unittest.cli.feature_20.12.1.v20220810-1529
+ _42/feature.xml
+SHA-256-Digest: oYgn41VeVxp7vcBPUApYAGszMtuUtdhJXW0XbwEkEOg=
+
+Name: plugins/com.compuware.fileaid.common.dependentplugininitiator_20.1
+ 2.1.v20220810-1411_39.jar
+SHA-256-Digest: JBjh3j1xrtHwzLGtDxJ3PHCYLYY9lHUZWfJGl11fpJM=
+
+Name: features/org.eclipse.emf.ecore_2.14.0.v20180529-1144/epl-v10.html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: features/org.eclipse.emf.common.ui_2.13.0.v20180127-1015/META-INF/
+ MANIFEST.MF
+SHA-256-Digest: 0+fypjLWFqAmU48y6capOyrKqy4moZdf8HbMKzBliCE=
+
+Name: plugins/com.compuware.fileaid.common.expressionparser.extern_20.12
+ .1.v20220810-1411_39.jar
+SHA-256-Digest: hqWe1fXprQBIJAQtAwVRa9MYWMvPkdVzRBnCYam3lp4=
+
+Name: features/com.compuware.unittest.thirdparty.feature_20.12.1.v202208
+ 10-1529_42/p2.inf
+SHA-256-Digest: 8fX4n0V6TmcII6idYv//cjbL1F/N//cVtpTw3cHCF+A=
+
+Name: plugins/com.compuware.fileaid.ex.extract.services.conversions_20.1
+ 2.1.v20220810-1438_40.jar
+SHA-256-Digest: Gf2rZWBZOosuvgqW5fhnzF99gzRoqQWRpZrothA52dY=
+
+Name: plugins/org.eclipse.swt_3.107.0.v20180611-0422.jar
+SHA-256-Digest: oV7sWQXWY7HDcUYuqxxlZSdC31eOgC62dCVv1BDcO6w=
+
+Name: plugins/com.compuware.fileaid.ex.extract_20.12.1.v20220810-1438_40
+ .jar
+SHA-256-Digest: x8+xLWSv+WRdB/UJwVXeQBIy4QqWRO1qp1Rlrta72ZE=
+
+Name: plugins/com.compuware.frameworks.hostservices.diagnostic.data.conf
+ ig_20.12.1.v20220810-1324_40.jar
+SHA-256-Digest: fCHF1euZV+7FXgqB95gx9jPRai0ae2MtMLVczmmBCTc=
+
+Name: IspwCLI.bat
+SHA-256-Digest: RgD5XU6NVGWICFZt24E/C84JJyv3gX7Wgv2QE3uP8iM=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-javamail.jar
+SHA-256-Digest: lgyOlPv55vQV9nxIb9SNduDIEDiw+NZSpGH9Q16ihB8=
+
+Name: features/com.compuware.frameworks.hostservices.client.feature_20.1
+ 2.1.v20220810-1324_40/feature.xml
+SHA-256-Digest: 7rcEFywpI0luadrt0veZw5LFoY3+NkcfiP9YyTYEbZs=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/lib/ant-jdepend.jar
+SHA-256-Digest: ErvHZZmUiidRMSPHYUKydwB1keuplNL4L19vHqJAI1k=
+
+Name: TopazWorkbenchCLI.bat
+SHA-256-Digest: w24gq8KtF3umpMwTv++vlfBi2jcUlr7tDmYYr2PxHts=
+
+Name: plugins/com.compuware.frameworks.workbench_20.12.1.v20220810-1310_
+ 40/com/compuware/frameworks/workbench/handlers/FrontLineHandler.class
+SHA-256-Digest: c+UTFNjJAz9wOifqmVBncZCxHmjcPndcaqF3wZ1+46I=
+
+Name: plugins/org.apache.ant_1.10.3.v20180417-1627/etc/checkstyle/checks
+ tyle-frames-sortby-check.xsl
+SHA-256-Digest: T2w6z5pv5dEG1DQH9bsHc6uODqEfF0hv1t1QxsmuqgM=
+
+Name: features/com.compuware.unittest.eclipse.core.feature_20.12.1.v2022
+ 0810-1529_42/META-INF/COMPUWAR.SF
+SHA-256-Digest: AlXxlM442WO2Y63X+tuiL/tp4Zx1aHJ6lV1BG4pjZ1s=
+
+Name: features/com.compuware.ispw.cli.launcher.feature_20.12.1.v20220810
+ -1525_40/root/readme/license_apache.txt
+SHA-256-Digest: 98fXBXAR3uQvrzUAgssj+59B9iMasKivsQIcBJHN2x4=
+
+Name: plugins/com.compuware.frameworks.hostservices.client.ui.credential
+ s.smartcard_20.12.1.v20220810-1324_40.jar
+SHA-256-Digest: zN/82EIZpl47H3BQDY3zudnAOZGMAmkHybfG5OxkViU=
+
+Name: plugins/org.eclipse.emf.converter_2.9.0.v20180129-0903.jar
+SHA-256-Digest: jAj1eW8FpU9i0nL9h3qo9FVwtSk7uahKWlQMlg73X1g=
+
