@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.codecoverage.api.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1411_40"
+      provider-name="%providerName">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="com.compuware.frameworks.hostservices.common.feature" version="20.3.1" match="compatible"/>
+   </requires>
+
+   <plugin
+         id="com.compuware.codecoverage.api"
+         download-size="55"
+         install-size="100"
+         version="20.12.1.v20220810-1411_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.codecoverage.api.impl"
+         download-size="54"
+         install-size="104"
+         version="20.12.1.v20220810-1411_40"
+         unpack="false"/>
+
+   <plugin
+         id="com.compuware.codecoverage.commandset"
+         download-size="103"
+         install-size="202"
+         version="20.12.1.v20220810-1411_40"
+         unpack="false"/>
+
+</feature>

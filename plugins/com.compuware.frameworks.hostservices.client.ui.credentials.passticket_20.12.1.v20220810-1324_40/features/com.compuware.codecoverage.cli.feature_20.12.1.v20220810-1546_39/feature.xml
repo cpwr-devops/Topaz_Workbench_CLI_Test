@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.compuware.codecoverage.cli.feature"
+      label="%featureName"
+      version="20.12.1.v20220810-1546_39"
+      provider-name="%providerName">
+
+   <description url="http://www.compuware.com">
+      %description
+   </description>
+
+   <copyright url="">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <includes
+         id="com.compuware.codecoverage.api.feature"
+         version="20.12.1.v20220810-1411_40"/>
+
+   <plugin
+         id="com.compuware.codecoverage.cli"
+         download-size="47"
+         install-size="86"
+         version="20.12.1.v20220810-1546_39"
+         unpack="false"/>
+
+   <plugin
+         id="javax.annotation-api"
+         download-size="33"
+         install-size="75"
+         version="1.3.2"
+         unpack="false"/>
+
+</feature>
