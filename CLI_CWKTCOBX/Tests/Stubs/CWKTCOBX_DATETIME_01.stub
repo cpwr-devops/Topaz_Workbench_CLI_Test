@@ -1,0 +1,24 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<stub:stub xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="Tests/Stubs/CWKTCOBX_DATETIME_01.stub" nextCalltoken="10002" stubtype="DATETIME" target="" token="10000">
+  <stub:description>Created: Aug 11, 2022 6:28:15 PM</stub:description>
+  <stub:stubdata callToken="10001" dateTimeType="1" id="0" name="ACCEPT DATE">
+    <stub:interface>../Interfaces/CWKTCOBX_TODAYS_DATE.interface#Tests/Interfaces/CWKTCOBX_TODAYS_DATE.interface</stub:interface>
+    <stub:output listructure="../Structures/CWKTCOBX_TODAYS-DATE.listructure#Tests/Structures/CWKTCOBX_TODAYS-DATE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWKTCOBX_TODAYS-DATE.listructure#TODAYS_DATE" id="arg0.TODAYS_DATE">
+        <properties:properties>
+          <properties:property name="value" type="string">F2F2F0F8F1F1</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:checkconditions/>
+    <stub:dateTimeServiceList>
+      <stub:dateTimeService>
+        <stub:serviceName>CEELOCT</stub:serviceName>
+        <stub:serviceArg>00027383</stub:serviceArg>
+        <stub:serviceArg>4933B49B2A5F26E9</stub:serviceArg>
+        <stub:serviceArg>F2F0F2F2F0F8F1F1F0F8F5F8F1F3F9F4F7</stub:serviceArg>
+        <stub:serviceArg xsi:nil="true"/>
+      </stub:dateTimeService>
+    </stub:dateTimeServiceList>
+  </stub:stubdata>
+</stub:stub>

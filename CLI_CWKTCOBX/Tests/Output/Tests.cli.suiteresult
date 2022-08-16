@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XaSuiteResult resultType="SUCCESS" containsSimulation="false">
+  <Message>Total 1 test scenarios were successfully executed</Message>
+  <Started>20220811-18-54-42</Started>
+  <Ended>20220811-18-55-29</Ended>
+  <XaUnitResults>
+    <XaUnitResult path="../Scenarios/CWKTCOBX_Scenario.context" xaUnitPath="../Scenarios/CWKTCOBX_Scenario.context" resultPath="CWKTCOBX_Scenario.result" containsSimulation="false" resultType="SUCCESS" duration="46112" componentUnderTest="CWKTCOBX">
+      <CC />
+      <Message />
+      <DetailedMessage />
+    </XaUnitResult>
+  </XaUnitResults>
+</XaSuiteResult>
