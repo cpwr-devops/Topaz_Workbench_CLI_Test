@@ -1,4 +1,4 @@
-echo off
+echo "inside ExecuteCommand.Bat"
 
 set hciConnection="10.100.4.82:16196"
 set passticket=-passticket
