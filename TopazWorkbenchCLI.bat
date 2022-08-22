@@ -134,7 +134,7 @@ rem Execute the CLI
 :okJava
 if not defined WS_LOC goto noWorkspace
 echo Using customized WORKSPACE: %WS_LOC%
-rmdir /s /q "%WS_LOC%"
+rem rmdir /s /q "%WS_LOC%"
 mkdir "%WS_LOC%"
 mkdir "%WS_LOC%\configuration"
 copy %LOGBACK_LOC% "%WS_LOC%\configuration\logback.xml"
@@ -146,7 +146,7 @@ exit /b %errorlevel%
 
 :noWorkspace
 echo No WORKSPACE provided, using default WORKSPACE: %CLI_LOC%%DEFAULT_WORKSPACE%
-rmdir /s /q "%CLI_LOC%%DEFAULT_WORKSPACE%
+rem rmdir /s /q "%CLI_LOC%%DEFAULT_WORKSPACE%
 mkdir "%CLI_LOC%%DEFAULT_WORKSPACE%"
 mkdir "%CLI_LOC%%DEFAULT_WORKSPACE%\configuration"
 copy %LOGBACK_LOC% "%CLI_LOC%%DEFAULT_WORKSPACE%\configuration\logback.xml"
