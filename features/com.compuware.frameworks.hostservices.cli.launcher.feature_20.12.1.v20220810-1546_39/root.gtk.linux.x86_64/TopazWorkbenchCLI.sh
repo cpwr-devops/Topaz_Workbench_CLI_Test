@@ -124,8 +124,8 @@ if [ -z "$WS_LOC" ]; then
   -application ${APPLICATION}
 else
   echo "Using customized WORKSPACE: ${WS_LOC}"
- # rm -f -r "${WS_LOC}"
- # mkdir -p "${WS_LOC}/configuration"
+  rm -f -r "${WS_LOC}"
+  mkdir -p "${WS_LOC}/configuration"
   cp ${LOGBACK_LOC} "${WS_LOC}/configuration/logback.xml"
   ${_RUNJAVA} -jar "${CLI_LOC}/plugins/org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar" \
   -configuration "${CLI_LOC}/configuration" \
