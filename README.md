@@ -1,15 +1,19 @@
-Deprecated
+**Deprecated**
+
 This repository is being replaced with docker/build-push-action@v2 which includes significant changes and now uses Docker Buildx. It will not receive any future updates, please update your workflows.
 
 Upgrade notes with many usage examples have been added to handle most use cases.
 
-About
+**About**
+
 The core code base for Docker's GitHub Actions (https://github.com/features/actions). This code is used to build the docker/github-actions image that provides the functionality used by the published Docker GitHub Action:
 
 Build and push Docker images action
+
 github-actions runs a command line tool that shells out to docker to perform the various functions. Parameters are supplied to github-actions using environment variables in the form described by the GitHub Actions documentation. github-actions uses some of the default GitHub Actions environment variables as described in the individual commands section.
 
 Commands
+
 Commands can be called using docker run docker/github-actions {command}
 
 login
