@@ -1,4 +1,4 @@
-echo "inside ExecuteCommand.Bat"
+echo "inside ExecuteCommand.Bat for demo"
 
 set hciConnection="10.100.4.82:16196"
 set passticket=-passticket
