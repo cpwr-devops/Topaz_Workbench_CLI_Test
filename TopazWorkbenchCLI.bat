@@ -146,13 +146,13 @@ exit /b %errorlevel%
 
 :noWorkspace
 echo No WORKSPACE provided, using default WORKSPACE: %CLI_LOC%%DEFAULT_WORKSPACE%
-rmdir /s /q "%CLI_LOC%%DEFAULT_WORKSPACE%
-mkdir "%CLI_LOC%%DEFAULT_WORKSPACE%"
-mkdir "%CLI_LOC%%DEFAULT_WORKSPACE%\configuration"
-copy %LOGBACK_LOC% "%CLI_LOC%%DEFAULT_WORKSPACE%\configuration\logback.xml"
+rem rmdir /s /q "%CLI_LOC%%DEFAULT_WORKSPACE%
+rem mkdir "%CLI_LOC%%DEFAULT_WORKSPACE%"
+rem mkdir "%CLI_LOC%%DEFAULT_WORKSPACE%\configuration"
+rem copy %LOGBACK_LOC% "%CLI_LOC%%DEFAULT_WORKSPACE%\configuration\logback.xml"
 %_RUNJAVA% -jar "%CLI_LOC%plugins\org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar" ^
--configuration "%CLI_LOC%configuration" ^
--data "%CLI_LOC%%DEFAULT_WORKSPACE%" ^
+rem -configuration "%CLI_LOC%configuration" ^
+rem -data "%CLI_LOC%%DEFAULT_WORKSPACE%" ^
 -application %APPLICATION%
 exit /b %errorlevel%
 
