@@ -1,125 +1,46 @@
-**Deprecated**
+# Topaz For Total Test Scenario Execute
+The TTT-Scenario-Execute action allows your GitHub Actions workflow to trigger a workflow in your instance of BMC Compuware where you want to execute scenario based on you program. This action can be used in scenarios where your test scenario source is stored in Git, or when you want your GitHub Actions workflow to operate on source that is already stored in your local workspaces. <br>
+#Topaz for Total Test for demo !! <br>
 
-This repository is being replaced with docker/build-push-action@v2 which includes significant changes and now uses Docker Buildx. It will not receive any future updates, please update your workflows.
+#Controls when the workflow will  <br>
+run on: <br>
+  #Triggers the workflow on push or pull request events but only for the "main" branch <br>
+  push: <br>
+    &nbsp;&nbsp; branches: [ "master" ] <br>
+  pull_request: <br>
+    &nbsp;&nbsp; branches: [ "master" ] <br>
 
-Upgrade notes with many usage examples have been added to handle most use cases.
+  #Allows you to run this workflow manually from the Actions tab <br>
+  workflow_dispatch: <br>
 
-**About**
+#A workflow run is made up of one or more jobs that can run sequentially or in parallel <br>
+jobs: <br>
+  	#This workflow contains a single job called "build" <br>
+  	build: <br> 
+    	#The type of runner that the job will run on <br>
+    	runs-on: self-hosted <br>
+   		#runs-on: [self-hosted, ubuntu-latest] <br>	 
+   		#runs-on: windows-latest <br>
+    
+    #Steps represent a sequence of tasks that will be executed as part of the job <br>
+    steps: <br>
+      - run: git config --global core.longpaths true <br>
+      
+      #Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it <br>
+      - uses: actions/checkout@v2 <br>
+        with: <br>
+          clean: false <br>
+          path: ${{ github.workspace }} <br>
+          name: ${{ env.VERSION_MAJOR }}.${{ env.VERSION_MINOR }} <br>
 
-The core code base for Docker's GitHub Actions (https://github.com/features/actions). This code is used to build the docker/github-actions image that provides the functionality used by the published Docker GitHub Action:
-
-Build and push Docker images action
-
-github-actions runs a command line tool that shells out to docker to perform the various functions. Parameters are supplied to github-actions using environment variables in the form described by the GitHub Actions documentation. github-actions uses some of the default GitHub Actions environment variables as described in the individual commands section.
-
-Commands
-
-Commands can be called using docker run docker/github-actions {command}
-
-login
-Does a docker login using the supplied username and password. Will default to Docker Hub but can be supplied a server address to login to a third-party registry as required.
-
-inputs
-Environment Variable	Required	Description
-INPUT_USERNAME	yes	Username to login with
-INPUT_PASSWORD	yes	Password to login with
-INPUT_REGISTRY	no	Registry server to login to. Defaults to Docker Hub
-build
-Builds and tags a docker image.
-
-inputs
-Environment Variable	Required	Description
-INPUT_PATH	yes	Path to build from
-INPUT_DOCKERFILE	no	Path to Dockerfile
-INPUT_ADD_GIT_LABELS	no	Adds git labels (see below)
-INPUT_TARGET	no	Target build stage to build
-INPUT_BUILD_ARGS	no	Comma-delimited list of build-args
-INPUT_LABELS	no	Comma-delimited list of labels
-INPUT_CACHE_FROMS	no	Comma-delimited list of cache-froms
-See the tagging section for information on tag inputs
-
-Git labels
-When INPUT_ADD_GIT_LABELS is true labels are automatically added to the image that contain data about the current state of the git repo based on the standards set out in https://github.com/opencontainers/image-spec/blob/master/annotations.md.
-
-3 labels are supported:
-
-Label	Description
-org.opencontainers.image.created	Date and time on which the image was built (string, date-time as defined by RFC 3339).
-org.opencontainers.image.source	URL to this repository. E.g. https://github.com/myorg/myrepository
-org.opencontainers.image.revision	The full git sha of this commit.
-push
-Pushes a docker image.
-
-inputs
-See the tagging section for information on tag inputs
-
-build-push
-Builds, logs in, and pushes a docker image.
-
-inputs
-Same as the login and build commands with the addition of
-
-Environment Variable	Required	Description
-INPUT_PUSH	no	Will push the image if true
-Tagging
-Tagging of images can be set manually, left to github-actions to automate, or a combination of the both.
-
-There are 4 input variables used for tagging
-
-Environment Variable	Required	Description
-INPUT_REGISTRY	no	Registry server to tag with
-INPUT_REPOSITORY	yes	Repository to tag with
-INPUT_TAGS	no	Hard coded comma-delimited list of tags
-INPUT_TAG_WITH_REF	no	If true then github-actions will add tags depending on the git ref automatically as described below
-INPUT_TAG_WITH_SHA	no	If true then github-actions will add a tag in the form sha-{git-short-sha}
-If INPUT_REGISTRY is set then all tags are prefixed with {INPUT_REGISTRY}/{INPUT_REPOSITORY}:. If not then all tags are prefixed with {INPUT_REPOSITORY}:
-
-Auto tags depend on the git reference that the run is associated with. The reference is passed to github-actions using the GitHub actions GITHUB_REF enviroment variable.
-
-If the reference is refs/heads/{branch-name} then the tag {branch-name} is added. For the master branch the {branch-name} is replaced with latest.
-
-If the reference is refs/pull/{pr} then the tag pr-{pr} is added.
-
-If the reference is refs/tags/{tag-name} then the tag {tag-name} is added.
-
-Any / in the auto tags are replaced with -.
-
-For example if the environment variables are as follows:
-
-Variable	Value
-INPUT_REGISTRY	
-INPUT_REPOSITORY	myorg/myimage
-INPUT_TAGS	foo,bar
-INPUT_TAG_WITH_REF	true
-GITHUB_REF	refs/tags/v0.1
-Then the image will be tagged with:
-
-myorg/myimage:foo
-myorg/myimage:bar
-myorg/myimage:v0.1
-If the variables are as follows:
-
-Variable	Value
-INPUT_REGISTRY	myregistry
-INPUT_REPOSITORY	myorg/myimage
-INPUT_TAGS	foo,bar
-INPUT_TAG_WITH_REF	true
-INPUT_TAG_WITH_SHA	true
-GITHUB_REF	refs/heads/master
-GITHUB_SHA	c6df8c68eb71799f9c9ab4a4a4650d6aabd7e415
-Then the image will be tagged with:
-
-myregistry/myorg/myimage:foo
-myregistry/myorg/myimage:bar
-myregistry/myorg/myimage:lastest
-myregistry/myorg/myimage:sha-c6df8c6
-Building github-actions
-The code is written in Go v1.13 with go mod. It can be built locally using the Makefile or in docker using the docker.Makefile.
-
-make -f docker.Makefile will build the code, check the linting using golangci-lint, run the go tests, and build the image with a tag of docker/github-actions:latest
-
-make -f docker.Makefile image will build the github-actions image without a tag and without running test or lint checking
-
-make -f docker.Makefile cli will build the cli and copy it to ./bin/github-actions
-
-make -f docker.Makefile test will run the unit and e2e tests
+      #Runs a single command using the runners shell <br>
+      - name: Calling the CLI function <br>
+        run: .\ExecuteCommand.bat <br>
+        
+      #Runs a set of commands using the runners shell <br>
+      - name: Run a multi-line script <br>
+        run: | <br>
+          echo Add other actions to build, <br>
+          echo test, and deploy your project. <br>
+          
+          
