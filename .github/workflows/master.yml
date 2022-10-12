@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Topaz for Total Test for demo !!
+name: Topaz for Total Test for demo
 
 # Controls when the workflow will run
 on:
