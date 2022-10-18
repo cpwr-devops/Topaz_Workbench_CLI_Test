@@ -1,4 +1,4 @@
-name: 'TTT-Workbench-CLI-Execution'
+name: 'TTT-Local-Scenario Execution'
 description: 'Run a mainframe deploy using ISPW'
 branding:
   icon:  package
