@@ -1,6 +1,6 @@
 echo "inside ExecuteCommand.Bat for demo 11"
 
-set hciConnection="CW13.bmc.com:16196"
+set hciConnection=${{github.event.inputs.hciconnection}}
 set passticket=-passticket
 set testLocationPath="C:\actions-runner\_work\Topaz_Workbench_CLI_Test\Topaz_Workbench_CLI_Test\CLI_CWKTCOBX\Tests\"
 set configration="C:\actions-runner\_work\Topaz_Workbench_CLI_Test\Topaz_Workbench_CLI_Test\TotalTestConfiguration"
