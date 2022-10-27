@@ -27,15 +27,15 @@ on:
         default: "C:\\actions-runner\\_work\\Topaz_Workbench_CLI_Test\\Topaz_Workbench_CLI_Test\\TotalTestConfiguration"
         required: true
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:    
-    runs-on: windows-latest
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      - run: git config --global core.longpaths true
-      - name: Check HCI input value
-        run:  .\ExecuteCommand.bat
-            # - e ${{github.event.inputs.hciconnection}} ^ ${{github.event.inputs.passticket}} ^ -f ${{github.event.inputs.testLocationPath}} ^ -R -g TTTReport -G -v 6 -l CLI ^ -log DEBUG ^ -cfgdir ${{github.event.inputs.configration}}
+  # A workflow run is made up of one or more jobs that can run sequentially or in parallel
+  jobs:
+    # This workflow contains a single job called "build"
+    build:    
+      runs-on: windows-latest
+      # Steps represent a sequence of tasks that will be executed as part of the job
+      steps:
+        - run: git config --global core.longpaths true
+        - name: Check HCI input value
+          run: .\ExecuteCommand.bat
+              # - e ${{github.event.inputs.hciconnection}} ^ ${{github.event.inputs.passticket}} ^ -f ${{github.event.inputs.testLocationPath}} ^ -R -g TTTReport -G -v 6 -l CLI ^ -log DEBUG ^ -cfgdir ${{github.event.inputs.configration}}
      
