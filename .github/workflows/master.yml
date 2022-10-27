@@ -38,5 +38,5 @@ jobs:
       - name: Check HCI input value
         run: |
             echo The HCI name is ${{ github.event.inputs.hciconnection }}
-            ../TotalTestFTCLI.bat -e ${{github.event.inputs.hciconnection}} ^ ${{github.event.inputs.passticket}} ^ -f ${{github.event.inputs.testLocationPath}} ^ -R -g TTTReport -G -v 6 -l CLI ^ -log DEBUG ^ -cfgdir ${{github.event.inputs.configration}}
+            ..\TotalTestFTCLI.bat -e ${{github.event.inputs.hciconnection}} ^ ${{github.event.inputs.passticket}} ^ -f ${{github.event.inputs.testLocationPath}} ^ -R -g TTTReport -G -v 6 -l CLI ^ -log DEBUG ^ -cfgdir ${{github.event.inputs.configration}}
      
