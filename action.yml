@@ -19,5 +19,3 @@ inputs:
     required: true
 outputs:
   description: 'The output shuld be stored in testLocationPath which user need to provide'
-runs:	
-  using: 'call "%~dp0TotalTestFTCLI.bat" -e %hciConnection% ^ %passticket% ^ -f %testLocationPath% ^ -R -g TTTReport -G -v 6 -l CLI ^ -log DEBUG ^ -cfgdir %configration%'
