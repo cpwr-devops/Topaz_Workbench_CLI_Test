@@ -5,13 +5,13 @@ The TTT-Scenario-Execute action allows your GitHub Actions workflow to trigger a
 # Table of Contents
 
   * TTT-CLI-Local
-    * [Table of Contents](Table%20of%20Contents)
-    * [Usage](Usage)
-    * [Inputs](Inputs)
-    * [Outputs](Outputs)
-    * [Troubleshooting](Troubleshooting)
-    * [License summary](License%20summary)
-    * [Limitation](Limitation)
+    * [Table of Contents](https://github.com/akasati02/Topaz_Workbench_CLI_Test/#Table%20of%20Contents)
+    * [Usage](https://github.com/akasati02/Topaz_Workbench_CLI_Test/#Usage)
+    * [Inputs](https://github.com/akasati02/Topaz_Workbench_CLI_Test/#Inputs)
+    * [Outputs](https://github.com/akasati02/Topaz_Workbench_CLI_Test/#Outputs)
+    * [Troubleshooting](https://github.com/akasati02/Topaz_Workbench_CLI_Test/#Troubleshooting)
+    * [License summary](https://github.com/akasati02/Topaz_Workbench_CLI_Test/#License%20summary)
+    * [Limitation](https://github.com/akasati02/Topaz_Workbench_CLI_Test/#Limitation)
 
 # Usage
 
