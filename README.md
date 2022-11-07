@@ -5,13 +5,13 @@ The TTT-Scenario-Execute action allows your GitHub Actions workflow to trigger a
 # Table of Contents
 
   * TTT-CLI-Local
-    * Table of Contents
-    * Usage
-    * Inputs
-    * Outputs
-    * Troubleshooting
-    * License summary
-    * Limitation
+    * [Table of Contents](Table of Contents)
+    * [Usage](Usage)
+    * [Inputs](Inputs)
+    * [Outputs](Outputs)
+    * [Troubleshooting](Troubleshooting)
+    * [License summary](License summary)
+    * [Limitation](Limitation)
 
 # Usage
 
@@ -44,20 +44,26 @@ The TTT-Scenario-Execute action allows your GitHub Actions workflow to trigger a
  
 # Inputs
 
+
 | Input name | Required | Description |
-
-| --- | --- | ---  |
-
-| Host | Required  | Host |
-
-| port  | Required  | port |
+| --- | --- | --- |
+| hciconnection | Required  | HCI connection required to connect the system |
+| passticket  | Required  | passticket reuired to run the CLI |
+| testLocationPath | Required  | testLocationPath is your local path where you tes cases being executed |
+| configration  | Required  | configration is required for local testing |
 
 
 # Output
 
+Output will saved in testlocationpath in your local system.
+
 # Troubleshooting
 
+This action emits debug logs to help troubleshoot failure. To see the debug logs, set the input showEnv: true.
+
 # License summary
+
+This code is made available under the MIT license.
 
 # Limitation
 
