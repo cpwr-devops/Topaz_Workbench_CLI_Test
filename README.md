@@ -53,7 +53,7 @@ The TTT-Scenario-Execute action allows your GitHub Actions workflow to trigger a
 | configration  | Required  | configration is required for local testing |
 
 
-# Output
+# Outputs
 
 Output will saved in testlocationpath in your local system.
 
