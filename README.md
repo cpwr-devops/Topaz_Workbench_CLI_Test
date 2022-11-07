@@ -5,12 +5,12 @@ The TTT-Scenario-Execute action allows your GitHub Actions workflow to trigger a
 # Table of Contents
 
   * TTT-CLI-Local
-    * [Table of Contents](Table of Contents)
+    * [Table of Contents](Table%20of%20Contents)
     * [Usage](Usage)
     * [Inputs](Inputs)
     * [Outputs](Outputs)
     * [Troubleshooting](Troubleshooting)
-    * [License summary](License summary)
+    * [License summary](License%20summary)
     * [Limitation](Limitation)
 
 # Usage
