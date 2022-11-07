@@ -59,7 +59,7 @@ Output will saved in testlocationpath in your local system.
 
 # Troubleshooting
 
-This action emits debug logs to help troubleshoot failure. To see the debug logs, set the input showEnv: true.
+To enable debug logging in your GitHub actions workflow, see the guide [here](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/enabling-debug-logging).
 
 # License summary
 
