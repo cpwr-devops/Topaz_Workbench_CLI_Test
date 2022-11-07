@@ -3,7 +3,7 @@ description: 'Execute a scenario using the CLI'
 branding:
   icon:  upload-cloud
   color: orange
-author: 'BMC'
+  author: 'BMC'
 inputs:
   HCI Connection:
     description: 'The URL connect to HCI e.g. CW13.bmc.com:16196'
