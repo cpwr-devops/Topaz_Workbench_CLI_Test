@@ -1,54 +1,23 @@
-name: TTT-Local-Scenario Execution
-description: 'Run a mainframe deploy using ISPW'
+name: TTT-CLI-Local
+description: 'Execute a scenario using the CLI'
 branding:
-  icon:  package
+  icon:  upload-cloud
   color: orange
+author: 'BMC'
 inputs:
-  ces_url:
-    description: 'The URL to send requests to'
+  HCI Connection:
+    description: 'The URL connect to HCI e.g. CW13.bmc.com:16196'
     required: true
-  ces_token:
-    description: 'The token to use when connecting to ISPW through CES'
+  passticket:
+    description: 'passticket input from the use e.g passticket'
     required: true
-  srid:
-    description: 'The ID for the instance of ISPW to connect to'
+  testLocationPath:
+    description: 'testLocationPath where test scenario to be executed e.g. C:\\actions-runner\\_work\\Topaz_Workbench_CLI_Test\\Topaz_Workbench_CLI_Test\\CLI_CWKTCOBX\\Tests\\'
     required: true
-  runtime_configuration:
-    description: 'The runtime configuration used when connecting to ISPW'
-    required: false
-  assignment_id:
-    description: 'The container for which you intend to deploy tasks'
-    required: false
-  level:
-    description: 'The level that the tasks exist at in the assignment'
-    required: false
-  task_id:
-    description: 'The comma-separated list of task IDs for the tasks that need to be deployed'
-    required: false
-  deploy_automatically:
-    description: 'The request parameters for the deploy will come from JSON passed in this input. This option is only valid when used in combination with a Git to ISPW Integration step'
-    required: false
-  change_type: 
-    description: 'S for standard, I for incidental, or E for emergency. Default value of S'
+  configration:
+    description: 'The runtime configuration used when connecting to TTT'
     required: true
-    default: 'S'
-  execution_status:
-    description: 'I for immediate execution or at start date/time, H to create request in hold'
-    required: false
-    default: 'I'
-  deploy_environments:
-    description: 'Define specific environments to deploy. If you wish to deploy to only certain environments, you can list them here, separated by a space. The length of the field is limited to 255.'
-    required: false
-    default: 'false'
-  system:
-    description: 'Define a specific system to deploy'
-    required: false
-    default: 'false'
 outputs:
-  set_id:
-    description: 'The ID of the set that was used for processing'
-  url:
-    description: 'The URL that can be used to retrieve information about the set that was used for processing'
-runs:
-  using: 'node12'
-  main: 'dist/index.js'
+  description: 'The output shuld be stored in testLocationPath which user need to provide'
+runs:	
+  using: 'call "%~dp0TotalTestFTCLI.bat" -e %hciConnection% ^ %passticket% ^ -f %testLocationPath% ^ -R -g TTTReport -G -v 6 -l CLI ^ -log DEBUG ^ -cfgdir %configration%'
