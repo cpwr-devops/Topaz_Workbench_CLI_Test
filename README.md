@@ -44,6 +44,14 @@ The TTT-Scenario-Execute action allows your GitHub Actions workflow to trigger a
  
 # Inputs
 
+| Input name | Required | Description |
+
+| --- | --- | ---  |
+
+| Host | Required  | Host |
+
+| port  | Required  | port |
+
 
 # Output
 
