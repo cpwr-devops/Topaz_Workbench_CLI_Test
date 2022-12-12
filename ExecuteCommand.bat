@@ -10,4 +10,4 @@ rem call "%~dp0TotalTestFTCLI.bat" -e %hciConnection% ^ %passticket% ^ -f %testL
 
 rem call "%~dp0TotalTestFTCLI.bat" -data "C:\Users\aasati\git\compuware-topaz-for-total-test-plugin\work\workspace\Security_Vulnerability\TopazCliWkspc" -host cw13.bmc.com -port 16196 -u pinaka0 -p Fresp0rt -s "http://vw-dtw-xat-01.adprod.bmc.com:48231/totaltestapi/" -cesu pinaka0 -cesp Fresp0rt -f "C:\Users\aasati\Compuware\Workbench\workspace\CLI_CWKTCOBX\Tests\Scenarios" -R -G -v 6 -l jenkins -loglevel INFO
 
-call "%dp0TotalTestFTCLI.bat" -e "10.100.4.82:16196" ^ -passticket ^ -f "%dp0CLI_CWKTCOBX\Tests\Scenarios" ^ -R -g TTTReport -G -v 6 -l CLI ^ -log DEBUG ^ -cfgdir "%dp0TotalTestConfiguration"
+call "%~dp1TotalTestFTCLI.bat" -e "10.100.4.82:16196" ^ -passticket ^ -f "%~dp1CLI_CWKTCOBX\Tests\Scenarios" ^ -R -g TTTReport -G -v 6 -l CLI ^ -log DEBUG ^ -cfgdir "%~dp1TotalTestConfiguration"
